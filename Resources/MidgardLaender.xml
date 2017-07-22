@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+ <Laender>
+    <Land id="1">
+      <name>Alba</name>
+    </Land>
+    <Land id="2">
+      <name>Aran</name>
+    </Land>
+    <Land id="3">
+      <name>Buluga</name>
+    </Land>
+    <Land id="4">
+      <name>Chryseia</name>
+    </Land>
+    <Land id="5">
+      <name>Clanngadarn</name>
+    </Land>
+    <Land id="6">
+      <name>Erainn</name>
+    </Land>
+    <Land id="7">
+      <name>Eschar</name>
+    </Land>
+    <Land id="8">
+      <name>Fuardain</name>
+    </Land>
+    <Land id="9">
+      <name>Ikengabecken</name>
+    </Land>
+    <Land id="10">
+      <name>Kan-Thai-Pan</name>
+    </Land>
+    <Land id="11">
+      <name>Küstenstaaten</name>
+    </Land>
+    <Land id="12">
+      <name>Medjis</name>
+    </Land>
+    <Land id="13">
+      <name>Minangaphit</name>
+    </Land>
+    <Land id="14">
+      <name>Moravod</name>
+    </Land>
+    <Land id="15">
+      <name>Nahuatlan</name>
+    </Land>
+    <Land id="16">
+      <name>Rawindra</name>
+    </Land>
+    <Land id="17">
+      <name>Tegarische Steppe</name>
+    </Land>
+    <Land id="18">
+      <name>Urruti</name>
+    </Land>
+    <Land id="19">
+      <name>Valien</name>
+    </Land>
+    <Land id="20">
+      <name>Waeland</name>
+    </Land>
+    <Land id="21">
+      <name>Ywerddon</name>
+    </Land>
+  </Laender>

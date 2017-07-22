@@ -1,0 +1,86 @@
+<Zauberlieder>
+<Zauberlied id="1" name="Lied des Erinnerns" AP="2" Stufe="4" Reichweite="" Wirkungsziel="Geist" Wirkungsbereich="15m Uk" Wirkungsdauer="0">
+Mit dem Zauberlied Das Lied des Erinnerns kann der Barde seine Zuhörer dazu bringen sich an Vergessenes wieder zu erinnern. Auch werden Zauber wie Tierisches Handeln, Vertieren, Verzweiflung und Macht über Menschen durch das Zauberlied gebrochen, da das Opfer sich wieder an seine ursprünglichen Absichten erinnern kann. Es ist möglich sich an lange Vergessenes oder Details, die nur kurz gesehen oder gehört wurden, wieder zu erinnern. Auch dieses Zauberlied wirkt nicht bei Untoten.
+</Zauberlied>
+<Zauberlied id="2" name="Lied der Feier" AP="0" Stufe="1" Reichweite="" Wirkungsziel="Geist" Wirkungsbereich="30m Uk" Wirkungsdauer="30min">
+Mit dem Zauberlied Das Lied der Feier kann der Barde die Stimmung einer größeren Menschenmenge, etwa in einem Gasthaus, heben. Nach einiger Zeit wird aus einer gedrückten Laune eine Feierstimmung. Kleinere Missgeschicke sind dann schnell vergessen. Für dieses Lied ist kein magisches Instrument erforderlich, es wirkt nicht bei niederen Untoten.
+</Zauberlied>
+<Zauberlied id="3" name="Lied des Fesselns" AP="2" Stufe="1" Reichweite="" Wirkungsziel="Geist" Wirkungsbereich="30m Uk" Wirkungsdauer="1min">
+Mit dem Zauberlied Das Lied des Fesselns beeindruckt der Barde seine Zuhörer dermassen, dass sie andere Aktivitäten ruhen lassen und ihm ihre ungeteilte Aufmerksamkeit schenken. Störenfriede werden zur Ruhe ermahnt und gegebenenfalls ruhiggestellt. Auch dieses Zauberlied wirkt nicht bei Untoten.
+</Zauberlied>
+<Zauberlied id="4" name="Lied des Friedens" AP="2" Stufe="6" Reichweite="" Wirkungsziel="Geist" Wirkungsbereich="15m Uk" Wirkungsdauer="10min">
+Mit dem Zauberlied Das Lied des Friedens kann der Barde seine Zuhörer beruhigen und friedlich stimmen. Streiterein werden beendet und es kommt gar nicht erst zu Gewaltaten. Die Wirkung dieses Zauberlieds hält für mehrere Minuten an. Auch dieses Zauberlied wirkt nicht bei Untoten.
+</Zauberlied>
+<Zauberlied id="5" name="Lied des Grauens" AP="2" Stufe="4" Reichweite="" Wirkungsziel="Geist" Wirkungsbereich="200m Ke" Wirkungsdauer="1min">
+Mit dem Zauberlied Das Lied des Grauens kann der Barde die gleiche Wirkung hervorrufen wie mit dem Zauber Namenloses Grauen, jedoch hört die Wirkung mit dem Ende des Liedes sofort auf. Auch dieses Zauberlied wirkt nicht bei Untoten.
+</Zauberlied>
+<Zauberlied id="6" name="Lied der Liebe" AP="0" Stufe="4" Reichweite="15m" Wirkungsziel="Geist" Wirkungsbereich="1Ws" Wirkungsdauer="immer">
+Das Zauberlied Das Lied der Liebe muss der Barde seinem Opfer binnen einer Woche genau drei mal vorspielen. Wenn das Opfer freiwillig zuhört so verfällt es dem Barden wie unter dem Liebeszauber oder der Liebesrune. Auch dieses Zauberlied wirkt nicht gegen Untote.
+</Zauberlied>
+<Zauberlied id="7" name="Lied der Lockung" AP="2" Stufe="4" Reichweite="" Wirkungsziel="Geist" Wirkungsbereich="200m Ke" Wirkungsdauer="1min">
+Mit dem Zauberlied Das Lied der Lockung kann der Barde Wesen einer frei wählbaren Art, Altersgruppe und Geschlechts wie der Rattenfänger von Hameln anlocken. Solange der Barde das Lied spielt hören sie ihm gebannt zu und folgen ihm. Auch dieses Zauberlied wirkt nicht bei Untoten.
+</Zauberlied>
+<Zauberlied id="8" name="Lied der Ruhe" AP="2" Stufe="1" Reichweite="" Wirkungsziel="Geist" Wirkungsbereich="30m Uk" Wirkungsdauer="2h">
+Mit dem Zauberlied Das Lied der Ruhe kann der Barde Vögel und Säugetiere zähmen wie mit dem gleichnamigen Zauber. Jedoch wirkt es, wie die meisten Zauberlieder, nicht bei niederen Untoten.
+</Zauberlied>
+<Zauberlied id="9" name="Lied des Spottes" AP="2" Stufe="2" Reichweite="" Wirkungsziel="Geist" Wirkungsbereich="30m Uk" Wirkungsdauer="immer">
+Mit dem Zauberlied Das Lied des Spottes überzieht der Barde einen Lehensherrn oder eine hochgestellte Persönlichkeit in der Öffentlichkeit derartig mit Hohn und Spott, so dass sich die Gefolgschaft von der Person abwenden wird. Dieses von Herrschern gefürchtete Lied darf von Barden nur unter besonderen Umständen eingesetzt werden, etwa wenn einem Barden großes Unrecht angetan wurde. Dieses Zauberlied kann mit dem Loblied aufgehoben werden, jedoch wirkt es, wie die meisten Zauberlieder, nicht bei Untoten. Die Geizrune hat eine vergleichbare Wirkung.
+</Zauberlied>
+<Zauberlied id="10" name="Lied der Tanzlust" AP="2" Stufe="3" Reichweite="" Wirkungsziel="Geist" Wirkungsbereich="30m Uk" Wirkungsdauer="1min">
+Mit dem Zauberlied Das Lied der Tanzlust kann der Barde seine Zuhörer zwingen bis zur Bewustlosigkeit ekstatisch zu tanzen. Jedoch wirkt es, wie die meisten Zauberlieder, nicht bei niederen Untoten.
+</Zauberlied>
+<Zauberlied id="11" name="Lied der Tapferkeit" AP="0" Stufe="1" Reichweite="" Wirkungsziel="Geist" Wirkungsbereich="15m Uk" Wirkungsdauer="30min">
+Beim Zauberlied Das Lied der Tapferkeit spielt der Barde für einige Minuten überlieferte Heldenlieder aus seiner Heimat. Alle Zuhörer, die aus der gleichen Gegend Midgards stammen, gehen mutig und furchtlos in den Kampf. Wie die meisten Zauberlieder wirkt das Lied nicht bei niederen Untoten.
+</Zauberlied>
+<Zauberlied id="12" name="Lied der verborgenen Kraft" AP="2" Stufe="3" Reichweite="" Wirkungsziel="Körper" Wirkungsbereich="15m Uk" Wirkungsdauer="">
+Mit dem Zauberlied Das Lied der verborgenen Kraft lässt der Barde seine Zuhörer auf bisher ungenutzte Kraftreserven zugreifen. Die Zuhörer fühlen sich ausgeruht und erholt. Jedoch betreiben sie Raubbau an ihrem Körper und müssen sich nach einiger Zeit vollständig erholen, um wieder zu Kräften zu kommen.
+</Zauberlied>
+<Zauberlied id="13" name="Lied der Verführung" AP="2" Stufe="2" Reichweite="5m" Wirkungsziel="Geist" Wirkungsbereich="1Ws" Wirkungsdauer="6h">
+Beim Zauberlied Das Lied der Verführung spielt der Barde für einige Minuten sein Lied für die Person des Begehrens, die freiwillig der Darbietung lauschen muss. Die Wirkung des Zauberlieds gleicht dem Zauber Anziehen. Wie die meisten Zauberlieder wirkt das Lied nicht bei niederen Untoten.
+</Zauberlied>
+<Zauberlied id="14" name="Lied des Vergessens" AP="2" Stufe="4" Reichweite="" Wirkungsziel="Geist" Wirkungsbereich="15m Uk" Wirkungsdauer="immer">
+Mit dem Zauberlied Das Lied des Vergessens lässt der Barde seine Zuhörer des Geschehen der jüngsten Vergangenheit vergessen. Der Zeitraum hängt vom Grad des Barden sowie der Dauer des Zauberliedes ab. Der Gebrauch dieses sehr mächtigen Liedes wird von der Gemeinschaft der Barden streng überwacht. Es ist unter bestimmten Bedingungen sogar möglich die Wirkung eines Geas aufzuheben. Auch dieses Zauberlied wirkt nicht bei Untoten.
+</Zauberlied>
+<Zauberlied id="15" name="Lied der Verzweiflung" AP="2" Stufe="4" Reichweite="15m" Wirkungsziel="Geist" Wirkungsbereich="1Ws" Wirkungsdauer="30min">
+Mit dem Zauberlied Das Lied der Verzweiflung kann der Barde das zuhörende Wesen in eine bodenlose Depression und Verzweiflung stürzen, wie der gleichnamige Zauber. Auch dieses Zauberlied wirkt nicht bei Untoten.
+</Zauberlied>
+<Zauberlied id="16" name="Lied des Wagemuts" AP="2" Stufe="2" Reichweite="" Wirkungsziel="Geist" Wirkungsbereich="15m Uk" Wirkungsdauer="30min">
+Das Zauberlied Das Lied des Wagemuts wirkt wie der Zauber Wagemut auf alle Zuhörer, die aus dem gleichen Kulturkreis wie der Barde stammen. Auch dieses Zauberlied wirkt nicht bei Untoten.
+</Zauberlied>
+<Zauberlied id="17" name="Lied des Wahnsinn" AP="2" Stufe="5" Reichweite="" Wirkungsziel="Geist" Wirkungsbereich="30m Uk" Wirkungsdauer="immer">
+Das Zauberlied Das Lied des Wahnsinns wirkt wie der Zauber Wahnsinn auf alle Zuhörer, die dem Lied für mehrere Minuten zuhören. Auch dieses Zauberlied wirkt nicht bei Untoten.
+</Zauberlied>
+<Zauberlied id="18" name="Lied des Zorns" AP="2" Stufe="6" Reichweite="" Wirkungsziel="Geist" Wirkungsbereich="30m Uk" Wirkungsdauer="2min">
+Das Zauberlied Das Lied des Zorns lässt alle Zuhörer in eine rasende Wut verfallen. Sie greifen umstehende Personen blindlings an und zerstören auch Gegenstände in Reichweite. Der Barde ist vor der Raserei geschützt. Mit dem Zauber Besänftigen kann die Wirkung des Liedes aufgehoben werden. Auch dieses Zauberlied wirkt nicht bei Untoten.
+</Zauberlied>
+<Zauberlied id="19" name="Lied der Zwietracht" AP="2" Stufe="6" Reichweite="" Wirkungsziel="Geist" Wirkungsbereich="15m Uk" Wirkungsdauer="10min">
+Mit dem besonders starken Zauberlied Das Lied der Zwietracht säht der Barde unter seinen Zuhörern Unfrieden. Das Publikum bricht grundlos Streitereien vom Zaun und wird sich an gefallene Äusserungen und Beleidigungen noch lange erinnern, ohne sich der Verzauberung bewusst zu sein. Auch dieses Zauberlied wirkt nicht bei Untoten.
+</Zauberlied>
+<Zauberlied id="20" name="Loblied" AP="2" Reichweite="" Stufe="2" Wirkungsziel="Geist" Wirkungsbereich="30m Uk" Wirkungsdauer="1-3d">
+Mit dem Zauberlied Das Loblied besingt der Barde die Heldentaten und besonderen Eigenschaften einer hochgestellten Persönlichkeit. Durch diese magische Lobpreisung steigt das Ansehen der besungenen Person unter den Zuhörern für mehrere Tage dramatisch, jedoch vergeht der Effekt so schnell wie er gekommen ist. Die umschmeichelte Person ist wesentlich geneigter dem Barden ihr Ohr zu leihen. Auch dieses Zauberlied wirkt nicht bei Untoten, jedoch ist es möglich die Wirkung des Lied des Spottes aufzuheben.
+</Zauberlied>
+<Zauberlied id="21" name="Der einschläfernde Gesang" AP="2" Stufe="2" Reichweite="" Wirkungsziel="Geist" Wirkungsbereich="15m Uk" Wirkungsdauer="1min">
+Mit dem Zauberlied Der einschläfernde Gesang erzeugt der Barde bei allen Zuhörern ein sehr starkes Müdigkeitsgefühl. Nach mehreren Minuten wirkt der einschläfernde Gesang wie der Zauber Schlummer. Auch dieses Zauberlied wirkt nicht bei Untoten.
+</Zauberlied>
+<Zauberlied id="22" name="Der frohlockende Gesang" AP="2" Stufe="2" Reichweite="" Wirkungsziel="Geist" Wirkungsbereich="15m Uk" Wirkungsdauer="1min">
+Mit dem Zauberlied Der frohlockende Gesang lässt der Barde seine Zuhörer neuen Mut schöpfen, die Wirkung der Zauber Angst, Verzweiflung, Namenloses Grauen sowie des traurigen Gesangs kann aufgehoben werden. Zudem sind die Zuhörer nach dem Lied etwas erholter und ausgeruht. Auch dieses Zauberlied wirkt nicht bei Untoten.
+</Zauberlied>
+<Zauberlied id="23" name="Der große Seiltrick" AP="6" Stufe="5" Reichweite="" Wirkungsziel="Umgebung" Wirkungsbereich="1Ws" Wirkungsdauer="6h">
+Mit dem Zauberlied Der große Seiltrick, welches nur in Rawindra gelernt werden kann, lässt der Barde ein Seil zu einer Melodie sich magisch aufrichten. Am oberen Ende des Seils entsteht eine Verbindung zu einer Weltenblase, eine sehr kleine Parallelwelt, in der sich bis zu eine Person aufhalten kann. Diese Weltenblase kann vom Barden als Versteck oder zum Aufbewahren von Gegenständen genutzt werden. Der Nachteil dieses Zauberliedes ist, dass in der Weltenblase gelegentlich Dämonen auftauchen.
+</Zauberlied>
+<Zauberlied id="24" name="Der kleine Seiltrick" AP="4" Stufe="4" Reichweite="500m" Wirkungsziel="Umgebung" Wirkungsbereich="1Ws" Wirkungsdauer="5min">
+Mit dem Zauberlied Der kleine Seiltrick, welches nur in Rawindra gelernt werden kann, lässt der Barde ein Seil zu einer Melodie sich magisch aufrichten. Das Seil tanzt mehrere Minuten zu den Klängen der Flöte, danach kann man am Seil nach oben Klettern und wird, oben angekommen, an ein vorher bestimmtes Ziel versetzt.
+</Zauberlied>
+<Zauberlied id="25" name="Der traurige Gesang" AP="2" Stufe="2" Reichweite="" Wirkungsziel="Geist" Wirkungsbereich="15m Uk" Wirkungsdauer="1min">
+Mit dem Zauberlied Der traurige Gesang versetzt der Barde seine Zuhörer in eine ausserordentlich traurige Stimmung. Für die Wirkungsdauer gelten die gleichen Auswirkungen wie beim Zauber Angst, die Zuhörer sind sehr zurückhaltend und greifen den Barden nicht an. Auch dieses Zauberlied wirkt nicht bei Untoten.
+</Zauberlied>
+<Zauberlied id="26" name="Die Hymne der Ordnung" AP="2" Stufe="3" Reichweite="" Wirkungsziel="Umgebung" Wirkungsbereich="15m Uk" Wirkungsdauer="1min">
+Mit dem Zauberlied Die Hymne der Ordnung beeinflusst der Barde das alles durchdringende Weltenlied. In Folge dessen kann im Wirkungsbereich keine schwarze Magie gewirkt werden, ähnlich wie beim Zauber Goldene Bannsphäre. Auch mittels schwarzer Magie belebte Wesen wie Zombies oder Gegenstände können nicht in den Bereich eindringen.
+</Zauberlied>
+<Zauberlied id="27" name="Die Klänge der Genesung" AP="2" Stufe="3" Reichweite="" Wirkungsziel="Körper" Wirkungsbereich="15m Uk" Wirkungsdauer="0">
+Mit dem Zauberlied Die Klänge der Genesung beschleunigt der Barde den natürlichen Heilungsprozess bei seinen Zuhörern auf die dreifache Geschwindigkeit, wenn er das Lied mindestens drei mal täglich spielt. Um den heilenden Effekt ausnutzen zu können, dürfen die Zuhörer an diesem Tag in keinerlei Kampfhandlung verwickelt werden, dürfen sich nicht anstrengen und müssen sich komplett ausruhen. Dieses Zauberlied wirkt nicht bei Geisterwesen und Dämonen.
+</Zauberlied>
+<Zauberlied id="28" name="Die überzeugende Stimme" AP="2" Stufe="3" Reichweite="15m" Wirkungsziel="Geist" Wirkungsbereich="1Ws" Wirkungsdauer="2min">
+Mit der überzeugenden Stimme spricht der Barde mit einer besonderen Intonation und Spechrythmus und kann auf diese Weise auf seine Zuhörer besonders überzeugend wirken. Ähnlich wie bei dem Zauber Beeinflussen sind die Zuhörer bereit auf Vorschläge des Barden einzugehen, merken bei einer erfolgreichen Resistenz jedoch nichts von der magischen Beeinflussung. Dieses Zauberlied wirkt nicht bei niederen Untoten.
+</Zauberlied>
+</Zauberlieder>

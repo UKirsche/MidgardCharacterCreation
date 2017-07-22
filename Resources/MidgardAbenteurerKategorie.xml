@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AbenteurerKategorien>
+  <typus id="1">Zauberer</typus>
+  <typus id="2">Kämpfer</typus>
+  <typus id="3">Zauberkundiger Kämpfer</typus>
+</AbenteurerKategorien>

@@ -1,0 +1,299 @@
+<Fertigkeiten>
+  <!-- Fach-->
+  <Fachkenntnis id="1" name="Abrichten" Kat="Sozial" LE="pA:61">
+    Abrichten ist die Kunst ein Tier abzurichten. Domestizierte oder wilde Tiere können auf einfache Befehle dressiert werden, allerdings dauert es lange bevor das Tier den geforderten Befehl beherrscht und fehlerfrei ausführt. Meist werden Tiere als Arbeitshilfe abgerichtet, zum Beispiel Elefanten um schwere Gegenstände zu heben und zu transportieren. Es können die meisten Tiere, mehr oder weniger, dressiert werden.
+  </Fachkenntnis>
+  <Fachkenntnis id="2" name="Akrobatik" Kat="Bewegung" LE="Gw:61">
+	Akrobatik ist die Fertigkeit, die einer Person ermöglicht Handstand oder Saltos zu machen. Bei Gauklern eine durchaus effektive Fertigkeit. Der Charakter vermag aber auch Stürze und Sprünge, beabsichtigt oder nicht, zu bewältigen, die bei anderen zu Verletzungen führen würden.
+Außerdem kann man sich mittels Akrobatik ohne Nachteile aus dem Kontrollbereich eines Gegners entfernen.
+  </Fachkenntnis>
+  <Fachkenntnis id="3" name="Athletik" Kat="Bewegung" LE="St:31" NE="Ko:31">
+    Die Fertigkeit Athletik bezeichnet ein längerfristiges, meist anstrengendes Krafttraining bei dem die Muskulatur aufgebaut wird. Die Person verbessert durch ihren athletischen Körperbau ihr Aussehen und kann durch das (regelmäßige) Training schwerere Gegenstände schieben und stemmen als Personen vergleichbarer Statur.
+  </Fachkenntnis>
+  <Fachkenntnis id="4" name="Balancieren" Kat="Bewegung" LE="Gw:61">
+	Mit der Fertigkeit Balancieren kann die Person schwierige Wege, die ein gutes Gleichgewicht erfordern, einfacher bestreiten als eine andere Person. Dies umfaßt z.B. das Überqueren eines Flußes auf einem glitschigen Baumstamm (Waldläufer), das Laufen über ein schräges Dach in der Nacht (Assassine) oder das Balancieren über ein Seil bei einer Vorstellung am Hofe (Gaukler).
+  </Fachkenntnis>
+  <Fachkenntnis id="5" name="Ballista bedienen" Kat="Kampfe" LE="Gs:61" NE="In:21">
+	Ballista sind massive Geschütze, die einen massiven Spieß von etwa 1.5m Länge oder einen Stein mit großer
+Wucht in gerader Linie schleudern. Ballisten werden gegen größere Objekte, nicht gegen Menschen angewendet. Achtung: Rechnen bringt Vorteil bei Punktbeschuss.
+  </Fachkenntnis>
+  <Fachkenntnis id="6" name="Baukunde" Kat="Entdecken" LE="In:31" NE="Sehen:6">
+	Erlaubt das Feststellen der Stabilität von natürlich entstandenen oder erbauten Konstrukten.
+  </Fachkenntnis>
+  <Fachkenntnis id="7" name="Beidhändiger Kampf" Kat="Kampf" LE="Gw:61">
+	Beidhändiger Kampf beschreibt die Fertigkeit, zwei einhändige Nahkampfwaffen aus den Gruppen der Einhandschwertern, Stichwaffen oder Einhandschlagwaffen im Kampf zu benutzen. Davon ausgenommen sind Anderthalbhänder und Schlachtbeile. Auch zählt das Kämpfen mit Parierwaffen oder Buckler nicht dazu.
+Die Person die beidhändigen Kampf beherrscht, kann mit ihren zwei Waffen (und damit auch zwei Angriffen) eine oder zwei Personen in einer Runde angreifen. Außerdem besteht die Möglichkeit, beide Waffen in einen Kombinationsangriff direkt hintereinander auf die selbe Stelle zusammenzufassen. 
+Bei dieser Kampftechnik wird der persönliche Angriffsbonus nicht hinzu gezählt.
+ </Fachkenntnis>
+  <Fachkenntnis id="8" name="Beredsamkeit" Kat="Sozial" LE="pA:61" NE="In:61">
+Mit der Fertigkeit Beredsamkeit kann eine Person ihr Gegenüber vom eigenen Standpunkt überzeugen oder zu einer Handlung überreden. Bei Ansprachen vor vielen Menschen kann man zum Beispiel sein Publikum zu einer Revolution anstacheln oder sie auffordern, ihre Waffen nieder zu legen. Mit der Fertigkeit Menschenkenntnis kann man den Schönredner entlarven, was auch weniger schöne Folgen nach sich ziehen kann.
+Beredsamkeit dient auch zum Erzählen. Der Erzähler kann eine oder mehrere Personen mit einer guten Geschichte in seinen Bann ziehen. Mit zusätzlichen Fertigkeiten wie Zauber- oder Landeskunde kann er seine Geschichten noch weiter ausbauen und an die jeweiligen Zuhörer anpassen. Dichter aus Eschar müssen diese Fertigkeit gut genug beherrschen um Zauberoden wirken zu können.
+  </Fachkenntnis>
+  <Fachkenntnis id="9" name="Beschatten" Kat="Sozial" LE="Gw:61" NE="pA:81-">
+Beschatten kann man eine andere Person im Straßengewirr der Stadt. Unauffällige Kleidung und Verhalten sind Voraussetzung für die erolfgreiche Anwundung dieser Fertigkeit. Abenteurer mit zu hoher pA können niemanden beschatten, da sie nicht in einer Menschemenger untertauchen können, sondern überall auffallen.
+  </Fachkenntnis>
+  <Fachkenntnis id="10" name="Bogenkampf zu Pferd" Kat="Bewegung" LE="Gs:31" Dep="52">
+Vom Pferderücken aus können nur Abenteurer mit dem Bogen kämpfen, die vorher Reiten gelernt haben.	
+  </Fachkenntnis>
+  <Fachkenntnis id="11" name="Dichten" Kat="Wissen" LE="In:61">
+Der Abenteurer kann mit dieser Fertigkeit aus dem Stehgreif Texte in der landesüblichen Vers- oder Reimform abfassen. In Waeland wäre das der Stabreim, in Alba und Erainn der Endreim, in Chryseia die Wiederholung eines Sprachrythmus usw.
+  </Fachkenntnis>
+  <Fachkenntnis id="12" name="Erste Hilfe" Kat="Fingerfertigkeit" LE="Gs:31" NE="In:31">
+Mit Erster Hilfe kann man mit Salben, Verbänden und Heilkräutern Wunden verbinden (dadurch Blutungen stoppen) und Brüche schienen, auch können vor dem Ertrinken gerettete versorgt werden. Hat die Person zusätzlich die Fertigkeit Heilkunde, kann sie den Verletzen noch zuverlässiger behandeln. Von Menschen können nur Menschen oder menschenähnliche Rassen versorgt werden; will man Tiere mit Erster Hilfe versorgen, sollte man die Fertigkeit Tierkunde besitzen.
+  </Fachkenntnis>
+  <Fachkenntnis id="13" name="Erzählen" Kat="Wissen" LE="In:31" NE="pA:31">
+Der Erzähler ist in der Lage, eine Geschichte spannend zu erzählen.
+  </Fachkenntnis>
+  <Fachkenntnis id="14" name="Fälschen" Kat="Fingerfertigkeit"  LE="Gs:61">
+Mit der Fertigkeit Fälschen können Dokumente, Siegel und Unterschriften gefälscht werden. Eine professionelle Ausrüstung erleichtert dem Fälscher die Arbeit und kann zu einem täuschend echten Ergebnis führen. Schlechte, unprofessionelle Ausrüstung wird eher zu Strafen führen
+  </Fachkenntnis>
+  <Fachkenntnis id="15" name="Fallen entdecken" Kat="Entdecken" LE="In:61">
+Mit der Fertigkeit Fallen entdecken kann man alle Fallen (wie sie in Gebäuden verwendet werden), die mit Fallenmechanik konstruiert worden sind, entdecken. Man hat einen geschulten Blick für die Auslösemechanismen und kann eventuell auch die Wirkung der Falle erahnen, wenn es genügend Hinweise darauf gibt. Die Fertigkeit verleiht auch ein besonderes Gespür für die Stabilität eines Bauwerkes. Auch kann man mit ihr erkennen, ob ein Bauwerk instabil ist oder ob es eine bestimmte Last noch tragen kann.
+  </Fachkenntnis>
+  <Fachkenntnis id="16" name="Fallenmechanik" Kat="Fingerfertigkeit" LE="Gs:61" Dep="15">
+Mit der Fertigkeit Fallenmechanik kann man (in Gebäuden) mechanisch funktionierende Fallen bauen und entschärfen. Eine Entschärfung dauert durchschnittlich zehn Minuten und es besteht die Gefahr, dass die Falle ausgelöst wird (Kritischer Fehler).
+  </Fachkenntnis>
+  <Fachkenntnis id="17" name="Fallenstellen" Kat="Fingerfertigkeit" LE="Gs:31" >
+Der Abenteurer kennt sich mit getarnten Gruben, Schlingen und anderen Fallen aus, mit denen man in freier Natur Wild fangen kann. Er kann selbst solche Fallen stellen, tarnen und mit Ködern bestücken, wobei sich der Zeitaufwand nach der Art der Falle richtet. Das Ausheben einer Grube dauert mehrere Stunden oder gar Tage.
+  </Fachkenntnis>
+  <Fachkenntnis id="18" name="Fangen" LE="Gs:31">
+Der Abenteurer kann Gegenstände, die in höchstens 1m Abstand vor ihm vorbei fliegen, fangen. Dabei kann es sich um einen Schlüssel handeln, den ihm ein Gefährte zuwirft, um zufällig in Reichweite vorbeifliegende Golddukaten, die ein Fürst vom Balkon pfeffert o.Ä.
+  </Fachkenntnis>
+  <Fachkenntnis id="19" name="Fechten" Kat="Kampf" LE="Gs:51" NE="St:11">
+Beim Fechten gelingt es dem Abenteurer, durch Körperhaltung und Stellung dem Gegner immer die Spitze seines Degens entgegen zu halten. Auf diese Weise hat er immer mehrere Möglichkeiten zuzustechen. Die Fechtkunst ist nur in den Küstenstaaten bekannt. Ein Abenteurer benutzt zum Fechten ein Rapier, das er mit mind. demselben EW wie Fechten beherrschen muss. In der anderen Hand kann er einen Parierdolch, einen Buckler oder einen kleinen Schild führen. Zu Beginn jeder Runde muß der Abenteurer sich entscheiden, ob er zusätzlich zu seinem normaen Angriff einen zweiten Angriff oder eine aktive Parade mit der Waffe ausführen will.
+ </Fachkenntnis>
+ <Fachkenntnis id="20" name="Fechten tevarrischer Stil" Kat="Kampf" LE="Gs:51" NE="St:11">
+In jüngerer Zeit ist in den Ländern der Küstenstaaten und Valians die Fertigkeit des Fechtens entstanden. Mit einem Rapier oder einer Fuchtel wendet der Kämpfer seinem Gegner stets die Spitze seiner Waffe zu und erhält damit die Möglichkeit eines zusätzlichen Angriffs oder einer Parade in jeder Kampfrunde. Als Verteidigungswaffe kann zusätzlich ein Parierdolch oder ein Buckler geführt werden.
+Ein eigener Stil hat sich in Tevarra entwickelt, Fechten nach tevarrischem Stil. Bei diesem Stil wehrt der Kämpfer gegnerische Angriffe mit dem Rapier und seiner Verteidigungswaffe gleichzeitig ab.
+  </Fachkenntnis>
+  <Fachkenntnis id="21" name="Gassenwissen" Kat="Sozial" LE="In:61" NE="pA:31">
+Die Fertigkeit Gassenwissen verschafft dem Abenteurer ein umfangreiches Wissen über die Städte in denen er sich aufhält. Er weiß um Unterkünfte, die seinem Geldbeutel angemessen sind, um die Viertel der Stadt, die man meiden oder aufsuchen sollte, und die Gepflogenheiten (Trinkgeld, Verhalten) sind ihm bekannt. Diese Fertigkeit lässt durch geschicktes Erfragen erkennen, ob eine Person bestechlich ist, also ähnlich wie bei Menschenkenntnis, allerdings kann er mit Gassenwissen erkennen, wieviel er ungefähr springen lassen muss, um die gewünschten Informationen oder Dienste zu erhalten.Gassenwissen erlaubt in Städten und Dörfern außerdem, Personen zu beschatten. Unauffälliges Verhalten, dezente Kleidung und die Chance sich zu verstecken sind nötig, um eine Person erfolgreich zu beschatten. Das Verfolgen von Personen in freier Natur ist mit den Fertigkeiten Tarnen und Spurenlesen möglich.
+  </Fachkenntnis>
+  <Fachkenntnis id="22" name="Gaukeln" Kat="Fingerfertigkeit" LE="Gs:61">
+Die Person, die Gaukeln beherrscht, kann Kunststücke, wie zum Beispiel Feuerspucken, Jonglieren oder Schwertschlucken vorführen und so ihr Publikum unterhalten. Mit der Fertigkeit lassen sich sowohl kleinere Gegenstände wie Bälle, Birnen oder Wurfdolche jonglieren. Man kann auch gewagtere Balancekunststücke vorführen, aber erst wenn man sehr gut ist, kann man sich zu den Schwertschluckern zählen, mit brennenden Fackeln und Flammen agieren oder gar Feuer schlucken.
+Durch diese Fertigkeit kann man sich so auch ein Essen oder eine Unterkunft erarbeiten. Die Fertigkeit befähigt den Abenteurer außerdem dazu, kleinere Gegenstände gezielt zu werfen. Das kann zwar fast jeder, doch mit dieser Fertigkeit steigern sich die Aussichten auf einen guten Wurf. Gaukeln kommt auch zum Einsatz, wenn man mit einer Wurfwaffe wirft, die man nicht beherrscht. (Dem Opfer steht eine Abwehr zu.) Wirft man jemandem einen Gegenstand zu, kann er diesen mit der Fertigkeit Gaukeln auch auffangen.
+  </Fachkenntnis>
+  <Fachkenntnis id="23" name="Geheimmechanismen öffnen" Kat="Entdeckung" LE="In:61" >
+Mit dieser Fertigkeit lassen sich Geheimtüren und Geheimfächer öffnen, von deren Existenz der Abenteurer weiß. Er hat vorher erfolgreich unter Einsatz von Suchen nachen ihnen gefandet, oder jemand hat ihm von der geheimen Vorrichtung und ihrerer Position erzählt.
+  </Fachkenntnis>
+  <Fachkenntnis id="24" name="Geheimzeichen" Kat="Wissen" LE="In:21" >
+Geheimzeichen dienen dazu, Mitgliedern einer verschworenen Geimenschaft Informationen zu übermitteln, die nicht für normale Menschen gedacht sind. Am verbreitetsten und für Abenteurer nützlichsten sind die Zinken der Bettler und Diebe, die unauffällig an Häusern oder Stadttoren Auskunft über Eigenheiten der Bewohner geben.
+  </Fachkenntnis>
+  <Fachkenntnis id="25" name="Geländelauf" Kat="Bewegung" LE="Gw:31" >
+Mit der Fertigkeit Geländelauf kann sich eine Person, anstatt wie üblich mit der halben Bewegungsweite, mit der vollen Bewegungsweite, über einen mit Hindernissen gespickten Boden, bewegen. Hierbei kann es sich um dichtbewachsenen Waldboden handeln, aber auch um einen vollen Marktplatz oder ein Gasthaus.
+Geländelauf erlaubt es einem Abenteurer außerdem, weit oder hoch zu springen.
+  </Fachkenntnis>
+  <Fachkenntnis id="26" name="Geschäftstüchtigkeit" Kat="Sozial" LE="In:31" >
+Geschäftstüchtigkeit gibt einem Abenteurer Kenntnisse des Handelswesens und der Mathematik, die ihn in die Lage versetzen, Werte von Gütern zu schätzen, sowie Preise auszufeilschen und so für ihn bessere Kauf- und Verkaufspreise zu erzielen. Sie dient auch, komplizierte wirtschaftliche Berechnungen anzustellen, wie die Buchhaltung größerer Betriebe.
+  </Fachkenntnis>
+  <Fachkenntnis id="27" name="Giftmischen" Kat="Wissen" LE="In:61" NE="Gs:31">
+Verschiedene Formen von Giften werden im Abschnitt Vergiftungen beschrieben. Ein Giftmischer kann selbst Gifte aus Pflanzen und Tieren gewinnen und andere Gifte aus verschiedenen Zutaten mischen, wenn er die nötige Zeit und und Ausrüstung hat. Allerdings muss er mit schwerwiegenden Folgen rechnen, wenn er dabei entdeckt wird, da die Verwendung von Gift in fast allen Kulturen Midgards verpönt ist. Das Studium der Gifte wird allerdings akzeptiert, da die Kenntnisse ja auch zum Mischen von Gegengiften und zur Behandlung von Vergiftungen benutzt werden können.
+  </Fachkenntnis>
+  <Fachkenntnis id="28" name="Glücksspiel" Kat="Fingerfertigkeit" LE="In:61" >
+Der Abenteurer kann beim Würfen, bei anderen Glücksspielen und bei überwiegend auf Glück beruhenden Kartenspielen die Gewinnchanchen zu seinen Gunsten manipulieren.
+  </Fachkenntnis>
+  <Fachkenntnis id="29" name="Heilkunde" Kat="Wissen" LE="In:61" Dep="12">
+Heilkunde ist die Fähigkeit Krankheiten auf nicht magischem Wege zu erkennen und zu heilen. Um Heilkunde lernen zu können, muss man bereits die Fertigkeit Erste Hilfe beherrschen. Heilkunde beinhaltet die Kenntnisse des menschlichen (und/oder menschenähnlichen) Körpers, im Rahmen des Wissenstandes der Welt Midgard. Der Heilkundige kennt die meisten bekannten Krankheiten seiner Heimat. Er kennt ihre Symptome und die zur Verfügung stehenden Behandlungsmethoden.
+  </Fachkenntnis>
+  <Fachkenntnis id="30" name="Himmelskunde" LE="In:21" NE="Sehen:6">
+Der Abenteurer kann angesichts des Sternenhimmels die Richtung Norden und die ungefähre Zeit bis zum Sonnenaufgang bestimmen. Tagsüber kann er Informationen über die Jahreszeit und die Lage des Ortes relativ zu seiner Heimat nutzen und aus der Höhe der Sonne über dem Horizont ungefähr die Uhrzeit und die Richtung Norden ablesen.
+  </Fachkenntnis>
+  <Fachkenntnis id="31" name="Kampf in Dunkelheit" LE="Gw:61" NE="Hören:8">
+In völliger Dunkelheit erhalten Nahkämpfer einen Abzug von -6 auf ihren EW:Angriff. Schießen könen sie überhaupt nur, wenn ihnen ein EW:Hören gelingt und sie so eine ungefähre Vorstellung om Standort ihres Gegners haben.
+  </Fachkenntnis>
+  <Fachkenntnis id="32" name="Kampf in Schlachtreihe" Kat="Kampf" LE="Gs:1" >
+Ein Schlachtreihe ist eine dichte Formation von Kämpfern, die sich gegenseitig unterstützen und decken. Sie müssen alle gleichartig bewaffnet sein und zwar alle mit Stoßspeer und großem Schild, alle mit Lanze, alle mit einer stechend eingesetzten Stangenwaffe oder alle mit einer einhändigen Hiebwaffe.
+  </Fachkenntnis>
+  <Fachkenntnis id="33" name="Kampf in Vollrüstung" Kat="Bewegung" LE="St:61" >
+Der Abenteurer, der Kampf in Vollrüstung beherrscht, hat ein jahrelanges Training hinter sich, das es ihm ermgölicht, in einer schweren Voll- oder Ritterüstung ohne Nachteil zu kämpfen.
+  </Fachkenntnis>
+  <Fachkenntnis id="34" name="Kampf vom Streitwagen" LE="Gw:21" >
+Ohne Ausbildung erhalten Charaktere -4 auf ihren EW:Angriff, wenn sie von einem fahrenden Wagen aus angreifen. Gedanken- und Wortzauber sind jederzeit möglich. Der Einsatz von Gestenzaubern wie auch von Schilden und vielen anderen Waffenarten ist allerdings ausgeschlossen, da man sich während der Fahrt stets mit mind. 1 Hand festhalten muss.
+  </Fachkenntnis>
+  <Fachkenntnis id="35" name="Kampf zu Pferd" Kat="Bewegung" LE="Gw:21" Dep="52">
+Voraussetzung ist, dass der Abenteurer reiten kann.
+  </Fachkenntnis>
+  <Fachkenntnis id="36" name="Kampftaktik" Kat="Sozial" LE="pA:61" NE="In:31" >
+Kampftaktik ist die Kunst, eine Gruppe von Abenteurern oder eine mititärische Einheit geschickt im Kampf einzusetzen. Der so geschulte Abenteurer hat einen geübten Blick für Konfliktsituationen, durchschaut im Kampfgetümmel leichter gegnerische Absichten und kann für die eigene Partei einen Vorteil herausschlagen.
+  </Fachkenntnis>
+  <Fachkenntnis id="37" name="Katapult bedienen" LE="Gs:31" NE="In:31" >
+Unter dem Begriff Katapult werden alle Belagerungsmaschien zusammgenfaßt, die Geschosse in einer ballistischen Kurve schleudern. Dazu gehören der eigentliche Katpult, der Onager, bei dem die Geschosse in einer Schleuder liegen, sowie der Tribock, bei dem ein ein enormes Gegengewicht die Kraft für den Wurf liefert.
+  </Fachkenntnis>
+  <Fachkenntnis id="38" name="Klettern" Kat="Bewegung" LE="St:31" NE="Gw:61" >
+Unter Klettern versteht man die Fertigkeit eines Abenteurers ein Seil, einen Baum, eine Mauer oder eine steile Felswand zu besteigen. Die Schwierigkeit und Geschwindigkeit des Kletterers wird im wesentlichen durch die Anzahl der Haltepunkte, die Neigung sowie die Feuchtigkeit des Hindernisses bestimmt. Eine sehr glatte, überhängende und feuchte Wand erklettert sich wesentlich schwieriger als ein Seil mit Knoten. Kletterer könne sich durch das Anbringen von Haken mit einem Seil sichern. Auch für längere Klettertouren im Gebirge wird diese Fertigkeit eingesetzt.
+  </Fachkenntnis>
+  <Fachkenntnis id="39" name="Kräuterkunde" Kat="Wissen" LE="In:61" >
+Ein Kräuterkundiger Abenteurer kennt sich mit Zauber- und Heilmitteln und mit Drogen aus, die aus Pflanzen hergestellt werden. Er besitzt ein umfangreiches Wissen, auf welche Weise Pflanzenteile zubereitet werden müssen, um bestimmte Effekte zu erzielen. Ist eine Person krank oder vergiftet, so kann der Kräuterkundige oft ein Heilmittel empfehlen, wenn ihm jemand sagen kann, um welche Krankheit es sich handelt. Selbst kann er dies nicht herausfinden, wenn er nicht auch Heilkunde oder Giftmischen beherrscht. Ohne Kenntnis der genauen Ursache eines Leidens kann er nur Mittel nennen, die die offensichtlichen Symptome lindern. Sie machen Schmerzen erträglicher, erzeugen einen Rauschzustand, schläfern ein oder stellen ruhig, haben jedoch höchsten zufällig einen heilsamen Effekt.
+  </Fachkenntnis>
+  <Fachkenntnis id="40" name="Landeskunde" Kat="Wissen" LE="In:31" >
+Die Fertigkeit Landeskunde spiegelt das Wissen über ein bestimmtes Land Midgards wieder. Ein Landeskundiger kennt sich mit den politischen, gesellschaftlichen, wirtschaftlichen, klimatischen und geografischen Verhältnissen in dem entsprechenden Land aus. Außerdem hat er grundlegende Kenntnisse über das Rechtssystem des Landes und die Etikette in besseren Kreisen. Jede Spielfigur hat fundamentale Kenntnisse über die Gegebenheiten in seinem Heimatland. Man kann sich durchaus an dem Wissen eines "durchschnittlichen" Menschen in seiner Heimat orientieren.
+  </Fachkenntnis>
+  <Fachkenntnis id="41" name="Laufen" Kat="Bewegung" LE="Ko:61">
+Der Abenteurer ist ein durchtrainierter Läufer. Dadurch erhöht sich dauerhaft sine Bewegungsweite um seinen Erfolgswert -2.
+  </Fachkenntnis>
+  <Fachkenntnis id="42" name="Lesen von Zauberschrift" Kat="Wissen" LE="In:21" >
+Die Zauberschrift ist eine Sammlung von Runenzeichen, Symbolen, verschlungenen Ornamenten und kleinen Bildern, die sich besonders gut dazu eignen, magische Formeln oder alchimistische Rezepturen niederzuschreiben. Sie ist - bis auf unwesentliche stilististische Schnörkel, in denen sich der Geschmack der verschiedenen Völker wiederspiegelt - auf ganz Midgard dieselbe. Es gibt aber einzelne Symbole, die nur selten verwendet werden oder nicht überall bekannt sind. Die Zeichen der Zauberschrift vermitteln den wesentlichen Kern eines Zaubers auf bildliche Weise und helfen dabei, magische Energie in einem Text oder einem Gegenstand zu speichern, die beim lauten Vorlesen, eingehenden Betrachten oder anderen Schlüsselhandlungen wieder frei wird. Zauberschrift wird insbesondere zum Anfertigen magischer Spruchrollen benutzt. Wer Lesen von Zauberschrift beherrscht, kann auch mit Hilfe solcher Spruchrollen zaubern und voh ihnen neue Zaubersprüche lernen. 
+  </Fachkenntnis>
+  <Fachkenntnis id="43" name="Lippenlesen" Kat="Entdeckung" LE="In:31" NE="Sehen:8">
+Der Abenteurer kann anderen Personen von den Lippen ablesen, was sie gerade sagen. Voraussetzung für die erfolgreiche Ausübung dieser Fertigkeit ist ungehinderte Sich auf die Mundpartie der Belauschten und die gute Beherrschung der Sprache, in der die Unterhaltung geführt wird (mit Erfolgswert +12 und höher).
+  </Fachkenntnis>
+  <Fachkenntnis id="44" name="Meditieren" LE="Wk:21">
+Meditation dient dazu ,die geistigen Kräfte zu sammeln und den Körper unter die Kontrolle des Geistes zu zwingen. Will ein Abenteurer meditieren, muß er sich entscheiden, ob er seine verbrauchten Kräfte regenerieren und eine Meditation der Entspannung einleiten will oder ob er sein Können auf sein nächstes Vorhaben einstimmen und eine Meditation der Energie beginnen will. Die Meditation der Entspannung dauer eine Stunde.
+  </Fachkenntnis>
+  <Fachkenntnis id="45" name="Menschenkenntnis" Kat="Sozial" LE="In:31">
+Menschenkenntnis gibt einem Abenteurer die Fähigkeit andere Menschen (und einige Menschenähnliche, deren Verhalten sich nicht zu stark von dem der Menschen unterscheidet) richtig einzuschätzen. Man kann die Fertigkeit auf größere Gruppen anwenden, um einen Eindruck von der allgemeinen Stimmung der Menge zu erhalten.
+Wendet man die Fertigkeit auf eine einzelne Person an, erhält man einen Eindruck vom Charakter, den grundlegenden Einstellungen und der aktuellen Laune des Anderen. Außerdem kann man mit Menschenkenntnis einschätzen, ob ein Gesprächspartner lügt oder die Wahrheit sagt.
+  </Fachkenntnis>
+  <Fachkenntnis id="46" name="Meucheln" Kat="Kampf" LE="Gs:61" NE="St:31">
+Mit der Fertigkeit Meucheln, kann man ein ahnungsloses Opfer mit einem einzelnen Angriff töten. Dazu muss es dem Meuchler allerdings gelingen in die Nähe des Opfer zu gelangen, ohne das es den geringsten Verdacht schöpft. Dies kann auf unterschiedliche Weise geschehen. Er kann sich z.B. unbemerkt an das Opfer heranschleichen, sich sein Vertrauen erschwindeln oder es durch Verkleidung täuschen. Ein meuchlerischer Angriff ist in jedem Fall nur möglich, wenn das Opfer absolut nichts von den Absichten des Meuchlers ahnt. Es können nur Wesen gemeuchelt werden, die in Größe und Aufbau ihres Körpers Menschen ähneln. Ein Affe könnte z.B. Ziel eines meuchlerischen Angriffs werden, ein Riese hingegen ist zu groß, ein Schleimmonster nicht menschenähnlich genug und einem Untoten fehlt ein lokalisiertes Lebenszentrum. Die Erfahrung oder Mächtigkeit eines Opfer in Form seines Grades wirkt sich auf die Erfolgschancen des Meuchlers aus. Erfahrene und mächtige Wesen entwickeln ein gewisses Gespür für Gefahr und bessere Reflexe, die sie vor solchen Angriffen schützen. Meucheln kann auch genutzt werden, um ein Opfer zu betäuben. Der Versuch wird genauso gehandhabt wie ein normaler Meuchelversuch. Betäuben existiert auch als eigene Fertigkeit, sie stellt eine Alternative für Abenteurer dar, die Meucheln nicht lernen wollen oder dürfen.Ob beim Meucheln oder Betäuben Lärm ensteht, der gegebenenfalls andere Wesen anlockt wird mittels Schleichen entschieden.
+  </Fachkenntnis>
+  <Fachkenntnis id="47" name="Musizieren" Kat="Fingerfertigkeit" LE="Gs:31" NE="St:31">
+Der Musikant beherrscht ein Instrument, das er einsetzen kann, um zum Beispiel etwas bestimmtes zu erreichen. Mit dieser Fertigkeit kann sich der Charakter zum Beispiel eine Unterkunft erspielen oder eine Menschenmenge fesseln, um von etwas anderem abzulenken. Es kam auch schon vor, dass Musikanten wegen einer schlechten Vorstellung mit Unrat beworfen oder aus der Stadt geschmissen worden sind.
+  </Fachkenntnis>
+  <Fachkenntnis id="48" name="Naturkunde" Kat="Wissen" LE="In:61" NE="St:31">
+Eine Person mit der Fertigkeit Naturkunde kann verschiedenste, mit der Natur zusammenhängende, Phänomene erkennen bzw. vorhersagen. Zum Beispiel das Wetter der nächsten Zeit; Mineralien und Erze auch im Rohzustand erkennen; Vulkanausbrüche oder Lawinen vorhersagen. Natürlich ist dies alles abhängig von dem Ort an dem man aufgewachsen ist oder schon seit Jahren lebt, da ein Scharide, der sein Land nie verlassen hat, beispielsweise keine Schneelawine vorhersagen kann, da er Schnee nicht mal kennt.
+  </Fachkenntnis>
+  <Fachkenntnis id="49" name="Pflanzenkunde" Kat="Wissen" LE="In:61" NE="St:31">
+Mit der Fertigkeit Pflanzenkunde kann eine Person Herkunft und Art einer Pflanze bestimmen, weiß ob sie giftig oder eßbar ist, ob sie zur Heilung dient oder welchen speziellen Eigenschaften sie hat. Der Pflanzenkundler kann auch sagen, wie man eine Heilpflanze anwendet damit sie zur Heilung verhilft. Er kann auch Gifte aus Tieren und Pflanzen herstellen. Aber auch Gegengifte, wodurch das Erlernen dieser Fertigkeit akzeptiert wird. Das Mischen von Giften ist nicht geduldet.
+  </Fachkenntnis>
+  <Fachkenntnis id="50" name="Raufen" Kat="Kampf">
+Raufen kann jeder! Zweck dieser Fertigkeit ist es den Gegner mit unkontrollierten Tritten und Schlägen zu überwältigen. Ein Handgemenge wird mit einer Rauferei eingeleitet.
+  </Fachkenntnis>
+  <Fachkenntnis id="51" name="Rechnen" Kat="Wissen" LE="In:81">
+Jeder Abenteurer mit Intelligenz von 61 und mehr besitzt im Rahmen der Kulturstufe seiner Heimat rudimentäre Rechenfähigkeiten. Personen mit der Fertigkeit Rechnen sind dagegen in der ihrer Kultur zur Verüfugung stehenden Arithmetik und Geometrie ausgebildet. Sie können die Buchhaltung eines Handelshauses führen, bei den statischen Berechnungen für Brücken und andere aufwendige Bauwerke helfen und Geschoßbahnen für Katapulte und andere ballistische Artillerie berechnen.
+  </Fachkenntnis>
+  <Fachkenntnis id="52" name="Reiten" Kat="Bewegung" LE="Gw:21" >
+Die Fertigkeit Reiten sagt etwas über die Reiterfähigkeiten einer Person aus. Der Reiter kann das Reittier, wie etwa ein Pferd, als Fortbewegungsmittel benutzen, kämpfen, zaubern, von einem laufenden Reittier abspringen, Hindernisse überwinden oder das Reittier beherrschen, wenn es scheut. Durch die Fertigkeiten Kampf zu Pferd, Bogenkampf zu Pferd, Kampf zu Kamel, Kampf zu Elefant und Kampf zu Srimara kann man noch besser vom Rücken eines Reittieres aus kämpfen. Die Fertigkeit Sattelkunst erlaubt es, auf dem Rücken eines Pferdes akrobatische Kunststücke zu vollbringen.
+  </Fachkenntnis>
+  <Fachkenntnis id="53" name="Rudern" LE="St:21" NE="Gs:21" >
+Der Abenteurer kann geschickt mit kleinen Ruderbooten, Kanus, Kajaks, Einbäumen und anderen Wasserfahrzugen umgehen, die mit Rudern oder Paddeln angetrieben und gesteuert werden. Ein Erfolgswurf ist auch bei unerfahrenen Ruderern nur in außergewöhnlichen Situation nötig, wenn ein Boot in Stromschnellen gerät, ein plötzlich auftauchendes Hindernis umfahren werden muß, gegen eine starke Ströumug angekämpft wird oder ein großes Tier das Gefährt rammt.
+  </Fachkenntnis>
+  <Fachkenntnis id="54" name="Sagenkunde" Kat="Wissen" LE="In:61" NE="Gs:21" >
+Der Abenteurer besitzt umfangreiches Wissen über Fabeltiere, sagenhafte magische Objekte legendäre Helden und Dämonen und andere Dinge, di in den Märchen, Mythen und Sagen Midgards auftauchen. Er kennt sich auch aus mit der Geschichte seiner Heimat, der Nachbarreiche und der Länder, in denen er längere Zeit verbracht hat. Bei mehr als ein oder zwei Generationen zurückliegenden Ereignissen, die in der Erinnerung der Menschen geblieben sind, ist es alledings schwierig, zwischen historischen Tatsachen und Legendenbildung zu unterscheiden.
+  </Fachkenntnis>
+  <Fachkenntnis id="55" name="Schätzen" Kat="Wissen" LE="In:61" >
+Der Abenteurer ist in der Lage, den Wert von Gegesntänden zu schätzen. Er kann beurteilen, ob Waren preiswert sind, und er weiß, welchen Preis er für ein Schmuckstück, ein magisches Artefakt, ein altes Buch oder ein prächtiges Gewand erzielen kann, wenn er einen interessierten Käufer findet. Der nötige EW: Schätzen wird vom Spielleiter verdeckt ausgeführt, wobei er bei besonders seltenen Gegenständen Abzüge anwenden kann.
+  </Fachkenntnis>
+  <Fachkenntnis id="56" name="Scharfschießen" Kat="Kampf" LE="Gs:61">
+Scharfschießen wird zusätzlich zu einer Schuß- oder Wurfwaffe gelernt, mit der ein Abenteurer umgehen kann. Hat er bereite eine Fernkampfwaffe als Spezialwaffe gewählt, so muß er zuerst mit dieser Waffe Scharfschießen lernen, bevor er eine vergleichbare Treffsicherheit mit einer anderen Waffe erwerben kann.
+  </Fachkenntnis>
+  <Fachkenntnis id="57" name="Schauspielern" Kat="Sozial" LE="pA:61">
+Mit Hilfe dieser Fertigkeit lassen sich durch Gestik, Mimik und Körpersprache und durch den Tonfall der Stimme Gefühle vortäuschen, die nur mit einem WW:Menschenkenntnis als falsch durchschaut werden können. Der Abenteurer kann sich verstellen und so tun, als ob er wütend, begeistert verzweifelt oder krank ist.
+  </Fachkenntnis>
+  <Fachkenntnis id="58" name="Schießen vom Streitwagen" Kat="Bewegung" LE="Gs:31" NE="Schusswaffe">
+Langbogen, schwere Armbrust und Stabschleuder können mangels Platz auf einem Streitwagen überhaupt nicht eingesetzt werden. Abenteurer, die weder Kampf noch Schießen vom Streitwagen gelernt haben, können während der Fahrt auch keine anderen Schußwaffen einsetzen, da sie sich mit einer Hand festhalten müssen. Von einer offenen Kutsche oder aus einem großen Planwagen heraus können sie dagegen knieend, sitzend oder liegend mit Bögen, Kompositbögen, Kurzbögen, leichten Armbrüsten und Schleudern ungehindert schießen.
+  </Fachkenntnis>
+  <Fachkenntnis id="59" name="Schiffsführung" Kat="Sozial" LE="In:31" NE="pA:61" Dep="30;73">
+Die Kunst der Schiffsführung umfaßt alle Fähigkeiten, die für das Kommando über große Schiffe mit mehr als 10m Rumpflänge gebraucht werden: Navigation, Seerecht, Mannschaftsführung, Schiffsausrüstung, das Wissen über das richtige Laden und Stauen oder Taktik bei Seegefechten.
+  </Fachkenntnis>
+  <Fachkenntnis id="60" name="Schleichen" Kat="Bewegung" LE="Gw:61">
+Schleichen ist die Fähigkeit sich lautlos zu bewegen. Dadurch kann man sich z.B. Gegnern unbemerkt nähern, um sie zu belauschen, sie hinterrücks anzugreifen (s. Meucheln) oder sich einfach vorzuschleichen. Der Erfolg des Schleichenden hängt, neben seinen Fähigkeiten, von den Umständen ab. So hat der Untergrund, der Geräuschpegel der Umgebung und der Grad der Aufmerksamkeit des Beschlichenen Einfluß auf die Schwierigkeit.
+  </Fachkenntnis>
+  <Fachkenntnis id="61" name="Schlitten fahren" Kat="Bewegung" LE="Gs:21">
+Im Wagenlenken ausgebildete Abenteurer können auch mit einem Pferdeschlitten umgehen. Schlittenfahren braucht man, um in verschneiter Landschaft einen Hundeschlitten lenken zu können. Die Geschwindigkeit eines solchen Gefährts hängt stark von den Schneeverhältnissen, von der Last und von der Zahl der Hunde ab. Ein von 6 Hunden gezogener Zweimannschlitten mit Gepäck fährt in ebenem Gelände auf festem Schnee mit B24. Der Gespannführer selbst kann weder kämpfen noch zaubern, solange er mit dem Lenken des Schlittens beschäftigt ist. Ein Mitfahrer kann nur aktiv werden, wenn er angeschnallt ist und sich nicht festhalten muß.
+  </Fachkenntnis>
+  <Fachkenntnis id="62" name="Schlösser öffnen" Kat="Fingerfertigkeit" LE="Gs:61" >
+Ein Abenteurer mit dieser Fertigkeit kennt sich gut mit einfachen Schlössern aus und ist in der Lage, sie mit einem Dietrich zu öffnen, sofern der Erfolgswurf gelingt. Ein Bund mit einem Dietrich und Nachschlüsseln verschiedener Größen und Formen gehört zum Handwerkszeug des professionellen Einbrechers. Jeder Versuch, ein Schloß auf diese Art zu öffnen nimmt im Nofmalfall etwas 10 Minuten in Anspruch, kann bei komplizierten Schlössern jedoch auch länger dauern. 
+  </Fachkenntnis>
+  <Fachkenntnis id="63" Kat="Wissen" name="Schreiben:Sprache" LE="In:21" >
+Die Sprachen auf Midgard sind so vielseitig und unterschiedlich wie die Wesen, die sie benutzen. In der folgenden Liste findet man die Sprache, das Land bzw. die Länder in denen sie gesprochen wird, die Schriftform falls es eine gibt, eine kurze Beschreibung der jeweiligen Sprache und die Quelle. Schreiben (somit auch Lesen) einer Sprache kann man nur erlernen, wenn man die entsprechende Sprache auch sprechen kann, ansonsten fehlen einem die richtigen Vokabeln. Je länger und intensiver man sich mit einer Sprache beschäftigt, desto besser kann man sich auch schriftlich ausdrücken.
+  </Fachkenntnis>
+  <Fachkenntnis id="64" name="Schwimmen" Kat="Bewegung" LE="Gw:11" >
+Die Fertigkeit Schwimmen ermöglicht es einer Spielfigur sich längere Zeit ohne Hilfsmittel über Wasser zu halten. Schwimmer können unter normalen Umständen, d.h. in relativ ruhigen und strömungsfreien Gewässern, ohne einen Erfolgswurf an der Oberfläche bleiben und sich schwimmend fortbewegen.
+Erst unter schwierigen Umständen, z.B. in starker Strömung oder in einer Metallrüstung, wird ein Erfolgswurf notwendig. Nichtschwimmer hingegen, d.h. Spielfiguren, die Schwimmen lediglich als ungelernte Fertigkeit beherrschen, müssen jede Runde, die sie sich im Wasser befinden, einen Erfolgswurf machen und gehen gegebenenfalls unter. In KanThaiPan werden unter dem Namen SuiJutsu weitergehende Schwimmtechniken gelehrt.
+  </Fachkenntnis>
+  <Fachkenntnis id="65" name="Seemansgang" Kat="Bewegung" LE="Gw:31">
+Während eines Kampfes auf Schiffen und ähnlich schwankendem Untergrund wie einer Hängebrücke oder einem fliegenden Teppich wird bei Angriffen normaler Abenteurer ein Abzug von -2 berücksichtigt. Wer Seemannsgang beherrscht, leidet nicht unter diesem Nachteil. Ein EW:Seemannsgang ist nur bei ausgefallenen Manövern nötig, wenn der Abenteurer zum Besipiel bei einem Sturm über Deck läuft, ohne sich festzuhalten, oder mit voller Geschwindigkeit über eine stark schwankende Brücke rennt.
+  </Fachkenntnis>
+  <Fachkenntnis id="66" name="Seilkunst" LE="Gs:61">
+Beherrscht eine Person Seilkunst, so bedeutet es, dass sie sich mit den verschiedenen Formen von Knoten auskennt, sie beherrscht und die Knoten einer anderen Person öffnen kann. Mit dieser Fertigkeit kann eine Person auch Seile (Lassos) aus Pflanzenfasern und Stoffen flechten, die einem Gewicht von bis zu 70 kg standhalten köffnen. Mit der Fertigkeit kann sich die Person auch ihrer Fesseln entledigen. Besonders beliebt ist diese Fertigkeit bei Personen, die besonders häufig irgendwo unauffällig rein oder raus wollen oder Personen die - auch aufgrund dieser Tätigkeit - öfter gefesselt werden (Assassinen, Spitzbuben).
+  </Fachkenntnis>
+  <Fachkenntnis id="67" name="Singen" LE="pA:31">
+Um als Barde Zauberlieder zu singen, muß er Singen gut genug beherrschen. Mit dieser Fertigkeit kann sich der Charakter zum Beispiel ein Essen oder eine Unterkunft ersingen, aber auch versuchen eine schöne Frau zu verführen.
+  </Fachkenntnis>
+  <Fachkenntnis id="68" name="Skifahren" Kat="Bewegung" LE="Gw:21">
+Der Abenteurer kann sich auf Skiern fortbewegen. Beim Langlauf treten normalerweise keine Probleme auf. Auch bei Abfahrten ist ein Erfolgswurf nur in besonderen Situationen erforderlich, wenn der Skifahrer über ein Gletscherspalte springen will, einem plötzlich auftauchenden Hindernis ausweichen muss oder einen Gegenstand vom Boden aufheben will, ohne anzuhalten. Bei Mißerfolg misslingt das Manöver, was meist nur einen unsanften Sturz in den Schnee bedeutet.
+  </Fachkenntnis>
+  <Fachkenntnis id="69" name="Sprechen:Sprache" Kat="Wissen" LE="In:1">
+Die Fertigkeit Sprechen bezieht sich sowohl auf die Muttersprache als auch auf Fremdsprachen. Es handelt sich hierbei um das Erlernen der Sprache, der angepassten Anwendung und das Beherrschen sprachlicher Geflogenheiten. Die verschiedenen, teils miteinander verwandten Sprachen sind je nach Nähe zur Muttersprache leichter zu erlernen.
+  </Fachkenntnis>
+  <Fachkenntnis id="70" name="Springen" Kat="Bewegung" LE="St:31">
+Ein Mensch kann ohne Probleme ungefähr 2,5m weit springen, im Laufen ein 70cm hohes Hindernis überspringen sowie mit ausgestreckter Hand ein Objekt berühren, das sich nicht mehr als 70cm über seinem Kopf befindet. Ab 3m beim Weitsprung und 80cm beim Hochsprung ist ein Erfolgswurf nötig.
+  </Fachkenntnis>
+  <Fachkenntnis id="71" name="Spuren lesen" Kat="Entdeckung" LE="In:31" NE="Sehen:6">
+Die Fertigkeit Spurensuche erleichtert einem Abenteurer das Finden von Fährten, aber auch von versteckten Gegenständen, Geheimfächern, Geheimtüren und doppelten Böden. Durch den gezielten Einsatz seiner Sinne kann der Abenteurer finden, was er sucht.
+  </Fachkenntnis>
+  <Fachkenntnis id="72" name="Stehlen" Kat="Fingerfertigkeit" LE="Gs:61">
+Ein Abenteurer, der Stehlen beherrscht, zeichnet sich durch besondere Fingerfertigkeit aus. Er kann sie einsetzen, um ahnungslose Zeitgenossen um ihre Wertsachen zu erleichtern, indem er ihnen unbemerkt den Geldbeutel vom Gürtel schneidet, Gegenstände aus den Taschen herausfischt oder sorglos abgestellte Rucksäcke an sich nimmt. Voraussetzung für den Erfolg ist allerdings, dass der Dieb unbemerkt an sein Opfer heran kommt.
+  </Fachkenntnis>
+  <Fachkenntnis id="73" name="Steuern" Kat="Bewegung" LE="Gs:31" NE="St:21">
+Diese Fertigkeit befähgt den Abenteurer, mit einem Steuerruder ein Ruderboot oder ein kleines Segelboot zu lenken. Bei größeren Booten kann er außerdem die Bemühungen mehrerer Ruderer oder Matrosen koordinieren. Ein Erfolgswurf wird nur in kritischen Stiuationen durchgeführt, z.B. wenn das Boot in ein Unwetter gerät, einem plötzlich auftauchenden  Hindernis ausweichen muss usw. Bei Misserfolg misslingt das Manöver und das Boot kann in Schwierigkeiten geraten. Es läuft auf eine Sandbank auf oder stößt mit einem andren Wasserfahrzeug zusammen.
+  </Fachkenntnis>
+  <Fachkenntnis id="74" name="Stimmen nachahmen" Kat="Fingerfertigkeit" LE="In:31" NE="Hören:8">
+Der Abenteurer kann seine Stimme so verstellen, dass er nicht als Sprecher erkannt wird. Der Erfolgswurf wird verdeckt vom Spielleiter ausgeführt. Gelingt der Wurf, so wird der Abenteurer nicht an seiner Stimme erkannt.
+  </Fachkenntnis>
+  <Fachkenntnis id="75" name="Streitwagen lenken" Kat="Bewegung" LE="Gs:21" Dep="90">
+Im Kampfgetümmel oder in unwegsamen Gelände kann der Abenteurer einen leichten, wendigen Streitwagen mit hoher Geschwindkgkeit fahren, ohe automatisch einen Unfall zu verursachen. Die Bewglichkeit ist durchaus mir der eines Reite zu vergleichen. Bei leichter Wagenbauweise nach erainnischem, meketischem oder valianischem Voriild fährt eine vierspännige Quadriga in ebenem Gelände mit B40, ein zweispänniger Streitwagen mit B36. Auf einer Straße können beide sogar B48 erreichen, wenn Wagen und Pferde von entsprechender Qualität sind.
+  </Fachkenntnis>
+  <Fachkenntnis id="76" name="Suchen" Kat="Entdeckung" LE="In:31" NE="Gs:31">
+Mit der Fertigkeit Suchen kann ein Abenteurer verloren gegangene oder absichtlich verborgene Gegenstände und getarnte Vorrichtungen wie Geheimfächer, doppelte Böden oder Geheimtüren finden. Er setzt hierbei bei Bedarf alle Sinne ein: Sehen zum Entdecken kleiner Objekte, Hören beim Abklopfen von Wänden auf der Suche nach Hohlräumen, Tasten beim Suchen nach Unebenheiten usw.
+  </Fachkenntnis>
+  <Fachkenntnis id="77" name="Tanzen" Kat="Bewegung" LE="Gw:31" >
+Ein Tänzer kann sich fließend zu Musik bewegen und auf Zuschauer einen gefälligen Eindruck machen. Er kann sich so unter Umständen eine Mahlzeit in einem Gasthofe verdienen, Zugang zum Hof eines Adligen erlangen oder sein Publikum so in den Bann ziehen, dass es nicht auf das achtet, was andere Abenteurer gerade tun.
+  </Fachkenntnis>
+  <Fachkenntnis id="78" name="Tarnen" Kat="Entdeckung" LE="Gs:61">
+Tarnen beschreibt die Fertigkeit in der Umgebung zu verharren ohne aufzufallen. Der Tarnende muss allerdings passende Kleidung tragen und darf nicht laut sein. Mit dem Zauber Wundersame Tarnung kann man die Tarnung noch verbessern. Sich vor Tieren zu verstecken ist weitaus schwieriger, da sie meist sehr gut riechen können, man sollte die Windrichtung beachten. Man kann mit der Fertigkeit auch Gegenstände verstecken.
+  </Fachkenntnis>
+  <Fachkenntnis id="79" name="Tauchen" Kat="Bewegung" LE="Ko:61" NE="Gw:31" Dep="64">
+Die Fertigkeit Tauchen ermöglicht es einem Abenteurer länger die Luft anzuhalten. Dies kann er einsetzen, um länger unter Wasser bleiben zu können. Er kann sie auch in anderen Situationen, in denen Luftholen nicht möglich oder nicht gewünscht ist, einsetzen, bspw. wenn er gewürgt wird oder sich durch giftige Dämpfe bewegt.
+  </Fachkenntnis>
+  <Fachkenntnis id="80" name="Thaumatographie" Kat="Wissen" LE="In:61" Dep="93">
+Der Abenteurer kann die magischen Eigenschaften von gewöhnlichen Artefakten, Waffen und Rüstungen erkunden. Das eventuell zur Anwendung nötige Ritual erfährt er dabei aber nicht. Der Thaumatograph benötigt den Zugang zu einer gut ausgestatteten Zauberwerkstatt, deren Einrichtung 20000 GS kostet. In Magiergilden großer Städte findet man geeignete Arbeitsmöglichkeiten, während die weniger gute Ausstattung in Provinzstädten Anlass für Abzüge auf den EW gibt.
+  </Fachkenntnis>
+<Fachkenntnis id="81" name="Tierkunde" Kat="Wissen" LE="In:61">
+Tierkunde hilft einer Person beim bestimmen von Spuren (in Verbindung mit Spurensuche). Die Person hat Kenntnisse über Art und Verhalten des Tieres, ob sie eßbar oder ungenießbar, gefährlich oder friedlich sind. Auch landestypische Krankheiten bei domestizierten Tieren kann die Person erkennen.
+  </Fachkenntnis>
+  <Fachkenntnis id="82" name="Trinken" LE="Ko:1">
+Alkohol trinken kann jeder Bewohner Midgards; der eine mehr, der andere weniger. Von der Konstitution der Person hängt ab, wieviel sie verträgt, ab wann sie eindeutig betrunken ist und in wie weit sie das verbergen kann. Manche Personen sind von Natur aus besonders trinkfest. Ein Einsatz der Fertigkeit kann darüber entscheiden, ob der Abenteurer ein Kampftrinken gewinnt oder ob er Alkohol besser verträgt, als sein Gesprächspartner. Die Folgen des Alkoholkonsums können, neben Ruhm, Anerkennung oder Informationen, auch Übelkeit, Erbrechen, Kopfschmerzen und Überempfindlichkeit gegen alles, bis zum Tod sein.
+  </Fachkenntnis>
+  <Fachkenntnis id="83" name="Überleben im Dschungel oder Wald" Kat="Wissen" LE="In:21">
+Die Fertigkeit Überleben sichert dem Charakter das Überleben in lebensfeindlicher Umwelt. Er kann sich Nahrung und Wasser besorgen, ist auf eventuell eintretende Naturereignisse (Stürme etc.) gefasst und kann, auch mit Hilfe anderer Fertigkeiten, länger Überleben als andere.
+  </Fachkenntnis>
+  <Fachkenntnis id="84" name="Überleben im Schnee" Kat="Wissen" LE="In:21" NE="St:31">
+Die Fertigkeit Überleben sichert dem Charakter das Überleben in lebensfeindlicher Umwelt. Er kann sich Nahrung und Wasser besorgen, ist auf eventuell eintretende Naturereignisse (Stürme etc.) gefasst und kann, auch mit Hilfe anderer Fertigkeiten, länger Überleben als andere.
+  </Fachkenntnis>
+  <Fachkenntnis id="85" name="Überleben in Steppe oder Wüste" Kat="Wissen" LE="In:21" NE="St:31">
+Die Fertigkeit Überleben sichert dem Charakter das Überleben in lebensfeindlicher Umwelt. Er kann sich Nahrung und Wasser besorgen, ist auf eventuell eintretende Naturereignisse (Stürme etc.) gefasst und kann, auch mit Hilfe anderer Fertigkeiten, länger Überleben als andere.
+  </Fachkenntnis>
+  <Fachkenntnis id="86" name="Verbergen" Kat="Entdeckung" LE="In:61">
+Mit dieser Fertigkeit kann ein Abenteurer Dinge verstecken, von denen er nicht möchte, dass sie gefunden werden. Z.B. einen verräterischen Brief in seinem Gepäck, einen gestohlenen Ring in seinem Zimmer im Gasthaus, Zaubermaterialien am Körper oder einen zu einem Unterschlupf führenden Höhleneingang im Wald.
+  </Fachkenntnis>
+  <Fachkenntnis id="87" name="Verführen" Kat="Sozial" LE="pA:61" NE="Au:21">
+Die Fertigkeit Verführen steht für die Kunst, die Gefühle einer Person für sich zu gewinnen. Der Verführer weiß, wie ihm durch Unterhaltung, Geschenke oder Umgebung bei einer bestimmten Person gelingen kann. Die Fertigkeit hat dabei nicht nur eine sexuelle Komponente. Sie kann auch dafür benutzt werden, um gezielt Sympathie, Freundschaft oder Liebe bei einer Person zu erwecken. Anders als bei der Beredsamkeit geht es dabei nicht darum, die Person von einer bestimmten Meinung zu überzeugen, als ihr sympathisch oder attraktiv zu erscheinen. Der kombinierte Einsatz der Fertigkeit mit anderen sozialen Fertigkeiten, wie Verstellen, Menschenkenntnis oder Etikette kann die Erfolgsaussichten verbessern. Natürlich hängt der Erfolg andererseits auch immer davon ab, ob die Zielperson den Versuch erkennt und ihm widerstehen möchte.
+  </Fachkenntnis>
+  <Fachkenntnis id="88" name="Verhören" Kat="Sozial" LE="pA:61">
+Die Fertigkeit Verhören ermöglicht dem Benutzer, Informationen von einem Menschen zu erfragen, die dieser nicht preisgeben möchte. Die Fertigkeit ist eine soziale Fertigkeit, die Aussagen werden durch geschickte Nachfragen und verbale Drohungen gewonnen. Wie effektiv ein Verhör ist, hängt davon ab, wie groß die Drucksituation ist, die der Verhörende aufbauen kann. Eine zwanglose Befragung auf offener Straße ist weniger erfolgversprechend, weil die Drohkulisse nicht vorhanden ist.
+Ein Verhör hat gewisse Risken: Ein willenstarker Befragter kann dem Druck möglicherweise widerstehen und Lügen erzählen, die den Verhörten nur zufriedenstellen sollen. Ein Verhör kann auch dazu führen, dass der Befragte aufgrund der Drucksituation verstockt.
+  </Fachkenntnis>
+  <Fachkenntnis id="89" name="Verkleiden" Kat="Sozial" LE="Gs:31" NE="In:31">
+Durch Hilfsmittel wie wie Haarfarbe, Schminke, hohe Schuhe, Kleidung, einen falschen Bart oder eine Perücke macht sich der Abenteurer unkenntlich oder gibt sich gar das Aussehen einer ihm bekannten Person. Will man sich wirksam verkleiden, so brauch man Muße.
+</Fachkenntnis>
+<Fachkenntnis id="90" name="Wagen lenken" Kat="Bewegung" LE="Gs:21">
+Der Abenteurer kommt mit den zugtieren eines GEspanns zurecht und kann einen von ihnen gezogenen WAgen auch in schwierigem Gelände lenken.
+</Fachkenntnis>
+<Fachkenntnis id="91" name="Wahrnehmung" Kat="Entdeckung" LE="In:61">
+Die Fertigkeit Wahrnehmung bildet die Auffassungsgabe eines Abenteurers ab. Sie hat sowohl mit den Sinnen eines Charakters zu tun, als auch mit logischem Denken und Beobachtungsgabe. Zu erkennen, dass man beim Wandern durch den Wald ein leises Knacken hört, aber auch daraus abzuleiten, dass es sich nicht um ein von Tieren erzeugtes Geräusch handelt, sondern um das Geräusch, das ein Orc macht, wenn er nicht gut schleichen kann - das ist Wahrnehmung! Zauberer können ihre Wahrnehmungsfähigkeit für bestimmte Sinne mit Zaubern wie Scharfblick, Hören von Fernem und Katzenaugen magisch verbessern.
+</Fachkenntnis>
+<Fachkenntnis id="92" name="Winden" Kat="Bewegung" LE="Gw:61">
+Der Abenteurer beherrscht seinen Körper wie ein Schlangenmensch. Er kann sich durch kleinste Öffnungen winden, durch die kein normaler Mensch hiduchrkommt. Missling der EW, so kann der Abenteurer die Engstelle nicht überwinden und muss sich zurückziehen. Bei einem kritischen Fehler bleibt er stecken und kann sich alleine nicht mehr befreien.
+</Fachkenntnis>
+<Fachkenntnis id="93" name="Zauberkunde" Kat="Wissen" LE="In:61">
+Die Fertigkeit Zauberkunde bildet theoretische Kenntnisse zu der Magie auf Midgard ab. Der Zauberkundige kennt die existierenden Zauber und ihre Auswirkungen. Wenn er einen Magiewirker, der gerade einen Wort- oder Gestenzauber zaubert, aufmerksam beobachtet, kann er erkennen, um welchen Zauber es sich handelt. Außerdem kennt ein Zauberkundiger auch Informationen über die organisierte Magie auf Midgard, über Zaubermaterialien, über magische Wesen und über das Multiversum. Ein Zauberkundiger muss nicht selbst zaubern können, umgekehrt muss ein Zauberer nicht zwingend auch die theoretischen Kenntnisse der Zauberkunde beherrschen.
+</Fachkenntnis>
+<Fachkenntnis id="94" name="Zeichensprache" Kat="Wissen" LE="In:31" NE="Gs:21">
+Die ursprünglich von Dieben entwickelte Zeichensprache besteht aus einer umfangreichen SamMlung von Handzeichen und unscheinbaren Gesten.Zwei Personen, die beide Zeichensprache beherrschen, können sich hiermit unauffälllig und geräuschlos unterhalten. Die durch den Erfolgswert bestimmte Perfektion, mit der ein Abenteurer sich mit ZS verständigen kann, entspricht den entsprechenden EW von Sprechen:Sprache. 
+</Fachkenntnis>
+<Fachkenntnis id="95" name="Alchimie" Kat="Wissen" LE="In:81" NE="Gs:61">
+Alchimie ist die Lehre von den Stoffen, aus denen die Welt zusammen gesetzt ist, und von den magischen Essenzen, die man aus ihnen gewinnen kann. Der Alchimist besitzt einfache Kenntnisse über die Eigenschaften von in der Natur vorkommenden Substanzen und über mögliche chemische Reaktionen. Er kann insbesondere Zaubertränke und Zaubermittel untersuchen und identifizieren und sie selbst herstellen. Um einen Zaubertrank, ein Zauberpulver oder Zauberöl analysieren zu können, muss der Alchimist Zugang zu einem Labor haben. Magiergilden in größeren Städten verfügen öfters über entsprechende Räumlichkeiten. Der Alchimist kanns ich für ungefähr 1000GS selber ein Labor einrichten. Jede Analyse dauert, egal ob Erfolg oder Misserfolg, 2h. Kosten: 20GS.
+</Fachkenntnis>
+</Fertigkeiten>

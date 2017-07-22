@@ -1,0 +1,839 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MidgardSources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3schools.com ResourceMidgard1.xsd" >
+  <!-- Länder-->
+  <Laender>
+    <Land id="1">
+      <name>Alba</name>
+    </Land>
+    <Land id="2">
+      <name>Aran</name>
+    </Land>
+    <Land id="3">
+      <name>Buluga</name>
+    </Land>
+    <Land id="4">
+      <name>Chryseia</name>
+    </Land>
+    <Land id="5">
+      <name>Clanngadarn</name>
+    </Land>
+    <Land id="6">
+      <name>Erainn</name>
+    </Land>
+    <Land id="7">
+      <name>Eschar</name>
+    </Land>
+    <Land id="8">
+      <name>Fuardain</name>
+    </Land>
+    <Land id="9">
+      <name>Ikengabecken</name>
+    </Land>
+    <Land id="10">
+      <name>Kan-Thai-Pan</name>
+    </Land>
+    <Land id="11">
+      <name>Küstenstaaten</name>
+    </Land>
+    <Land id="12">
+      <name>Medjis</name>
+    </Land>
+    <Land id="13">
+      <name>Minangaphit</name>
+    </Land>
+    <Land id="14">
+      <name>Moravod</name>
+    </Land>
+    <Land id="15">
+      <name>Nahuatlan</name>
+    </Land>
+    <Land id="16">
+      <name>Rawindra</name>
+    </Land>
+    <Land id="17">
+      <name>Tegarische Steppe</name>
+    </Land>
+    <Land id="18">
+      <name>Urruti</name>
+    </Land>
+    <Land id="19">
+      <name>Valien</name>
+    </Land>
+    <Land id="20">
+      <name>Waeland</name>
+    </Land>
+    <Land id="21">
+      <name>Ywerddon</name>
+    </Land>
+  </Laender>
+
+  <!-- Städte -->
+  <Staedte>
+    <Stadt id="1">
+      <name>Adhelstan</name>
+      <einwohner>3500</einwohner>
+      <beschreibung></beschreibung>
+      <Land ref="1" />
+    </Stadt>
+    <Stadt id="2">
+      <name>Beornanburgh</name>
+      <einwohner>35000</einwohner>
+      <beschreibung>Hauptstadt von Alba. Mit 35.000 Einwohnern ist sie zugleich die größte Stadt des Königreichs.</beschreibung>
+      <Land ref="1" />
+    </Stadt>
+    <Stadt id="3">
+      <name>Byrne</name>
+      <einwohner>4000</einwohner>
+      <beschreibung></beschreibung>
+      <Land ref="1" />
+    </Stadt>
+    <Stadt id="4">
+      <name>Cambryg</name>
+      <einwohner>1500</einwohner>
+      <beschreibung>
+        An der Straße von Beornanburgh nach Crossing liegt 45 km nördlich von Beornanburgh an der Cam der aufstrebende Ort Cambryg.
+        Im Jahr 2354 nL wurde hier von König Lugan MacBeorn die Königlich-Albische Akademie gegründet.
+        Erst vor wenigen Jahren wurde Cambryg von Reichsverweser Angus MacBeorn das Stadtrecht verliehen.
+        Nicht weit vom Ort steht das Vraidos-Kloster Abtei der weitreichenden Erinnerungen. In der Stadt befindet sich auch ein Hospitz der Gilde der Lichtsucher,
+        eine Stadtmauer wurde erst begonnen. Viele der neuen Häuser sind aus Stein gebaut, aber es gibt auch noch einige alte Häuser aus Holz. Ein großer Tempel der Dheis Albi
+        wurde nicht unweit der Akademie fertiggestellt. Die Stiftung der Akademie durch den Albischen König wird allgemein als Unterstützung des Vraidos-Kultes interpretiert,
+        aber auch als Versuch der MacBeorns ihren Einfluss auf den Vraidos-Kult zu steigern. Viele kluge junge Köpfe in Alba zieht es heute zum Studium nach Cambryg.
+        Hier kann an den fünf Fakultäten für Glaubenslehre, Zauberei, Philosophie, Heilkunde und Rechtskunde studiert werden. Die Dozenten der Akademie gehören einem
+        von drei Kollegien an.
+      </beschreibung>
+      <Land ref="1" />
+    </Stadt>
+    <Stadt id="5">
+      <name>Crossing</name>
+      <einwohner>10000</einwohner>
+      <beschreibung>
+        Im Jahr 1559 nL schlug der Seemeister Taurellian mit einem Bündniss mit den Dûnatha die Twyneddin vernichtend bei Crossing.
+        Selbst heute noch sollen die Felder von Geistern heimgesucht werden.
+      </beschreibung>
+      <Land ref="1" />
+    </Stadt>
+    <Stadt id="6">
+      <name>Deorstead </name>
+      <einwohner>5000</einwohner>
+      <beschreibung>
+        Die Gilde der Fünf Stäbe vereinigt alle, die in der Stadt Handel treiben. Sie bestimmt die Preise für die wichtigsten Güter, erteilt Handelsgenehmigungen
+        und legt Ein- und Ausfuhrbestimmungen fest. Haupt der Gilde ist ein Rat aus fünf ansässigen Händlern mit dem Gildenmeister Athrad MacBeorn.
+      </beschreibung>
+      <Land ref="1" />
+    </Stadt>
+    <Stadt id="7">
+      <name>Dungarvan</name>
+      <einwohner>1800</einwohner>
+      <beschreibung></beschreibung>
+      <Land ref="1" />
+    </Stadt>
+    <Stadt id="8">
+      <name>Elrodstor</name>
+      <einwohner>1600</einwohner>
+      <beschreibung></beschreibung>
+      <Land ref="1" />
+    </Stadt>
+    <Stadt id="9">
+      <name>Estragel</name>
+      <einwohner>8000</einwohner>
+      <beschreibung>
+        Die albische Stadt Estragel liegt in den Südmarken Albas nahe der Grenze zu Chryseia. Die Stadt wurde erst vor 123 Jahren (2303 nL) durch König Baldric MacBeorn
+        erobert und ist heute der Sitz des königlichen Vogts der Südmark. Nach der Eroberung wurde sie keinem Clangebiet zugeschlagen sondern untersteht direkt der Krone von Alba.
+        Das Nachbarland stellt eine fortwährende Bedrohung dar, und so ist die Stadt von einer hohen Mauer aus Findlingen umgeben. Um die Stadtburg herum stehen viele Häuser
+        in enger Bebauung und lassen nur enge Gassen übrig. Die beiden Ritterorden Albas, der Sonnenorden und der Orden von Heiligen Speer, verfügen jeweils über ein
+        eigenes Stadtviertel, zudem sind mittlerweile zahlreiche Melgaren aus den umliegenden Melgar-Bergen in die Stadt gezogen. Die hohe Anzahl an Söldnern und Soldaten
+        sorgt für viel Unrat und Schmutz auf den Wegen, die vielen Katzen werden der Ratten kaum Herr.
+      </beschreibung>
+      <Land ref="1" />
+    </Stadt>
+    <Stadt id="10">
+      <name>Fiorinde</name>
+      <einwohner>18000</einwohner>
+      <beschreibung></beschreibung>
+      <Land ref="1" />
+    </Stadt>
+    <Stadt id="11">
+      <name>Glenachtor</name>
+      <einwohner>1300</einwohner>
+      <beschreibung></beschreibung>
+      <Land ref="1" />
+    </Stadt>
+    <Stadt id="12">
+      <name>Haelgarde</name>
+      <einwohner>27000</einwohner>
+      <beschreibung>
+        Haelgarde ist nach Beornanburgh mit 27.000 Einwohnern die zweitgrößte Stadt im Königreich Alba und eine von drei Boroughs.
+        Die Stadt lebt vorwiegend vom blühenden Handel mit den Waelingern, die hier ihre geraubte Beute verkaufen wollen. Das Wahrzeichen der Stadt ist der
+        über 70 Meter hohe Leuchtturm, der bereits vor dem Krieg der Magier erbaut wurde.
+      </beschreibung>
+      <Land ref="1" />
+    </Stadt>
+    <Stadt id="13">
+      <name>Harkfast</name>
+      <einwohner>2500</einwohner>
+      <beschreibung></beschreibung>
+      <Land ref="1" />
+    </Stadt>
+    <Stadt id="14">
+      <name>Maris</name>
+      <einwohner>1700</einwohner>
+      <beschreibung></beschreibung>
+      <Land ref="1" />
+    </Stadt>
+    <Stadt id="15">
+      <name>Murdagil</name>
+      <einwohner>1500</einwohner>
+      <beschreibung></beschreibung>
+      <Land ref="1" />
+    </Stadt>
+    <Stadt id="16">
+      <name>Tidford</name>
+      <einwohner>1400</einwohner>
+      <beschreibung>
+        Die Stadt Tidford liegt am Fluß Tuarisc im Königreich Alba strategisch günstig an einer wichtigen Handelsroute.
+        Der Tuarsic bildet die Südgrenze des Fürstentums Conuilhmir zu Erainn hin. Die Stadt selbst liegt direkt am Ufer sowie auf fünf beisammen liegenden Inseln.
+        Eine Stadtmauer umgibt den am Ufer gelegenen Teil. Da es keinerlei Kanalisation gibt, schütten die Bürger ihren Unrat auf die Strassen.
+        Etwas ausserhalb der Stadt liegt ein Vraidos-Kloster. Tidford ist Mitglied im Städtebund des Weald und teilweise unabhängig vom Fürstentum.
+      </beschreibung>
+      <Land ref="1" />
+    </Stadt>
+    <Stadt id="17">
+      <name>Thame</name>
+      <einwohner>5000</einwohner>
+      <beschreibung>
+        Die kleine Stadt Thame im Fürstentum Conuilhnor liegt im Weald günstig am Fuß des Artross-Gebirges an der Amber und gehört zum Städtebund des Weald.
+        Der Wald von Tureliand liegt östlich der Stadt, die Zwergenstadt Gimil-dum liegt westlich nur eine Tagesreise entfernt und die Handelswaren der Zwerge werden über
+        Thame nach Dungarvon und Wulfstead transportiert.
+      </beschreibung>
+      <Land ref="1" />
+    </Stadt>
+    <Stadt id="18">
+      <name>Turonsburgh</name>
+      <einwohner>1000</einwohner>
+      <beschreibung></beschreibung>
+      <Land ref="1" />
+    </Stadt>
+    <Stadt id="19">
+      <name>Thame</name>
+      <einwohner>50000</einwohner>
+      <beschreibung></beschreibung>
+      <Land ref="1" />
+    </Stadt>
+    <Stadt id="20">
+      <name>Twineward</name>
+      <einwohner>5000</einwohner>
+      <beschreibung>
+        Die albische Stadt Twineward liegt in den Nordmarken des Landes, gehört zum Städtebund des Weald und ist erst 300 Jahre alt.
+        Durch ihre Lage südlich des Pengannion-Gebirges ist sie eine zentrale Grenzstadt zum benachbarten Clanngadarn und wird auch daher von einer beeindruckenden Stadtmauer
+        umgeben. Der Wearran-Paß führt von Twineward aus durch das Gebirge nach Llangollen. Durch die Nähe zum Halfdal haben sich einige Halblingsfamilien in der Stadt angesiedelt
+        und ein Halblingsviertel namens Chet Halbytla gegründet. Die Burg Twinesgard liegt nur 5 Kilometer entfernt in Richtung Llangollen entfernt und wurde von den MacRathgars
+        mit Unterstützung des Sonnenordens errichtet. Einst wurde die Gegend um die Stadt von twyneddischen Druiden verflucht und wurde von der Heiligen Vanafred wieder zum Blühen
+        gebracht.
+      </beschreibung>
+      <Land ref="1" />
+    </Stadt>
+    <Stadt id="21">
+      <name>Wulfstead</name>
+      <einwohner>9000</einwohner>
+      <beschreibung></beschreibung>
+      <Land ref="1"/>
+    </Stadt>
+  </Staedte>
+
+
+  <!-- Die Basiseigenschaften-->
+  <Basiseigenschaften>
+    <Basiseigenschaft id="1">
+      <name>Stärke</name>
+      <kurzname>St</kurzname>
+    </Basiseigenschaft>
+    <Basiseigenschaft id="2">
+      <name>Geschicklichkeit</name>
+      <kurzname>Gs</kurzname>
+    </Basiseigenschaft>
+    <Basiseigenschaft id="3">
+      <name>Gewandtheit</name>
+      <kurzname>Gw</kurzname>
+    </Basiseigenschaft>
+    <Basiseigenschaft id="4">
+      <name>Konstitution</name>
+      <kurzname>Ko</kurzname>
+    </Basiseigenschaft>
+    <Basiseigenschaft id="5">
+      <name>Intelligenz</name>
+      <kurzname>In</kurzname>
+    </Basiseigenschaft>
+    <Basiseigenschaft id="6">
+      <name>Zaubertalent</name>
+      <kurzname>Zt</kurzname>
+    </Basiseigenschaft>
+  </Basiseigenschaften>
+
+  <Abgeleitete>
+      <name>Persönliche Ausstrahlung</name>
+      <kurzname>pA</kurzname>
+  </Abgeleitete>
+
+  <!--Die 3 Oberarten von Abenteurern-->
+  <AbenteurerKategorie>
+    <typus id="1">Zauber</typus>
+    <typus id="2">Kämpfer</typus>
+    <typus id="3">Zauberkundiger Kämpfer</typus>
+  </AbenteurerKategorie>
+
+  <!--AbenteuerTypen aus Midgard Regelwerk Ed.4-->
+  <AbenteurerTypen>
+    <!--Kämpfer-->
+    <AbenteurerTyp id="1">
+      <name>Assassine</name>
+      <kurzname>As</kurzname>
+      <AbenteurerKategorie ref="2"/>
+      <Restriktionen>
+        <Basiseigenschaft ref="2" min="61"/>
+        <Basiseigenschaft ref="3" min="61"/>
+        <Land ref="1"/>
+        <Land ref="2"/>
+        <Land ref="4"/>
+        <Land ref="5"/>
+        <Land ref="6"/>
+        <Land ref="7"/>
+        <Land ref="10"/>
+        <Land ref="13"/>
+        <Land ref="14"/>
+        <Land ref="15"/>
+        <Land ref="16"/>
+        <Land ref="17"/>
+        <Land ref="19"/>
+        <Land ref="21"/>
+      </Restriktionen>
+    </AbenteurerTyp>
+    <AbenteurerTyp  id="2">
+      <name>Barbar, Nordland</name>
+      <kurzname>BN</kurzname>
+      <AbenteurerKategorie ref="2"/>
+      <Restriktionen>
+        <Basiseigenschaft ref="1" min="31"/>
+        <Land ref="1"/>
+        <Land ref="4"/>
+        <Land ref="8"/>
+        <Land ref="14"/>
+        <Land ref="17"/>
+        <Land ref="19"/>
+        <Land ref="20"/>
+      </Restriktionen>
+    </AbenteurerTyp>
+    <AbenteurerTyp  id="3">
+      <name>Barbar, Steppe</name>
+      <kurzname>BS</kurzname>
+      <AbenteurerKategorie ref="2"/>
+      <Restriktionen>
+        <Basiseigenschaft ref="1" min="31"/>
+        <Basiseigenschaft ref="2" min="31"/>
+        <Land ref="2"/>
+        <Land ref="3"/>
+        <Land ref="7"/>
+        <Land ref="17"/>
+      </Restriktionen>
+    </AbenteurerTyp>
+    <AbenteurerTyp id="4">
+      <name>Barbar, Wald</name>
+      <kurzname>BW</kurzname>
+      <AbenteurerKategorie ref="2"/>
+      <Restriktionen>
+        <Basiseigenschaft ref="1" min="31"/>
+        <Basiseigenschaft ref="2" min="31"/>
+        <Basiseigenschaft ref="3" min="31"/>
+        <Land ref="9"/>
+        <Land ref="10"/>
+        <Land ref="12"/>
+        <Land ref="13"/>
+        <Land ref="14"/>
+        <Land ref="15"/>
+        <Land ref="16"/>
+      </Restriktionen>
+    </AbenteurerTyp>
+    <AbenteurerTyp id="5">
+      <name>Ermittler</name>
+      <kurzname>Er</kurzname>
+      <AbenteurerKategorie ref="2"/>
+      <Restriktionen>
+        <Basiseigenschaft ref="2" min="31"/>
+        <Basiseigenschaft ref="5" min="61"/>
+        <Land ref="1"/>
+        <Land ref="2"/>
+        <Land ref="4"/>
+        <Land ref="6"/>
+        <Land ref="7"/>
+        <Land ref="10"/>
+        <Land ref="11"/>
+        <Land ref="16"/>
+        <Land ref="19"/>
+        <Land ref="21"/>
+      </Restriktionen>
+    </AbenteurerTyp>
+    <AbenteurerTyp id="6">
+      <name>Glücksritter</name>
+      <kurzname>Gl</kurzname>
+      <AbenteurerKategorie ref="2"/>
+      <Restriktionen>
+        <Basiseigenschaft ref="2" min="31"/>
+        <Basiseigenschaft ref="3" min="61"/>
+        <AbgelEigenschaft ref="1" min="61"/>
+        <Land ref="1"/>
+        <Land ref="2"/>
+        <Land ref="4"/>
+        <Land ref="5"/>
+        <Land ref="6"/>
+        <Land ref="7"/>
+        <Land ref="10"/>
+        <Land ref="12"/>
+        <Land ref="13"/>
+        <Land ref="14"/>
+        <Land ref="15"/>
+        <Land ref="16"/>
+        <Land ref="19"/>
+        <Land ref="21"/>
+      </Restriktionen>
+    </AbenteurerTyp>
+    <AbenteurerTyp id="7">
+      <name>Händler</name>
+      <kurzname>Hä</kurzname>
+      <AbenteurerKategorie ref="2"/>
+      <Restriktionen>
+        <Basiseigenschaft ref="2" min="31"/>
+        <Basiseigenschaft ref="5" min="31"/>
+        <AbgelEigenschaft ref="1" min="61"/>
+      </Restriktionen>
+    </AbenteurerTyp>
+    <AbenteurerTyp id="8">
+      <name>Krieger</name>
+      <kurzname>Kr</kurzname>
+      <AbenteurerKategorie ref="2"/>
+      <Restriktionen>
+        <Basiseigenschaft ref="2" min="31"/>
+        <Basiseigenschaft ref="1" min="61"/>
+      </Restriktionen>
+    </AbenteurerTyp>
+    <AbenteurerTyp id="9">
+      <name>Kundschafter</name>
+      <kurzname>Ku</kurzname>
+      <AbenteurerKategorie ref="2"/>
+      <Restriktionen>
+        <Basiseigenschaft ref="2" min="61"/>
+        <Basiseigenschaft ref="5" min="61"/>
+        <Land ref="2"/>
+        <Land ref="3"/>
+        <Land ref="6"/>
+        <Land ref="7"/>
+        <Land ref="8"/>
+        <Land ref="17"/>
+        <Land ref="18"/>
+        <Land ref="21"/>
+      </Restriktionen>
+    </AbenteurerTyp>
+    <AbenteurerTyp id="10">
+      <name>Seefahrer</name>
+      <kurzname>Se</kurzname>
+      <AbenteurerKategorie ref="2"/>
+      <Restriktionen>
+        <Basiseigenschaft ref="2" min="31"/>
+        <Basiseigenschaft ref="4" min="61"/>
+        <Basiseigenschaft ref="5" min="31"/>
+        <Land ref="1"/>
+        <Land ref="2"/>
+        <Land ref="4"/>
+        <Land ref="5"/>
+        <Land ref="6"/>
+        <Land ref="7"/>
+        <Land ref="10"/>
+        <Land ref="11"/>
+        <Land ref="13"/>
+        <Land ref="14"/>
+        <Land ref="16"/>
+        <Land ref="19"/>
+        <Land ref="20"/>
+        <Land ref="21"/>
+      </Restriktionen>
+    </AbenteurerTyp>
+    <AbenteurerTyp id="11">
+      <name>Söldner</name>
+      <kurzname>Soe</kurzname>
+      <AbenteurerKategorie ref="2"/>
+      <Restriktionen>
+        <Basiseigenschaft ref="1" min="61"/>
+        <Basiseigenschaft ref="2" min="31"/>
+      </Restriktionen>
+    </AbenteurerTyp>
+    <AbenteurerTyp id="12">
+      <name>Spitzbube</name>
+      <kurzname>Sp</kurzname>
+      <AbenteurerKategorie ref="2"/>
+      <Restriktionen>
+        <Basiseigenschaft ref="2" min="61"/>
+        <Basiseigenschaft ref="5" min="61"/>
+      </Restriktionen>
+    </AbenteurerTyp>
+    <AbenteurerTyp id="13">
+      <name>Waldläufer</name>
+      <kurzname>Wa</kurzname>
+      <AbenteurerKategorie ref="2"/>
+      <Restriktionen>
+        <Basiseigenschaft ref="2" min="31"/>
+        <Basiseigenschaft ref="3" min="61"/>
+        <Basiseigenschaft ref="5" min="31"/>
+        <Land ref="1"/>
+        <Land ref="2"/>
+        <Land ref="4"/>
+        <Land ref="6"/>
+        <Land ref="10"/>
+        <Land ref="12"/>
+        <Land ref="13"/>
+        <Land ref="14"/>
+        <Land ref="16"/>
+        <Land ref="17"/>
+        <Land ref="20"/>
+        <Land ref="21"/>
+      </Restriktionen>
+    </AbenteurerTyp>
+
+    <!--Zauberkundige Kämpfer-->
+    <AbenteurerTyp id="14">
+      <name>Barde</name>
+      <kurzname>Ba</kurzname>
+      <AbenteurerKategorie ref="3"/>
+      <Restriktionen>
+        <Basiseigenschaft ref="2" min="31"/>
+        <Basiseigenschaft ref="5" min="61"/>
+        <AbgelEigenschaft ref="1" min="61"/>
+      </Restriktionen>
+    </AbenteurerTyp>
+    <AbenteurerTyp id="15">
+      <name>Ordenskrieger</name>
+      <kurzname>Or</kurzname>
+      <AbenteurerKategorie ref="3"/>
+      <Restriktionen>
+        <Basiseigenschaft ref="1" min="31"/>
+        <Basiseigenschaft ref="2" min="31"/>
+        <Land ref="1"/>
+        <Land ref="2"/>
+        <Land ref="4"/>
+        <Land ref="5"/>
+        <Land ref="6"/>
+        <Land ref="7"/>
+        <Land ref="10"/>
+        <Land ref="11"/>
+        <Land ref="13"/>
+        <Land ref="15"/>
+        <Land ref="17"/>
+        <Land ref="18"/>
+        <Land ref="19"/>
+      </Restriktionen>
+    </AbenteurerTyp>
+    <AbenteurerTyp id="16">
+      <name>Tiermeister</name>
+      <kurzname>Tm</kurzname>
+      <AbenteurerKategorie ref="3"/>
+      <Restriktionen>
+        <Basiseigenschaft ref="2" min="31"/>
+        <Basiseigenschaft ref="5" min="31"/>
+        <AbgelEigenschaft ref="1" min="61"/>
+        <Land ref="2"/>
+        <Land ref="8"/>
+        <Land ref="9"/>
+        <Land ref="12"/>
+        <Land ref="13"/>
+        <Land ref="14"/>
+        <Land ref="15"/>
+        <Land ref="16"/>
+        <Land ref="17"/>
+        <Land ref="20"/>
+      </Restriktionen>
+    </AbenteurerTyp>
+
+    <!-- Zauberer -->
+    <AbenteurerTyp id="17">
+      <name>Beschwörer</name>
+      <kurzname>Be</kurzname>
+      <AbenteurerKategorie ref="1"/>
+      <Restriktionen>
+        <Basiseigenschaft ref="1" min="21"/>
+        <Land ref="1"/>
+        <Land ref="2"/>
+        <Land ref="3"/>
+        <Land ref="4"/>
+        <Land ref="7"/>
+        <Land ref="9"/>
+        <Land ref="10"/>
+        <Land ref="11"/>
+        <Land ref="12"/>
+        <Land ref="14"/>
+        <Land ref="15"/>
+        <Land ref="16"/>
+        <Land ref="17"/>
+        <Land ref="18"/>
+        <Land ref="19"/>
+        <Land ref="20"/>
+        <Land ref="21"/>
+      </Restriktionen>
+    </AbenteurerTyp>
+    <AbenteurerTyp id="18">
+      <name>Druide</name>
+      <kurzname>Dr</kurzname>
+      <AbenteurerKategorie ref="1"/>
+      <Restriktionen>
+        <Basiseigenschaft ref="1" min="21"/>
+        <Land ref="1"/>
+        <Land ref="5"/>
+        <Land ref="8"/>
+        <Land ref="21"/>
+      </Restriktionen>
+    </AbenteurerTyp>
+    <AbenteurerTyp id="19">
+      <name>Heiler</name>
+      <kurzname>Hl</kurzname>
+      <AbenteurerKategorie ref="1"/>
+      <Restriktionen>
+        <Basiseigenschaft ref="1" min="31"/>
+        <Basiseigenschaft ref="2" min="31"/>
+        <Land ref="1"/>
+        <Land ref="2"/>
+        <Land ref="5"/>
+        <Land ref="6"/>
+        <Land ref="7"/>
+        <Land ref="11"/>
+        <Land ref="14"/>
+        <Land ref="15"/>
+        <Land ref="18"/>
+        <Land ref="19"/>
+        <Land ref="20"/>
+        <Land ref="21"/>
+      </Restriktionen>
+    </AbenteurerTyp>
+    <AbenteurerTyp id="20">
+      <name>Hexer</name>
+      <kurzname>Hx</kurzname>
+      <AbenteurerKategorie ref="1"/>
+      <Restriktionen>
+        <Basiseigenschaft ref="1" min="21"/>
+        <Land ref="1"/>
+        <Land ref="2"/>
+        <Land ref="3"/>
+        <Land ref="4"/>
+        <Land ref="5"/>
+        <Land ref="6"/>
+        <Land ref="7"/>
+        <Land ref="8"/>
+        <Land ref="9"/>
+        <Land ref="10"/>
+        <Land ref="11"/>
+        <Land ref="12"/>
+        <Land ref="13"/>
+        <Land ref="14"/>
+        <Land ref="15"/>
+        <Land ref="16"/>
+        <Land ref="17"/>
+        <Land ref="18"/>
+        <Land ref="19"/>
+        <Land ref="20"/>
+        <Land ref="21"/>
+      </Restriktionen>
+    </AbenteurerTyp>
+    <AbenteurerTyp id="21">
+      <name>Magier</name>
+      <kurzname>Ma</kurzname>
+      <AbenteurerKategorie ref="1"/>
+      <Restriktionen>
+        <Basiseigenschaft ref="1" min="21"/>
+        <Land ref="1"/>
+        <Land ref="2"/>
+        <Land ref="4"/>
+        <Land ref="5"/>
+        <Land ref="6"/>
+        <Land ref="7"/>
+        <Land ref="10"/>
+        <Land ref="11"/>
+        <Land ref="13"/>
+        <Land ref="14"/>
+        <Land ref="15"/>
+        <Land ref="16"/>
+        <Land ref="17"/>
+        <Land ref="19"/>
+        <Land ref="21"/>
+      </Restriktionen>
+    </AbenteurerTyp>
+    <AbenteurerTyp id="22">
+      <name>Priester, Fruchtbarkeit</name>
+      <kurzname>PF</kurzname>
+      <AbenteurerKategorie ref="1"/>
+      <Restriktionen>
+        <Basiseigenschaft ref="1" min="21"/>
+      </Restriktionen>
+    </AbenteurerTyp>
+    <AbenteurerTyp id="23">
+      <name>Priester, Handwerk</name>
+      <kurzname>PHa</kurzname>
+      <AbenteurerKategorie ref="1"/>
+      <Restriktionen>
+        <Basiseigenschaft ref="1" min="21"/>
+      </Restriktionen>
+    </AbenteurerTyp>
+    <AbenteurerTyp id="24">
+      <name>Priester, Herrschaft</name>
+      <kurzname>He</kurzname>
+      <AbenteurerKategorie ref="1"/>
+      <Restriktionen>
+        <Basiseigenschaft ref="1" min="21"/>
+      </Restriktionen>
+    </AbenteurerTyp>
+    <AbenteurerTyp id="25">
+      <name>Priester, Krieg</name>
+      <kurzname>PK</kurzname>
+      <AbenteurerKategorie ref="1"/>
+      <Restriktionen>
+        <Basiseigenschaft ref="1" min="21"/>
+      </Restriktionen>
+    </AbenteurerTyp>
+    <AbenteurerTyp id="26">
+      <name>Priester, Meer</name>
+      <kurzname>PM</kurzname>
+      <AbenteurerKategorie ref="1"/>
+      <Restriktionen>
+        <Basiseigenschaft ref="1" min="21"/>
+      </Restriktionen>
+    </AbenteurerTyp>
+    <AbenteurerTyp id="27">
+      <name>Priester, Tod</name>
+      <kurzname>PT</kurzname>
+      <AbenteurerKategorie ref="1"/>
+      <Restriktionen>
+        <Basiseigenschaft ref="1" min="21"/>
+      </Restriktionen>
+    </AbenteurerTyp>
+    <AbenteurerTyp id="28">
+      <name>Priester, Weisheit</name>
+      <kurzname>PW</kurzname>
+      <AbenteurerKategorie ref="1"/>
+      <Restriktionen>
+        <Basiseigenschaft ref="1" min="21"/>
+      </Restriktionen>
+    </AbenteurerTyp>
+    <AbenteurerTyp id="29">
+      <name>Schamane</name>
+      <kurzname>Sc</kurzname>
+      <AbenteurerKategorie ref="1"/>
+      <Restriktionen>
+        <Basiseigenschaft ref="1" min="31"/>
+        <Basiseigenschaft ref="2" min="31"/>
+        <Basiseigenschaft ref="5" min="31"/>
+        <Land ref="3"/>
+        <Land ref="8"/>
+        <Land ref="9"/>
+        <Land ref="10"/>
+        <Land ref="12"/>
+        <Land ref="13"/>
+        <Land ref="14"/>
+        <Land ref="15"/>
+        <Land ref="16"/>
+        <Land ref="17"/>
+        <Land ref="20"/>
+      </Restriktionen>
+    </AbenteurerTyp>
+    <AbenteurerTyp id="30">
+      <name>Thaumaturg</name>
+      <kurzname>Th</kurzname>
+      <AbenteurerKategorie ref="1"/>
+      <Restriktionen>
+        <Basiseigenschaft ref="1" min="21"/>
+        <Basiseigenschaft ref="2" min="31"/>
+        <Land ref="1"/>
+        <Land ref="2"/>
+        <Land ref="4"/>
+        <Land ref="5"/>
+        <Land ref="6"/>
+        <Land ref="7"/>
+        <Land ref="10"/>
+        <Land ref="11"/>
+        <Land ref="13"/>
+        <Land ref="14"/>
+        <Land ref="15"/>
+        <Land ref="16"/>
+        <Land ref="19"/>
+        <Land ref="20"/>
+        <Land ref="21"/>
+      </Restriktionen>
+    </AbenteurerTyp>
+  </AbenteurerTypen>
+  <Rassen>
+    <Rasse id="1">
+      <name>Mensch</name>
+    </Rasse>
+    <Rasse id="2">
+      <name>Elf</name>
+      <Restriktionen>
+        <Basiseigenschaft ref="1" max="90"/>
+        <Basiseigenschaft ref="3" min="81"/>
+        <Basiseigenschaft ref="4" min="61"/>
+        <Basiseigenschaft ref="5" min="61"/>
+        <Basiseigenschaft ref="6" min="61"/>
+        <AbenteurerTyp ref="6"/>
+        <AbenteurerTyp ref="8"/>
+        <AbenteurerTyp ref="13"/>
+        <AbenteurerTyp ref="14"/>
+        <AbenteurerTyp ref="18"/>
+        <AbenteurerTyp ref="19"/>
+        <AbenteurerTyp ref="20"/>
+        <AbenteurerTyp ref="21"/>
+      </Restriktionen>
+    </Rasse>
+    <Rasse id="3">
+      <name>Halbling</name>
+      <Restriktionen>
+        <Basiseigenschaft ref="1" max="80"/>
+        <Basiseigenschaft ref="2" min="61"/>
+        <Basiseigenschaft ref="3" min="91"/>
+        <AbenteurerTyp ref="7"/>
+        <AbenteurerTyp ref="12"/>
+        <AbenteurerTyp ref="13"/>
+        <AbenteurerTyp ref="14"/>
+        <AbenteurerTyp ref="19"/>
+        <AbenteurerTyp ref="22"/>
+      </Restriktionen>
+    </Rasse>
+    <Rasse id="4">
+      <name>Zwerg</name>
+      <Restriktionen>
+        <Basiseigenschaft ref="1" min="61"/>
+        <Basiseigenschaft ref="3" max="80"/>
+        <Basiseigenschaft ref="4" min="61"/>
+        <AbenteurerTyp ref="7"/>
+        <AbenteurerTyp ref="8"/>
+        <AbenteurerTyp ref="11"/>
+        <AbenteurerTyp ref="17"/>
+        <AbenteurerTyp ref="30"/>
+        <AbenteurerTyp ref="18"/>
+        <AbenteurerTyp ref="22"/>
+        <AbenteurerTyp ref="23"/>
+        <AbenteurerTyp ref="24"/>
+        <AbenteurerTyp ref="25"/>
+      </Restriktionen>
+    </Rasse>
+    <Rasse id="5">
+      <name>Gnom</name>
+      <Restriktionen>
+        <Basiseigenschaft ref="1" max="60"/>
+        <Basiseigenschaft ref="2" min="81"/>
+        <Basiseigenschaft ref="3" min="81"/>
+        <Basiseigenschaft ref="4" min="31"/>
+        <AbenteurerTyp ref="1"/>
+        <AbenteurerTyp ref="6"/>
+        <AbenteurerTyp ref="12"/>
+        <AbenteurerTyp ref="13"/>
+        <AbenteurerTyp ref="18"/>
+        <AbenteurerTyp ref="19"/>
+        <AbenteurerTyp ref="20"/>
+        <AbenteurerTyp ref="21"/>
+        <AbenteurerTyp ref="30"/>
+      </Restriktionen>
+    </Rasse>
+  </Rassen>
+</MidgardSources>

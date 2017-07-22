@@ -1,0 +1,180 @@
+  <!-- Waffen -->
+<Waffenfertigkeiten>
+  <Waffenfertigkeit id="1" name="Anderthalbhänder" Typ="Nahkampfwaffe" Kat="Zweihandschwert" LE="St:31;St:81" NE="Gs:21" Schaden="1W6+2;1W6+1">
+Beim Anderthalbhänder handelt es sich um ein über 1m langes Schwert, welches wie der Bihänder mit beiden Händen schlagend geführt wird. Sehr starke Personen können den Anderthalbhänder auch mit einer Hand schwingen, was mit dem schwereren Bihänder nicht möglich ist. Der Anderthalbhänder ist die typische Waffe eines Fian. Das KanThaiPanische Katana zählt ebenfalls zu den Anderthalbhändern.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="2" name="Bihänder" Typ="Nahkampfwaffe" Kat="Zweihandschwert" LE="St:61" NE="Gs:31" Schaden="2W6">
+Beim Bihänder handelt es sich um ein 1,5m langes Schwert, welches wie der Anderthalbhänder mit beiden Händen schlagend geführt wird. Auf dem Rücken eines Pferdes kann der Bihänder nicht verwendet werden, außer die Person beherrscht Kampf zu Pferd. In KanThaiPan gibt es mit dem NoDachi eine regionale Form.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="3" name="Blasrohr" Typ="Fernkampfwaffe" Kat="Blasrohr" LE="Gs:61" Distanz="0-10;11-15;16-20" Schaden="Gift">
+Es gibt Blasrohre in verschiedenen Größen, der Assassine benutzt meist ein kleineres Blasrohr, weil es leichter zu verstecken ist. Sie können aber auch bis zu zwei Meter lang sein. Die Geschoße sind Nadeln, an deren Ende, zur Flugbahnstabilisierung, sich Federn befinden. Die Nadeln an sich richten keinen Schaden an, aber das Gift, das für gewöhnlich daran haftet. Ein Blasrohr kann nur in vollkommener Konzentration benutzt werden, wenn das Opfer ahnungslos ist. Ein Blasrohr besteht aus einem bis zu etwa 2 m langem Rohr aus Holz, Bambus oder ähnlichen Naturmaterialien, aus dem Geschosse, beispielsweise Pfeile, die mit Pfeilgiften vergiftet sein können, oder Tonkugeln, geblasen werden können.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="4" name="Bogen" Typ="Fernkampfwaffe" Kat="Bogen" LE="Gs:31" NE="St:31" Schaden="1W6" Distanz="0-30;31-100;101-180">
+Ein normaler Bogen ist ungefähr 1,20 m lang und besteht normalerweise aus Holz. Damit liegt er sowohl von seiner Länge, als auch von seiner Reichweite und Durchschlagskraft zwischen Lang- und Kurzbogen. Ein Bogen kann ebenso wie ein Kurzbogen und ein Kompositbogen vom Pferderücken aus abgefeuert werden. Beim Schuß vom Pferd sind allerdings Abzüge in Kauf zu nehmen, die jedoch durch die Fertigkeit Bogenkampf zu Pferd aufgehoben werden können.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="5" name="Bola" Typ="Fernkampfwaffe" Kat="Fesselwaffe"  LE="Gs:81" NE="St:21" Schaden="1W6-2" Distanz="2-10;11-15;16-20">
+Die Bola besteht aus zusammengeknoteten Lederbändern (zwei oder vier), mit an der Spitze befindlichen Gewichten (Metall oder Stein). Sie wird geworfen, damit der Gegner sich darin verfängt und kampfunfähig oder zumindest behindert wird. Mit der Bola kann man nicht genau zielen, was es erschwert einen bestimmten Gegner aus einer größeren Gruppe heraus zu treffen.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="6" name="Buckler" Typ="Verteidigungswaffe" Kat="Schild" LE="St:31" NE="Gs:11" Schaden="1W6-3" Schutz="2">
+Der runde Buckler hat einen Durchmesser von ungefähr 30 cm. Er besteht i.d.R. aus Metall und ist in der Mitte mit einem langen Dorn versehen. Man kann ihn zur Abwehr von Angriffen mit Einhandschwertern, Parier-, Stich- oder Spießwaffen, stechend eingesetzten Stangenwaffen oder anderen Bucklern einsetzen. Ebenso wie Parierwaffen kann man ihn auch zum Angriff verwenden. Der Buckler findet häufig Verwendung als Verteidigungswaffe beim Fechten nach tevarrischem Stil.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="7" name="Dolch" Typ="Nahkampfwaffe" Kat="Stichwaffe" LE="Gs:1" Schaden="1W6-1">
+Beim Dolch handelt es sich um eine kurze Stichwaffe, die für den Nahkampf besonders geeignet sind. Der besondere Vorteil ist, dass der Dolch auch im Handgemenge eingesetzt werden kann. Eine Sonderform ist das Stilett. Die Ochsenzunge wiederum ist eine Kombination aus Dolch und Kurzschwert.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="8" name="Faustkampf" Typ="Nahkampfwaffe" Kat="waffenlos" LE="St:31" NE="Gw:21">
+Der Faustkampf, in Chryseia auch Pankration genannt, zählt als Kampf ohne Waffen und ist ein Kräftemessen ohne großes Blutvergießen. Aufgrund des einzuhaltenden Abstandes zwischen den Gegnern kann er nicht im Handgemenge benutzt werden. Faustkämpfe können nur gegen lebendige Gegner mit menschenähnlicher Gestalt und höchstens Kettenrüstung eingesetzt werden. Zur Verstärkung des eigenen Schadens kann der Faustkämpfer Kampfriemen benutzen; darunter fallen Lederriemen, die man in der Hand hält oder Handschuhe mit Metallnieten. Beim Einsatz von Kampfriemen kann man keine Waffen führen, d. h. wenn man in den bewaffneten Kampf wechselt, muss man die Kampfriemen/Handschuhe ablegen, das dauert eine Runde (Anlegen zwei Runden). Der Faustkampf erfordert einen gewissen Abstand zum Gegner und kann daher nicht als Hangemenge durchgeführt werden.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="9" name="Fuchtel" Typ="Nahkampfwaffe" Kat="Stichwaffe" LE="Gs:31" NE="St:61" Schaden="1W6+1">
+Die Fuchtel ist eine Art Degen mit verbreiteter Klinge, die vor allen Dingen in den KÜstenstaaten Verwendung findet. Diese Waffe ist nicht gut ausbalanciert und schwer handzuhaben, von der Durchschlagskraft aber furchterregend. Sie kann wie ein Rapier beim Fechten eingesetzt werden, allerdings wegen ihres Gewichts nur für Paraden und nicht für Zusatzangriffe.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="10" name="Garotte" Typ="Nahkampfwaffe" Kat="Garotte" LE="Gs:61" NE="St:21" Schaden="Erwürgen">
+Die Garotte ist eine in den Küstenstaaten, Chryseia und Valian verbreitete Meuchelwaffe. Die Garotte ist eine Leder- oder Seidenschnur mit Holzgriffen, die nur von hinten angewendet werden kann und dem Opfer schnell die Luftzufuhr abschneidet. Die Waffe kann nur zum Meucheln verwendet werden. Wenn nach einem Treffer der folgende EW:Meucheln misslingt, so erleidet das Opfer immer noch 2W6 schweren Schaden.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="11" name="großer Schild" Typ="Verteidigungswaffe" Kat="Schild" LE="St:61" Schaden="0" Schutz="0">
+Ein großer Rundschild hat etwas 90cm Durchmesser. Große Schilde können auch andere Formen haben. Ihre Fläche reicht immer aus , um den gesamten Frumpf des Träger zu decken. Mit einem großen Schild kann ein Abenteurer alle Angriffe abewehren.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="12" name="Hellebarde" Typ="Nahkampfwaffe" Kat="Stangenwaffe" LE="St:61" NE="Gs:61" Schaden="1W6;1W6+2;2W6-1">
+Diese ca. 2-2,50m lange Waffe besitzt am Ende des Stiels sowohl eine speerartige Spitze als auch eine beilartige Schneide. Die Formen und Größen variieren, aber die Klinge ist auf jeden Fall schwerer und wuchtiger als bei einer Glefe, so daß Schläge entsprechend hohen Schaden (2W6-1) anrichten. Stechend wie ein Stoßspeer eingesetzt, richtet die Helleabarde nur 1W6 Schaden (1W6+2 bei Sturmangeriffen) an.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="13" name="Handaxt" Typ="Nahkampfwaffe" Kat="Einhandschlagwaffe" LE="St:11" Schaden="1W6">
+Die kleine, etwa 40cm lange Waffe ist zum Werfen gedacht, kann aber auch im Nahkmapf eingeetzt werden.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="14" Typ="Nahkampfwaffe" name="Kampfstab" LE="Gs:61" NE="St:31">
+Um diesen ca. 2m langen, megallbeschlagenen Eichenstab zu benutzen, muss man beide Hände frei haben, auch wenn er nicht die ganze Zeit über zweihändig geführt wird. Der Kämpfer versetzt dem Gegener dabei schmerzhafte Stöße und Schläge. Für diese Kampfetechnig braucht der Abenteurer so viel Plathz wie für den Kampf mit zweihändigen Hiebwaffen.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="15" name="Keule" Typ="Nahkampfwaffe" Kat="Einhandschlagwaffe" LE="St:1" Schaden="1W6-1">
+Die Keule is kein improvisierter Knüppel, sondern eine ausgewogene Waffe von 40-60cm Länge, die zum Teil mit Metallringen oder Nägeln versehen ist.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="16" name="kleiner Schild" Typ="Verteidigungswaffe" Kat="Schild" LE="St:31" NE="Gs:11" Schutz="1">
+Ein kleiner Rundschild hat einen Durchmesser von etwa 60cm und besteht wie der große Schiild aus metallversärktem Holz. Anuch andere Schildformen sind gebräuchlich. Der kleine Schild hilfgt gegen alle Nahkampfwaffeangriffe.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="17" name="Kompositbogen"  Typ="Fernkampfwaffe" Kat="Bogen" LE="Gs:31" NE="St:61" Schaden="1W6+1" Distanz="0-30;31-120;121-200">
+Der Kompositbogen der aus Horn, Sehnen und Holz gefertigt wird, ist die bevorzugte Waffe der Reitervölker der tegarischen Steppe. Obwohl er nicht größer als ein normaler Bogen ist , hat er die Reichweite und Durchschlagskraft eines Langbogens, kann aber auch vom Pferderücken aus abgefeuert werden.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="18" name="Kriegshammer" Typ="Nahkampfwaffe" Kat="Einhandschlagwaffe" LE="St:61" NE="Gs:11" Schaden="1W6">
+Der Kriegshammer ist kein für Kampfzwecke missbrauchtes Werkzeug, sondern eine ausbalancierte Waffe, die besonders gern von Zwergen benutzt wird. einige Kriegshämmer laufen auf einer Seite des Kopfes in eine schmale Schneide oder Spitze aus.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="19" name="Krummsäbel" Typ="Nahkampfwaffe" Kat="Einhandschwert" LE="St:31" NE= "Gs:11" Schaden="1W6;1W6+1">
+Zu den Krummsäbeln zählen alle Schwerter mit gekrümmter Klinge, die nur auf einer Seite geschärft sind und mit einer Hand geführt werden. Die Waffen haben eine Länge von 0,8 - 1m. Als Reiterwaffe richtet die Klinge durch die Wucht von oben mehr Schaden an.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="20" name="Kurzbogen" Typ="Fernkampfwaffe" Kat="Bogen" LE="Gs:31" NE="St:11" Schaden="1W6-1" Distanz="0-30;31-80;81-120">
+Dieser kleine Bogen ist nur etwa 1m lang und erfordert beim Schießen eine Zugkraft von 12-15kg, so daß er auch von schwächeren Personen benutzt werden kann. Er kann auch vom Pferderücken aus abgeschossen werden.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="21" name="Kurzschwert" Typ="Nahkampfwaffe" Kat="Stichwaffe" LE="Gs:1" Schaden="1W6">
+Kurzschwerter sind 50-80cm lang und besitzen Spitze und Schneide. Sie werden in erster Linie stechend eingesetzt, aber der Kämpfer mit dieser Waffe beherrscht auch Schläge.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="22" name="Langbogen" Typ="Fernkampfwaffe" Kat="Bogen" LE="Gs:61" NE="St:61" Schaden="1W6+1" Distanz="0-30;31-120;121-200">
+Langbögen sind ungefähr 1,80 m lang und zu unhandlich, um sie von einem Pferderücken aus abzuschießen. Sie erfordern eine Zugkraft von 35kg und entwickeln so eine Durchschlagskraft, gegen die auch Rüstungsplatten nur wenig Schutz bieten. Rusütklassen, PR, VR und RR verringern die LP-Verluste durch einen schweren Langbogentreffer daher nur um 3.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="23" name="Langschwert" Typ="Nahkampfwaffe" Kat="Einhandschwert" LE="St:31" NE="Gs:21" Schaden="1W6">
+Als Langschwerter gelten alle Schwerter mit gerader Klinge, die etwa 1m lang sind und mit einer Hand geführt werden. Manche Langschwerter haben zwar ein eSpitze, aber im Kampf schlägt man mit ihnen meist zu.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="24" name="Lanze" Typ="Nahkampfwaffe" Kat="Spießwaffe" LE="St:61" NE="Gs:11" Schaden="1W6;2W6+2;3W6+3">
+Lanzen sind extrem lange Waffen (4m und mehr), die mit beiden Händen geführt werden müssen. In diese Gruppe gehören Phalangenpiken und Ritterlanzen. Die Lanze ist eine Waffe für Feldschlachten, wo Kämpfer in Formation dem Gegner einen Wall von Metallspitzen entgegenhalten.Für einzlne Abenteurer eignet sich die Lanze nur al Reiterwaffe, umd auch hier kann sie nur bei einem Sturmangriff eingesetzt werden. Im Innern von Gebäuden wirkt sie sich die wegen ihrer Länge äußerst hinderlich aus. Bei Sturmangriffen richtet die Waffe erhöhten Schaden an, der beim Reiterangriff nochmal übertroffen wird.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="25" name="Lasso" Typ="Fernkampfwaffe" Kat="Fesselwaffe" LE="Gs:81" Distanz="3-6;7-10;11-15">
+Das Lasso besteht aus einer 20 m langen Schnur aus Leder oder Pflanzenfasern, die an einem Ende zu einer Schinge gebunden ist. Zum Wurf braucht ein Abenteurer mind. 2m breiten freien Raum und das Ziel muss wenigstens 3m entfernt sein. Der Angriff mit dem Lasso wird genauso wie ein Fesselungsversuch mit einer Peitsche behandelt. Außer daß bei Erfolg der gefesselte Körperteil anhand folgender Liste ausgewürfelt wird.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="26" name="Leichte Armbrust"  Typ="Fernkampfwaffe" Kat="Armbrust" LE="Gs:31" Schaden="1W6" Distanz="0-30;31-120;121;220">
+Die leichte Armbrust ist mit etwas 60cm Länge klein genug, um auch von einem stehenden Pferd aus abgefeuert zu werden. Sie lässt sich schnell und unkompliziert laden, so daß der Abenteurer in jeder Runde (10sec) einen Schuss abfeuern kann. Mit allen Armbrüsten kann man auch im Liegen schießen.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="27" name="Leichter Speer" Typ="Nahkampfwaffe" Kat="Spießwaffe" LE="Gs:1" Schaden="1W6-1">
+Zu dieser Gruppe gehören alle kurzen, 1-1,5m langen Speere. Auch im Nahkampf eingesetzte Wurfspeere.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="28" name="Morgenstern" Typ="Nahkampfwaffe" Kat="Kettenwaffe" LE="St:61" NE="Gs:61" Schaden="1W6+2">
+An einem Holzstiel sind eine oder mehrere Eisenketten angebracht, an deren Ende glatte oder mit Dornen versehene Metallkugeln befestigt sind. Der Stiel ist etwa ein Drittel länger als die Ketten, so daß der Kämpfer keine Gefahr läuft, sich selbst mit den Metallgewichten zu maltraitieren.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="29" name="Ogerhammer" Typ="Nahkampfwaffe" Kat="Zweihandschlagwaffe" LE="St:96" NE="Gs:31" Schaden="4W6-3;4W6">
+Der Ogerhammer besteht aus einem 1,20m langen Stiel und einem enormen, zusätzlich mit Dornen versehenem Hammerkopf. Er ist äußerst unhandlich und unausgewogen und wird daher nur von den stärksten Kämpfern benutzt. Der von ihm angerichtete Schaden ist beispiellos. Der Ogerhammer wird zweihändig geführt. Der Angreif muß eine Runde lang ausholen, während der er sich aber mit B/2 fortbewegen kann. Man kann daher nur jede zweite Runde mit dem Ding angreifen.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="30" name="Ochsenzunge" Typ="Nahkampfwaffe" LE="Gs:31" Schaden="2W6-4">
+Die Ochsenzunge ist eine Kombination aus Kurzschwert und Dolch. Sie hat eine kurze dafür aber sehr breite Klinge. Der Schaden hängt sehr davon ab, wie der Gegner getroffen wird.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="31" name="Parierdolch" Typ="Verteidigungswaffe" Kat="Parierwaffe"  LE="Gs:61" Schaden="1W6-1" Schutz="2" Dep="7">
+Ein Parierdolch sieht ähnlich aus wie ein normaler Dolch und kann auch wie ein solcher zum Angriff benutzt werden. Er besitzt aber besonders ausgeprägte Parierstangen und eignet sich daher in kundiger Hand auch zur Abwehr von Einhandschwertern, Parierwaffen, Bucklern, Stich- und Spießwaffen und stechend eingesetzten Stangenwaffen.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="32" name="Peitsche" Typ="Nahkampfwaffe" Kat="Peitsche" LE="Gs:81" NE="St:21" Schaden="1W6-3">
+Der Einsatz einer Peitsche im Kampf erfordert hohe Geschicklichkeit und langjährige Übung. Diese Waffe wird nur mit einer Hand geführt; mit ihr braucht ein Abenteurer aber wie mit einer zweihändigen Hiebwaffe mind. 2m breiten freien Raum. Mit der 3-5m langen Peitschenschnur können Genger in bis zu 3m Entfernung im Nahkmpf angegeriffen werden, wenn keine Hindernisse im Weg stehen. Ein Abenteuer kann seine Peitsche auf drei verschiedene Weisen einsetzen: um einen Gegener zu verwunden, um ihn zu entwaffnen oder um seine Gliedmaßen zu fesseln.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="33" name="Rapier" Typ="Nahkampfwaffe" Kat="Stichwaffe" LE="Gs:51" NE="St:11" Schaden="1W6">
+Der Rapier ist ein Schwert von ca. 1m Länge. Die Klinge der Waffe ist so schmal, daß man mit ihr nur fechten und zustechen, aber nicht schlagen kann.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="34" name="Schlachtbeil" Typ="Nahkampfwaffe" Kat="Zweihandschlagwaffe" LE="St:61" NE="Gs:31" Schaden="1W6+3;1W6+1">
+Ein Schlachtbeil ist ein langstieliges Beil mit einem einschneidigen Axtkopf am Ende des 1,20m langen Holzstiels, das normalerweise mit beiden Händen geführt wird.Abenteurer die starkt genug sind (ab 91) und die außerdem Grundkenntnisse mit Einhandschlagwaffen haben, können auch einhändig mit dem Schlachtbeil kämpfen, richten dann aber nur 1W6-1 Schaden an.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="35" name="Schleuder" Typ="Fernkampfwaffe" Kat="Schleuder" LE="Gs:61" Schaden="1W6" Distanz="0-30;31-60;61-90">
+Mit dieser einhändig geführten Lederschlinge können Bleigeschosse oder Kieselsteine geschleudert werden. Bei Verwendung von Steinen wird nur 1W6-1 Schaden angerichtet.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="36" name="schwere Armbrust" Typ="Fernkampfwaffe" Kat="Armbrust" LE="Gs:61" NE="St:61" Schaden="2W6-1" Distanz="0-30;31-120;121-240">
+Die schwere Armbrust ist etwa 90cm lang und besitzt wesentlich größere Durchlsgskraft alsi die leichte Armbrust. Dafür kann sie auch nur unter Zuhilfenahme des Fußes oder eins komplizierten und schwergängigen Gewindes gespannt werden, was den Schützen eine volle Runde in Anspruch nimmt.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="37" name="Speerschleuder" Typ="Fernkampfwaffe" Kat="Wurfspieß" LE="St:31" NE="Ge:61" Schaden="1W6" Distanz="0-20;21-40;41-70">
+Eine Speerschleuder besteht aus einem Stock mit einer Führungsrinne, in die ein kurzer Wurfspeer eingelegt und mit großer Wucht fortgeschleudert werden kann.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="38" name="Stabkeule" Typ="Nahkampfwaffe" Kat="Zweihandschlagwaffe" LE="St:81" NE="St:11" Schaden="2W6-2">
+Eine Stabkeule besteht aus einem 1,5-2m langem Holzstiel, an dem ein massiver Kopf aus Metall, Stein, mit Steinplittern oder Nägeln gespicktem Hartholz oder einem anderen festen Material befestigt ist.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="39" name="Stielhammer" Typ="Nahkampfwaffe" Kat="Stangenwaffe" LE="St:81" NE="St:11" Schaden="1W6;1W6+1;2W6">
+Der Stielhammer ist eine vor allem bei Zwergen beliebte Waffe. An einem etwa 2m langen Holzstiel sitzt ein massiver Metallkopf, der an der einen Seite hammerargig, an der anderen Seite in einer schmalen Schneide oder einer Spitze ausläuft, ähnlich einem Schusterhammer oder einer Spitzhacke. Die wuchtigen Schlge des Stielhammers richten großen Schaden (2W6) an. Stechend wird auch Schaden erzeugt (1W6, 1W6+1 bei Sturmangriff).
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="40" name="Stoßspeer" Typ="Nahkampfwaffe" Kat="Spießwaffe" LE="St:31" NE="Gs:11" Schaden="1W6;2W6;3W6">
+Stoßspeere sind 2-2.5m lang und besitzen ein breites Blatt. Sie sind zu schwer zum gezielten Werfen und finden nur im Nahkampf Verwendung. Ein Stoßspeer kann mit einer Hand geführt werden, doch richtet er bei einem Sturmangriff nur dann erhöhten Schaden (2W6, 3W6 zu Pferd) an, wenn er mit beiden Händen gehalten wird.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="41" name="Streitaxt" Typ="Nahkampfwaffe" Kat="Einhandschlagwaffe" LE="St:61" NE="Gs:11" Schaden="1W6+1">
+Streitäxte besitzen einen schweren Axtkopf mit zwei Schneiden, so daß auch Rückhandschläge möglich sind. Der 60-70cm lange Stiel besteht aus Holz oder Metall. Die Waffe kann noch mit einer Hand geführt werden.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="42" name="Streitkolben" Typ="Nahkampfwaffe" Kat="Einhandschlagwaffe" LE="St:31" Schaden="1W6">
+Der Streitkolben gleicht in Form und Maßen einer Streitaxt, hat jedoch keinen beilartigen Kopf. Am Ende des Stiels befindet sich stattdessen eine Metallkugel, ein Metallwürfel oder ein ähnlich massives Metallstück, das auch Kanten und Spitzen haben kann.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="43" name="Waffenloser Kampf" Typ="Nahkampfwaffe" Kat="Kampf ohne Waffen" LE="St:21" NE="Gw:21" Schaden="1W6-4">
+Jeder Mensch kann sich im Notfall mit seinen bloßen Händen wehren. Er hat dafür den ungelernten Erfolgswert +4 im waffenlosen Kampf und richtet 1W6-4 Schaden an. Zum Schadenwswurf wird wie üblich der persönliche Schadensbonus addiert. Bei dieser Kampfweise prügelt der Angreifer mehr oder weniger unkontrolliert auf seinen Gegner ein. Abenteurer, die eine Ausblidung im waffenlosen Kampf genossen haben, haben sich dagegen systematisch mit einer besonderen Kampftechnik (ähnlich wie Judo, Karate usw.) befasst, mit der sie auch ohne Waffen wirkungsvoll kämpfen können. Der Kamfpstil hängt von der Herkunft des Abenteurers ab, wirkst sich aber der Einfachheit halber nicht in den Regeln aus.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="44" name="Werfen" Typ="Fernkampfwaffe" Kat="Werfen" LE="Gs:31">
+Werfen beinhaltet die Fähigkeit, Gegenstände wie Münzen, Bälle, Steine, Bierkrüge und anderes gezielt zu werfen. Jeder Mensch kann dies mehr schlecht als recht und besitzt dafür den ungelernten Erfolgswert +4. Ein im Werfen ausgebildetet Abenteurer besitzt dagegen Übung darin, schlecht balancierte Objekte in der Hand zu wiegen und so ein Gefühl für ihre Flugeigenschaften zu entwickeln.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="45" name="Wurfaxt" Typ="Fernkampfwaffe" Kat="Stielwurfwaffe" LE="St:31" NE="Gs:31" Schaden="1W6" Distanz="0-10;11-20;21-30" Dep="13">
+Zum gezielten Werfen eignen sich kleine, besonders gut ausbalancierte Äxte, die auch im Nahkampf als Handaxt eingesetzt werden können. Ein Abenteurer, der Wurfaxt lernen will, muss bereits den Kampf mit der Handaxt beherrschen.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="46" name="Wurfhammer" Typ="Fernkampfwaffe" Kat="Stielwurfwaffe" LE="St:61" NE="Gs:31" Schaden="1W6" Distanz="0-10;11-20;21-30" Dep="18">
+Wurfhämmer sind gut ausbalancierte Kriegshämmer mit massivem, stumpfem Kopf, die zum Werfen besonders gut geeignet sind. Ein Abenteurer, der Wurfhammer lernen will, muss bereits den Kampf mit dem Kriegshammer beherrschen.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="47" name="Wurfkeule" Typ="Fernkampfwaffe" Kat="Stielwurfwaffe" LE="St:31" NE="Gs:31" Schaden="1W6-1" Distanz="0-10;11-30;31-50" Dep="15">
+Zu den Wurfkeulen zählen verschiedene Wurfstöcke und -keulen aus Holz oder Metall. Hierzu gehören der Kriegsbumerang, der nicht zum Werfer zurückkommt, und kleine streitkolbenartige Wurfgeschosse aus Metall. Im Nahkmpf zählen alle diese Waffen als Keulen. Ein Abenteurer, der Wurfkeule lernen will, muss bereits den Kampf mit der Keule beherrschen.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="48" name="Wurfmesser" Typ="Fernkampfwaffe" Kat="Wurfmesser" LE="Gs:61" Schaden="1W6-1" Distanz="0-11;11-15;16-20" Dep="7">
+Diese Messer sind so genial ausbalanciert, dass man mit ihnen im Gegensatz zu gewöhnlichen Dolchen gezielt werfen kann.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="49" name="Wurfpfeil" Typ="Fernkampfwaffe" Kat="Wurfpfeil" LE="Gs:31" NE="St:11" Schaden="1W6-2" Distanz="0-10;11-20;21-30">
+Wurfpfeile sind etwa 30cm lang und besitzen eine Metallspitze. Meuchelmörder setzen gerne vergiftete Wurfpfeile ein, da diese Waffen sich leicht verbergen lassen und aus der Entfernung eingesetzt werden können.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="50" name="Wurfscheibe" Typ="Fernkampfwaffe" Kat="Wurfscheibe" LE="Gs:61" NE="St:61" Schaden="1W6-2" Distanz="0-10;11-20;21-30">
+Wurfscheiben sind etwa 20cm durchmessende, scharfkantige Metallscheiben, die mit einem Rückhandwurf geschleudert werden.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="51" name="Wurfspeer" Typ="Fernkampfwaffe" Kat="Wurfspieß" LE="St:31" NE="Gs:21" Schaden="1W6-1" Distanz="0-10;11-20;21-30" Dep="27">
+Wurfspieße sind nicht länger, aber etwas stabiler als Wurfspeere und besitzen ein längere Metallspitze oder einen Metallschaft. Ein Beispiel für diese Waffe ist das Pilum. Im Nahkmapf werden Wurfspieße wie leichte Sperre eingesetzt. Ein Abenteurer, der Wurfspieß lernen will, muß bereits den Kampf mit dem leichten Speer beherrschen.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="52" name="Wurfstern" Typ="Fernkampfwaffe" Kat="Wurfscheibe" LE="Gs:61" Schaden="1W6-3" Distanz="0-5;6-10;11-15">
+Wurfsterne sind kleine Wurfgeschosse aus mehreren vom Zentrum ausgehenden Metallspitzen, aus scharfkantigen Metallringen oder -scheiben. Es ist möglich, in einer Runde bis zu 3 Wurfsterne auf ein Ziel zu werfen. Für jeden Wurf wird ein separater EW:Angriff ausgeführt.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="53" name="Wurfspieß" Typ="Fernkampfwaffe" Kat="Wurfspieß" LE="St:61" NE="Gs:21" Schaden="1W6" Distanz="0-10;11-20;21-30" Dep="27">
+Wurfspieße sind nicht länger, aber etwas stabiler als Wurfspeere und besitzen eine längere Metallspitze oder einen Metallschaft. Ein Beispiel für diese Waffe ist das Pillum. Im Nahkampf werden Wurfspieße wie leichte Speere eingesetzt. Der Abenteurer muss den Kampf mit dem leichten Speer beherrschen.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="54" name="Kriegsflegel" Typ="Nahkampfwaffe" Kat="Kettenwaffe" LE="St:61" NE="Gs:31" Schaden="2W6-1">
+Diese lange Waffe ist aus dem Dreschflegel aufständischer Bauern hervorgegangen, mit dem sie ihre adligen Herren aus dem Sattel geholt haben. Sie besteht aus einem ca. 1,8m langen Holzschaft, an dem eine kurze Kette und daran ein schweres, mit Dornen versehenes Metallgewicht befestigt ist.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="55" name="Stockschleuder" Typ="Fernkampfwaffe" Kat="Schleuder" LE="Gs:81" NE="St:31" Schaden="2W6-2">
+Eine Stockschleuder besteht aus einem ca 1,2m langen Holzstab, an dessen Ende eine Schleudertasche angebracht ist. Als Geschosse dienen im Vergleich zu normalen Schleuderkugeln große Steine. Das Gerät wird mit beiden Händen über den Kopf nach vorne geschwungen. Die Geschosse bewegen sich auf einer ballistischen Bahn, so das diese Waffe nur im Freien oder in mindestens 10m hohen Räumen benutzt werden kann.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="56" name="Netz" Typ="Fernkampfwaffe" Kat="Fesselwaffe" LE="Gs:81" Distanz="0-5;6-7;8-10">
+Das an den Rändern mit Metallstücken oder Steinen beschwerte 4mm große Netz wird im Kampf über einen Gegner geschleudert, damit dieser sich darin verheddert. Jeder Netztreffer richtet nur leichten Schaden an. Ein Abenteurer kann nur ungefähr menschengroße Wesen mnt dem Netz fangen. Er erhält -4 auf seinen EW:Angriff außer wenn der Gegner eine Platten- oder Vollrüstung trägt oder er besonders unbeweglich ist. Wird eine Spielfigur von einem Nezt gefesselt, entscheidet ein PW:Gewandtheit, ob sie zu Boden stürzt oder sich auf den Beinhen halten und weiterlaufen kann. 
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="57" name="Magierstecken" Typ="Nahkampfwaffe" Kat="Zauberstab" LE="Gs:61" NE="St:31" Schaden="1W6+1">
+Der Magierstecken ist eine größere, etwa mannshohe Form des Magierstabes, der ebenfalls als magische Waffe ((0/1) zählt. Er wird im Kampf wegen seiner Länge und seines Gewichts mit beiden Händen geführt. Die Kampftechnik ist aber ein einfaches Zustoßen und Zuschlagen von oben her und nicht zu vergleichen mit dem Einsatz eines Kampfstabes. Daher kann der Abenteurer den Magierstecken nicht bei der Abwehr und auch nicht zum Entwaffnen von Gegnern einsetzen, benötigt aber im Kampf auch nicht so viel Platz wie mit einem Kampfstab. Wie der Magierstab kann auch der Magierstecken nur von zauberkundigen Abenteurern mit Ausnahme von Barden benutzt werden. Andere benutzen den Stecken wie eine Stabkeule.
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="58" name="Magierstab" Typ="Nahkampfwaffe" Kat="Zauberstab" LE="Gs:31" Schaden="1W6">
+Dieser 0,7-1,2m lange einhändig geführte Stab besteht aus Eschen- oder Eichenholz und ist mit einem feinen Netz aus Alchimistenmetall überzogen. Ein Zauberer richtet mit dieser Waffe nicht nur durch die Kraft des Zuschlagens Schaden an, sondern auch durch eine magische Entladung. Magierstäbe zählen daher als magische Waffen mit magischem Bonus (0/1) im Kampf gegen übernatürlich Gegner. 
+  </Waffenfertigkeit>
+  <Waffenfertigkeit id="59" name="Glefe" Typ="Nahkampfwaffe" Kat="Zauberstab" LE="Gs:31" Schaden="1W6">
+Dieser 0,7-1,2m lange einhändig geführte Stab besteht aus Eschen- oder Eichenholz und ist mit einem feinen Netz aus Alchimistenmetall überzogen. Ein Zauberer richtet mit dieser Waffe nicht nur durch die Kraft des Zuschlagens Schaden an, sondern auch durch eine magische Entladung. Magierstäbe zählen daher als magische Waffen mit magischem Bonus (0/1) im Kampf gegen übernatürlich Gegner. 
+  </Waffenfertigkeit>
+</Waffenfertigkeiten>

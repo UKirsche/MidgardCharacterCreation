@@ -1,0 +1,73 @@
+<Allgemeinwissen>
+<WissenLand>
+ <Fachkenntnis id="69" val="10" cost="0" sprache="Mutter" variabel="true"/>
+ <Fachkenntnis id="69" val="9" cost="0" sprache="Gastland" variabel="true"/>
+ <Fachkenntnis id="30" val="4" cost="1"/>
+ <Fachkenntnis id="63" val="4" cost="1" sprache="Mutter"/>
+ <Fachkenntnis id="67" val="8" cost="1"/>
+ <Fachkenntnis id="63" val="4" cost="1" sprache="Gast" />
+ <Fachkenntnis id="77" val="10" cost="1" />
+ <Fachkenntnis id="17" val="4" cost="2"/>
+ <Fachkenntnis id="40" val="9" cost="2"/>
+ <Fachkenntnis id="47" val="8" cost="2"/>
+ <Fachkenntnis id="52" val="10" cost="2"/>
+ <Fachkenntnis id="61" val="10" cost="2"/>
+ <Fachkenntnis id="63" val="9" cost="2" sprache="Alle"/>
+ <Fachkenntnis id="66" val="6" cost="2"/>
+ <Fachkenntnis id="69" val="9" cost="2"/>
+ <Fachkenntnis id="68" val="10" cost="2"/>
+ <Fachkenntnis id="90" val="10" cost="2"/>
+ <Waffenfertigkeit id="7" val="4" cost="2"/>
+ <Waffenfertigkeit id="27" val="4" cost="2"/>
+ <Fachkenntnis id="12" val="6" cost="3"/>
+ <Fachkenntnis id="25" val="10" cost="3"/>
+ <Fachkenntnis id="38" val="10" cost="3"/>
+ <Fachkenntnis id="48" val="4" cost="3"/>
+ <Fachkenntnis id="49" val="4" cost="3"/>
+ <Fachkenntnis id="54" val="4" cost="3"/>
+ <Fachkenntnis id="63" val="12" cost="3" sprache="Mutter"/>
+ <Fachkenntnis id="64" val="10" cost="3"/>
+ <Fachkenntnis id="69" val="12" cost="3" sprache="Alle"/>
+ <Fachkenntnis id="71" val="4" cost="3"/>
+ <Fachkenntnis id="81" val="4" cost="3"/>
+ <Fachkenntnis id="83" val="6" cost="3"/>
+ <Fachkenntnis id="84" val="6" cost="3"/>
+ <Fachkenntnis id="85" val="6" cost="3"/>
+ <Fachkenntnis id="1" val="6" cost="4"/>
+ <Fachkenntnis id="73" val="10" cost="4"/>
+ <Fachkenntnis id="87" val="6" cost="4"/>
+</WissenLand>
+<WissenStadt>
+ <Fachkenntnis id="69" val="10" cost="0" sprache="Mutter" variabel="true" />
+ <Fachkenntnis id="69" val="10" cost="0" sprache="Gastland" variabel="true" />
+ <Fachkenntnis id="13" val="8" cost="1"/>
+ <Fachkenntnis id="63" val="4" cost="1" sprache="Mutter" />
+ <Fachkenntnis id="67" val="8" cost="1"/>
+ <Fachkenntnis id="69" val="4" cost="1" sprache="Alle"/>
+ <Fachkenntnis id="77" val="10" cost="1"/>
+ <Fachkenntnis id="22" val="8" cost="2"/>
+ <Fachkenntnis id="24" val="6" cost="2"/>
+ <Fachkenntnis id="40" val="10" cost="2"/>
+ <Fachkenntnis id="47" val="8" cost="2"/>
+ <Fachkenntnis id="52" val="10" cost="2"/>
+ <Fachkenntnis id="63" val="9" cost="2" sprache="Mutter" />
+ <Fachkenntnis id="66" val="6" cost="2"/>
+ <Fachkenntnis id="69" val="9" cost="2" sprache="Alle"/>
+ <Fachkenntnis id="90" val="10" cost="2"/>
+ <Waffenfertigkeit id="7" val="4" cost="2"/>
+ <Waffenfertigkeit id="15" val="4" cost="2"/>
+ <Fachkenntnis id="12" val="6" cost="3"/>
+ <Fachkenntnis id="21" val="4" cost="3"/>
+ <Fachkenntnis id="28" val="15" cost="3"/>
+ <Fachkenntnis id="45" val="4" cost="3"/>
+ <Fachkenntnis id="51" val="6" cost="3"/>
+ <Fachkenntnis id="54" val="4" cost="3"/>
+ <Fachkenntnis id="55" val="4" cost="3"/>
+ <Fachkenntnis id="57" val="6" cost="3"/>
+ <Fachkenntnis id="63" val="12" cost="3" sprache="Mutter"/>
+ <Fachkenntnis id="69" val="12" cost="3" sprache="Alle"/>
+ <Fachkenntnis id="8" val="6" cost="4"/>
+ <Fachkenntnis id="72" val="8" cost="4"/>
+ <Fachkenntnis id="87" val="6" cost="4"/>
+</WissenStadt>
+</Allgemeinwissen>

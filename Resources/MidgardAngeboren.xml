@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AngeboreneFertigkeiten>
+  <Sinn id="1" name="Sehen" val="8"></Sinn>
+  <Sinn id="2" name="Hören" val="8"></Sinn>
+  <Sinn id="3" name="Riechen" val="8"></Sinn>
+  <Sinn id="4" name="Schmecken" val="8"></Sinn>
+  <Sinn id="5" name="Tasten" val="8"></Sinn>
+  <Sinn id="6" name="Sechster Sinn" val="6"></Sinn>
+  <Fertigkeit id="1" name="Berserkergang" val="8"></Fertigkeit>
+  <Fertigkeit id="2" name="Einprägen" val="4"></Fertigkeit>
+  <Fertigkeit id="3" name="Gute Reflexe" val="9"></Fertigkeit>
+  <Fertigkeit id="4" name="Nachtsicht" val="8"></Fertigkeit>
+  <Fertigkeit id="5" name="Richtungssinn" val="12"></Fertigkeit>
+  <Fertigkeit id="6" name="Robustheit" val="9"></Fertigkeit>
+  <Fertigkeit id="7" name="Wachgabe" val="4"></Fertigkeit>
+</AngeboreneFertigkeiten>

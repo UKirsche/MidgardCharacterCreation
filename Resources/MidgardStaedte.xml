@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Staedte>
+  <Stadt id="1">
+    <name>Adhelstan</name>
+    <einwohner>3500</einwohner>
+    <beschreibung></beschreibung>
+    <Land ref="1" />
+  </Stadt>
+  <Stadt id="2">
+    <name>Beornanburgh</name>
+    <einwohner>35000</einwohner>
+    <beschreibung>Hauptstadt von Alba. Mit 35.000 Einwohnern ist sie zugleich die größte Stadt des Königreichs.</beschreibung>
+    <Land ref="1" />
+  </Stadt>
+  <Stadt id="3">
+    <name>Byrne</name>
+    <einwohner>4000</einwohner>
+    <beschreibung></beschreibung>
+    <Land ref="1" />
+  </Stadt>
+  <Stadt id="4">
+    <name>Cambryg</name>
+    <einwohner>1500</einwohner>
+    <beschreibung>
+      An der Straße von Beornanburgh nach Crossing liegt 45 km nördlich von Beornanburgh an der Cam der aufstrebende Ort Cambryg.
+      Im Jahr 2354 nL wurde hier von König Lugan MacBeorn die Königlich-Albische Akademie gegründet.
+      Erst vor wenigen Jahren wurde Cambryg von Reichsverweser Angus MacBeorn das Stadtrecht verliehen.
+      Nicht weit vom Ort steht das Vraidos-Kloster Abtei der weitreichenden Erinnerungen. In der Stadt befindet sich auch ein Hospitz der Gilde der Lichtsucher,
+      eine Stadtmauer wurde erst begonnen. Viele der neuen Häuser sind aus Stein gebaut, aber es gibt auch noch einige alte Häuser aus Holz. Ein großer Tempel der Dheis Albi
+      wurde nicht unweit der Akademie fertiggestellt. Die Stiftung der Akademie durch den Albischen König wird allgemein als Unterstützung des Vraidos-Kultes interpretiert,
+      aber auch als Versuch der MacBeorns ihren Einfluss auf den Vraidos-Kult zu steigern. Viele kluge junge Köpfe in Alba zieht es heute zum Studium nach Cambryg.
+      Hier kann an den fünf Fakultäten für Glaubenslehre, Zauberei, Philosophie, Heilkunde und Rechtskunde studiert werden. Die Dozenten der Akademie gehören einem
+      von drei Kollegien an.
+    </beschreibung>
+    <Land ref="1" />
+  </Stadt>
+  <Stadt id="5">
+    <name>Crossing</name>
+    <einwohner>10000</einwohner>
+    <beschreibung>
+      Im Jahr 1559 nL schlug der Seemeister Taurellian mit einem Bündniss mit den Dûnatha die Twyneddin vernichtend bei Crossing.
+      Selbst heute noch sollen die Felder von Geistern heimgesucht werden.
+    </beschreibung>
+    <Land ref="1" />
+  </Stadt>
+  <Stadt id="6">
+    <name>Deorstead </name>
+    <einwohner>5000</einwohner>
+    <beschreibung>
+      Die Gilde der Fünf Stäbe vereinigt alle, die in der Stadt Handel treiben. Sie bestimmt die Preise für die wichtigsten Güter, erteilt Handelsgenehmigungen
+      und legt Ein- und Ausfuhrbestimmungen fest. Haupt der Gilde ist ein Rat aus fünf ansässigen Händlern mit dem Gildenmeister Athrad MacBeorn.
+    </beschreibung>
+    <Land ref="1" />
+  </Stadt>
+  <Stadt id="7">
+    <name>Dungarvan</name>
+    <einwohner>1800</einwohner>
+    <beschreibung></beschreibung>
+    <Land ref="1" />
+  </Stadt>
+  <Stadt id="8">
+    <name>Elrodstor</name>
+    <einwohner>1600</einwohner>
+    <beschreibung></beschreibung>
+    <Land ref="1" />
+  </Stadt>
+  <Stadt id="9">
+    <name>Estragel</name>
+    <einwohner>8000</einwohner>
+    <beschreibung>
+      Die albische Stadt Estragel liegt in den Südmarken Albas nahe der Grenze zu Chryseia. Die Stadt wurde erst vor 123 Jahren (2303 nL) durch König Baldric MacBeorn
+      erobert und ist heute der Sitz des königlichen Vogts der Südmark. Nach der Eroberung wurde sie keinem Clangebiet zugeschlagen sondern untersteht direkt der Krone von Alba.
+      Das Nachbarland stellt eine fortwährende Bedrohung dar, und so ist die Stadt von einer hohen Mauer aus Findlingen umgeben. Um die Stadtburg herum stehen viele Häuser
+      in enger Bebauung und lassen nur enge Gassen übrig. Die beiden Ritterorden Albas, der Sonnenorden und der Orden von Heiligen Speer, verfügen jeweils über ein
+      eigenes Stadtviertel, zudem sind mittlerweile zahlreiche Melgaren aus den umliegenden Melgar-Bergen in die Stadt gezogen. Die hohe Anzahl an Söldnern und Soldaten
+      sorgt für viel Unrat und Schmutz auf den Wegen, die vielen Katzen werden der Ratten kaum Herr.
+    </beschreibung>
+    <Land ref="1" />
+  </Stadt>
+  <Stadt id="10">
+    <name>Fiorinde</name>
+    <einwohner>18000</einwohner>
+    <beschreibung></beschreibung>
+    <Land ref="1" />
+  </Stadt>
+  <Stadt id="11">
+    <name>Glenachtor</name>
+    <einwohner>1300</einwohner>
+    <beschreibung></beschreibung>
+    <Land ref="1" />
+  </Stadt>
+  <Stadt id="12">
+    <name>Haelgarde</name>
+    <einwohner>27000</einwohner>
+    <beschreibung>
+      Haelgarde ist nach Beornanburgh mit 27.000 Einwohnern die zweitgrößte Stadt im Königreich Alba und eine von drei Boroughs.
+      Die Stadt lebt vorwiegend vom blühenden Handel mit den Waelingern, die hier ihre geraubte Beute verkaufen wollen. Das Wahrzeichen der Stadt ist der
+      über 70 Meter hohe Leuchtturm, der bereits vor dem Krieg der Magier erbaut wurde.
+    </beschreibung>
+    <Land ref="1" />
+  </Stadt>
+  <Stadt id="13">
+    <name>Harkfast</name>
+    <einwohner>2500</einwohner>
+    <beschreibung></beschreibung>
+    <Land ref="1" />
+  </Stadt>
+  <Stadt id="14">
+    <name>Maris</name>
+    <einwohner>1700</einwohner>
+    <beschreibung></beschreibung>
+    <Land ref="1" />
+  </Stadt>
+  <Stadt id="15">
+    <name>Murdagil</name>
+    <einwohner>1500</einwohner>
+    <beschreibung></beschreibung>
+    <Land ref="1" />
+  </Stadt>
+  <Stadt id="16">
+    <name>Tidford</name>
+    <einwohner>1400</einwohner>
+    <beschreibung>
+      Die Stadt Tidford liegt am Fluß Tuarisc im Königreich Alba strategisch günstig an einer wichtigen Handelsroute.
+      Der Tuarsic bildet die Südgrenze des Fürstentums Conuilhmir zu Erainn hin. Die Stadt selbst liegt direkt am Ufer sowie auf fünf beisammen liegenden Inseln.
+      Eine Stadtmauer umgibt den am Ufer gelegenen Teil. Da es keinerlei Kanalisation gibt, schütten die Bürger ihren Unrat auf die Strassen.
+      Etwas ausserhalb der Stadt liegt ein Vraidos-Kloster. Tidford ist Mitglied im Städtebund des Weald und teilweise unabhängig vom Fürstentum.
+    </beschreibung>
+    <Land ref="1" />
+  </Stadt>
+  <Stadt id="17">
+    <name>Thame</name>
+    <einwohner>5000</einwohner>
+    <beschreibung>
+      Die kleine Stadt Thame im Fürstentum Conuilhnor liegt im Weald günstig am Fuß des Artross-Gebirges an der Amber und gehört zum Städtebund des Weald.
+      Der Wald von Tureliand liegt östlich der Stadt, die Zwergenstadt Gimil-dum liegt westlich nur eine Tagesreise entfernt und die Handelswaren der Zwerge werden über
+      Thame nach Dungarvon und Wulfstead transportiert.
+    </beschreibung>
+    <Land ref="1" />
+  </Stadt>
+  <Stadt id="18">
+    <name>Turonsburgh</name>
+    <einwohner>1000</einwohner>
+    <beschreibung></beschreibung>
+    <Land ref="1" />
+  </Stadt>
+  <Stadt id="19">
+    <name>Thame</name>
+    <einwohner>50000</einwohner>
+    <beschreibung></beschreibung>
+    <Land ref="1" />
+  </Stadt>
+  <Stadt id="20">
+    <name>Twineward</name>
+    <einwohner>5000</einwohner>
+    <beschreibung>
+      Die albische Stadt Twineward liegt in den Nordmarken des Landes, gehört zum Städtebund des Weald und ist erst 300 Jahre alt.
+      Durch ihre Lage südlich des Pengannion-Gebirges ist sie eine zentrale Grenzstadt zum benachbarten Clanngadarn und wird auch daher von einer beeindruckenden Stadtmauer
+      umgeben. Der Wearran-Paß führt von Twineward aus durch das Gebirge nach Llangollen. Durch die Nähe zum Halfdal haben sich einige Halblingsfamilien in der Stadt angesiedelt
+      und ein Halblingsviertel namens Chet Halbytla gegründet. Die Burg Twinesgard liegt nur 5 Kilometer entfernt in Richtung Llangollen entfernt und wurde von den MacRathgars
+      mit Unterstützung des Sonnenordens errichtet. Einst wurde die Gegend um die Stadt von twyneddischen Druiden verflucht und wurde von der Heiligen Vanafred wieder zum Blühen
+      gebracht.
+    </beschreibung>
+    <Land ref="1" />
+  </Stadt>
+  <Stadt id="21">
+    <name>Wulfstead</name>
+    <einwohner>9000</einwohner>
+    <beschreibung></beschreibung>
+    <Land ref="1"/>
+  </Stadt>
+</Staedte>

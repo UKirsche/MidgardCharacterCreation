@@ -1,0 +1,554 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AbenteurerTypen>
+  <!--Kämpfer-->
+  <AbenteurerTyp id="1">
+    <name>Assassine</name>
+    <kurzname>As</kurzname>
+    <AbenteurerKategorie ref="2"/>
+    <Restriktionen>
+      <Basiseigenschaft ref="2" min="61"/>
+      <Basiseigenschaft ref="3" min="61"/>
+      <Land ref="1"/>
+      <Land ref="2"/>
+      <Land ref="4"/>
+      <Land ref="5"/>
+      <Land ref="6"/>
+      <Land ref="7"/>
+      <Land ref="10"/>
+      <Land ref="13"/>
+      <Land ref="14"/>
+      <Land ref="15"/>
+      <Land ref="16"/>
+      <Land ref="17"/>
+      <Land ref="19"/>
+      <Land ref="21"/>
+      <Rasse ref="1"/>
+      <Rasse ref="5"/>
+      <Rasse ref="6"/>
+    </Restriktionen>
+  </AbenteurerTyp>
+  <AbenteurerTyp  id="2">
+    <name>Barbar, Nordland</name>
+    <kurzname>BN</kurzname>
+    <AbenteurerKategorie ref="2"/>
+    <Restriktionen>
+      <Basiseigenschaft ref="1" min="31"/>
+      <Land ref="1"/>
+      <Land ref="4"/>
+      <Land ref="8"/>
+      <Land ref="14"/>
+      <Land ref="17"/>
+      <Land ref="19"/>
+      <Land ref="20"/>
+      <Rasse ref="1"/>
+    </Restriktionen>
+  </AbenteurerTyp>
+  <AbenteurerTyp  id="3">
+    <name>Barbar, Steppe</name>
+    <kurzname>BS</kurzname>
+    <AbenteurerKategorie ref="2"/>
+    <Restriktionen>
+      <Basiseigenschaft ref="1" min="31"/>
+      <Basiseigenschaft ref="2" min="31"/>
+      <Land ref="2"/>
+      <Land ref="3"/>
+      <Land ref="7"/>
+      <Land ref="17"/>
+      <Rasse ref="1"/>
+    </Restriktionen>
+  </AbenteurerTyp>
+  <AbenteurerTyp id="4">
+    <name>Barbar, Wald</name>
+    <kurzname>BW</kurzname>
+    <AbenteurerKategorie ref="2"/>
+    <Restriktionen>
+      <Basiseigenschaft ref="1" min="31"/>
+      <Basiseigenschaft ref="2" min="31"/>
+      <Basiseigenschaft ref="3" min="31"/>
+      <Land ref="9"/>
+      <Land ref="10"/>
+      <Land ref="12"/>
+      <Land ref="13"/>
+      <Land ref="14"/>
+      <Land ref="15"/>
+      <Land ref="16"/>
+      <Rasse ref="1"/>
+    </Restriktionen>
+  </AbenteurerTyp>
+  <AbenteurerTyp id="5">
+    <name>Ermittler</name>
+    <kurzname>Er</kurzname>
+    <AbenteurerKategorie ref="2"/>
+    <Restriktionen>
+      <Basiseigenschaft ref="2" min="31"/>
+      <Basiseigenschaft ref="5" min="61"/>
+      <Land ref="1"/>
+      <Land ref="2"/>
+      <Land ref="4"/>
+      <Land ref="6"/>
+      <Land ref="7"/>
+      <Land ref="10"/>
+      <Land ref="11"/>
+      <Land ref="16"/>
+      <Land ref="19"/>
+      <Land ref="21"/>
+      <Rasse ref="1"/>
+    </Restriktionen>
+  </AbenteurerTyp>
+  <AbenteurerTyp id="6">
+    <name>Glücksritter</name>
+    <kurzname>Gl</kurzname>
+    <AbenteurerKategorie ref="2"/>
+    <Restriktionen>
+      <Basiseigenschaft ref="2" min="31"/>
+      <Basiseigenschaft ref="3" min="61"/>
+      <AbgelEigenschaft ref="1" min="61"/>
+      <Land ref="1"/>
+      <Land ref="2"/>
+      <Land ref="4"/>
+      <Land ref="5"/>
+      <Land ref="6"/>
+      <Land ref="7"/>
+      <Land ref="10"/>
+      <Land ref="12"/>
+      <Land ref="13"/>
+      <Land ref="14"/>
+      <Land ref="15"/>
+      <Land ref="16"/>
+      <Land ref="19"/>
+      <Land ref="21"/>
+      <Rasse ref="1"/>
+      <Rasse ref="2"/>
+      <Rasse ref="5"/>
+      <Rasse ref="6"/>
+    </Restriktionen>
+  </AbenteurerTyp>
+  <AbenteurerTyp id="7">
+    <name>Händler</name>
+    <kurzname>Hä</kurzname>
+    <AbenteurerKategorie ref="2"/>
+    <Restriktionen>
+      <Basiseigenschaft ref="2" min="31"/>
+      <Basiseigenschaft ref="5" min="31"/>
+      <AbgelEigenschaft ref="1" min="61"/>
+      <Rasse ref="1"/>
+      <Rasse ref="3"/>
+      <Rasse ref="4"/>
+    </Restriktionen>
+  </AbenteurerTyp>
+  <AbenteurerTyp id="8">
+    <name>Krieger</name>
+    <kurzname>Kr</kurzname>
+    <AbenteurerKategorie ref="2"/>
+    <Restriktionen>
+      <Basiseigenschaft ref="2" min="31"/>
+      <Basiseigenschaft ref="1" min="61"/>
+      <Rasse ref="1"/>
+      <Rasse ref="2"/>
+      <Rasse ref="4"/>
+    </Restriktionen>
+  </AbenteurerTyp>
+  <AbenteurerTyp id="9">
+    <name>Kundschafter</name>
+    <kurzname>Ku</kurzname>
+    <AbenteurerKategorie ref="2"/>
+    <Restriktionen>
+      <Basiseigenschaft ref="2" min="61"/>
+      <Basiseigenschaft ref="5" min="61"/>
+      <Land ref="2"/>
+      <Land ref="3"/>
+      <Land ref="6"/>
+      <Land ref="7"/>
+      <Land ref="8"/>
+      <Land ref="17"/>
+      <Land ref="18"/>
+      <Land ref="21"/>
+      <Rasse ref="1"/>
+    </Restriktionen>
+  </AbenteurerTyp>
+  <AbenteurerTyp id="10">
+    <name>Seefahrer</name>
+    <kurzname>Se</kurzname>
+    <AbenteurerKategorie ref="2"/>
+    <Restriktionen>
+      <Basiseigenschaft ref="2" min="31"/>
+      <Basiseigenschaft ref="3" min="61"/>
+      <Basiseigenschaft ref="5" min="31"/>
+      <Land ref="1"/>
+      <Land ref="2"/>
+      <Land ref="4"/>
+      <Land ref="5"/>
+      <Land ref="6"/>
+      <Land ref="7"/>
+      <Land ref="10"/>
+      <Land ref="11"/>
+      <Land ref="13"/>
+      <Land ref="14"/>
+      <Land ref="16"/>
+      <Land ref="19"/>
+      <Land ref="20"/>
+      <Land ref="21"/>
+      <Rasse ref="1"/>
+    </Restriktionen>
+  </AbenteurerTyp>
+  <AbenteurerTyp id="11">
+    <name>Söldner</name>
+    <kurzname>Soe</kurzname>
+    <AbenteurerKategorie ref="2"/>
+    <Restriktionen>
+      <Basiseigenschaft ref="1" min="61"/>
+      <Basiseigenschaft ref="2" min="31"/>
+      <Rasse ref="1"/>
+      <Rasse ref="4"/>
+    </Restriktionen>
+  </AbenteurerTyp>
+  <AbenteurerTyp id="12">
+    <name>Spitzbube</name>
+    <kurzname>Sp</kurzname>
+    <AbenteurerKategorie ref="2"/>
+    <Restriktionen>
+      <Basiseigenschaft ref="2" min="61"/>
+      <Basiseigenschaft ref="5" min="61"/>
+      <Rasse ref="1"/>
+      <Rasse ref="3"/>
+      <Rasse ref="5"/>
+      <Rasse ref="6"/>
+    </Restriktionen>
+  </AbenteurerTyp>
+  <AbenteurerTyp id="13">
+    <name>Waldläufer</name>
+    <kurzname>Wa</kurzname>
+    <AbenteurerKategorie ref="2"/>
+    <Restriktionen>
+      <Basiseigenschaft ref="2" min="31"/>
+      <Basiseigenschaft ref="3" min="61"/>
+      <Basiseigenschaft ref="5" min="31"/>
+      <Land ref="1"/>
+      <Land ref="2"/>
+      <Land ref="4"/>
+      <Land ref="6"/>
+      <Land ref="10"/>
+      <Land ref="12"/>
+      <Land ref="13"/>
+      <Land ref="14"/>
+      <Land ref="16"/>
+      <Land ref="17"/>
+      <Land ref="20"/>
+      <Land ref="21"/>
+      <Rasse ref="1"/>
+      <Rasse ref="2"/>
+      <Rasse ref="3"/>
+      <Rasse ref="5"/>
+      <Rasse ref="6"/>
+    </Restriktionen>
+  </AbenteurerTyp>
+
+  <!--Zauberkundige Kämpfer-->
+  <AbenteurerTyp id="14">
+    <name>Barde</name>
+    <kurzname>Ba</kurzname>
+    <AbenteurerKategorie ref="3"/>
+    <Restriktionen>
+      <Basiseigenschaft ref="2" min="31"/>
+      <Basiseigenschaft ref="5" min="61"/>
+      <AbgelEigenschaft ref="1" min="61"/>
+      <Rasse ref="1"/>
+      <Rasse ref="2"/>
+      <Rasse ref="3"/>
+    </Restriktionen>
+  </AbenteurerTyp>
+  <AbenteurerTyp id="15">
+    <name>Ordenskrieger</name>
+    <kurzname>Or</kurzname>
+    <AbenteurerKategorie ref="3"/>
+    <Restriktionen>
+      <Basiseigenschaft ref="1" min="31"/>
+      <Basiseigenschaft ref="2" min="31"/>
+      <Land ref="1"/>
+      <Land ref="2"/>
+      <Land ref="4"/>
+      <Land ref="5"/>
+      <Land ref="6"/>
+      <Land ref="7"/>
+      <Land ref="10"/>
+      <Land ref="11"/>
+      <Land ref="13"/>
+      <Land ref="15"/>
+      <Land ref="17"/>
+      <Land ref="18"/>
+      <Land ref="19"/>
+      <Rasse ref="1"/>
+    </Restriktionen>
+  </AbenteurerTyp>
+  <AbenteurerTyp id="16">
+    <name>Tiermeister</name>
+    <kurzname>Tm</kurzname>
+    <AbenteurerKategorie ref="3"/>
+    <Restriktionen>
+      <Basiseigenschaft ref="2" min="31"/>
+      <Basiseigenschaft ref="5" min="31"/>
+      <AbgelEigenschaft ref="1" min="61"/>
+      <Land ref="2"/>
+      <Land ref="8"/>
+      <Land ref="9"/>
+      <Land ref="12"/>
+      <Land ref="13"/>
+      <Land ref="14"/>
+      <Land ref="15"/>
+      <Land ref="16"/>
+      <Land ref="17"/>
+      <Land ref="20"/>
+      <Rasse ref="1"/>
+    </Restriktionen>
+  </AbenteurerTyp>
+
+  <!-- Zauberer -->
+  <AbenteurerTyp id="17">
+    <name>Beschwörer</name>
+    <kurzname>Be</kurzname>
+    <AbenteurerKategorie ref="1"/>
+    <Restriktionen>
+      <Basiseigenschaft ref="5" min="21"/>
+      <Land ref="1"/>
+      <Land ref="2"/>
+      <Land ref="3"/>
+      <Land ref="4"/>
+      <Land ref="7"/>
+      <Land ref="9"/>
+      <Land ref="10"/>
+      <Land ref="11"/>
+      <Land ref="12"/>
+      <Land ref="14"/>
+      <Land ref="15"/>
+      <Land ref="16"/>
+      <Land ref="17"/>
+      <Land ref="18"/>
+      <Land ref="19"/>
+      <Land ref="20"/>
+      <Land ref="21"/>
+      <Rasse ref="1"/>
+      <Rasse ref="4"/>
+    </Restriktionen>
+  </AbenteurerTyp>
+  <AbenteurerTyp id="18">
+    <name>Druide</name>
+    <kurzname>Dr</kurzname>
+    <AbenteurerKategorie ref="1"/>
+    <Restriktionen>
+      <Basiseigenschaft ref="5" min="21"/>
+      <Land ref="1"/>
+      <Land ref="5"/>
+      <Land ref="8"/>
+      <Land ref="21"/>
+      <Rasse ref="1"/>
+      <Rasse ref="2"/>
+      <Rasse ref="5"/>
+      <Rasse ref="6"/>
+    </Restriktionen>
+  </AbenteurerTyp>
+  <AbenteurerTyp id="19">
+    <name>Heiler</name>
+    <kurzname>Hl</kurzname>
+    <AbenteurerKategorie ref="1"/>
+    <Restriktionen>
+      <Basiseigenschaft ref="2" min="31"/>
+      <Basiseigenschaft ref="5" min="31"/>
+      <Land ref="1"/>
+      <Land ref="2"/>
+      <Land ref="5"/>
+      <Land ref="6"/>
+      <Land ref="7"/>
+      <Land ref="11"/>
+      <Land ref="14"/>
+      <Land ref="15"/>
+      <Land ref="18"/>
+      <Land ref="19"/>
+      <Land ref="20"/>
+      <Land ref="21"/>
+      <Rasse ref="1"/>
+      <Rasse ref="2"/>
+      <Rasse ref="3"/>
+      <Rasse ref="5"/>
+      <Rasse ref="6"/>
+    </Restriktionen>
+  </AbenteurerTyp>
+  <AbenteurerTyp id="20">
+    <name>Hexer</name>
+    <kurzname>Hx</kurzname>
+    <AbenteurerKategorie ref="1"/>
+    <Restriktionen>
+      <Basiseigenschaft ref="5" min="21"/>
+      <Land ref="1"/>
+      <Land ref="2"/>
+      <Land ref="3"/>
+      <Land ref="4"/>
+      <Land ref="5"/>
+      <Land ref="6"/>
+      <Land ref="7"/>
+      <Land ref="8"/>
+      <Land ref="9"/>
+      <Land ref="10"/>
+      <Land ref="11"/>
+      <Land ref="12"/>
+      <Land ref="13"/>
+      <Land ref="14"/>
+      <Land ref="15"/>
+      <Land ref="16"/>
+      <Land ref="17"/>
+      <Land ref="18"/>
+      <Land ref="19"/>
+      <Land ref="20"/>
+      <Land ref="21"/>
+      <Rasse ref="1"/>
+      <Rasse ref="2"/>
+      <Rasse ref="5"/>
+      <Rasse ref="6"/>
+    </Restriktionen>
+  </AbenteurerTyp>
+  <AbenteurerTyp id="21">
+    <name>Magier</name>
+    <kurzname>Ma</kurzname>
+    <AbenteurerKategorie ref="1"/>
+    <Restriktionen>
+      <Basiseigenschaft ref="5" min="21"/>
+      <Land ref="1"/>
+      <Land ref="2"/>
+      <Land ref="4"/>
+      <Land ref="5"/>
+      <Land ref="6"/>
+      <Land ref="7"/>
+      <Land ref="10"/>
+      <Land ref="11"/>
+      <Land ref="13"/>
+      <Land ref="14"/>
+      <Land ref="15"/>
+      <Land ref="16"/>
+      <Land ref="17"/>
+      <Land ref="19"/>
+      <Land ref="21"/>
+      <Rasse ref="1"/>
+      <Rasse ref="2"/>
+      <Rasse ref="5"/>
+      <Rasse ref="6"/>
+    </Restriktionen>
+  </AbenteurerTyp>
+  <AbenteurerTyp id="22">
+    <name>Priester, Fruchtbark.</name>
+    <kurzname>PF</kurzname>
+    <AbenteurerKategorie ref="1"/>
+    <Restriktionen>
+      <Basiseigenschaft ref="5" min="21"/>
+      <Rasse ref="1"/>
+      <Rasse ref="3"/>
+      <Rasse ref="4"/>
+    </Restriktionen>
+  </AbenteurerTyp>
+  <AbenteurerTyp id="23">
+    <name>Priester, Handwerk</name>
+    <kurzname>PHa</kurzname>
+    <AbenteurerKategorie ref="1"/>
+    <Restriktionen>
+      <Basiseigenschaft ref="5" min="21"/>
+      <Rasse ref="1"/>
+      <Rasse ref="4"/>
+    </Restriktionen>
+  </AbenteurerTyp>
+  <AbenteurerTyp id="24">
+    <name>Priester, Herrschaft</name>
+    <kurzname>He</kurzname>
+    <AbenteurerKategorie ref="1"/>
+    <Restriktionen>
+      <Basiseigenschaft ref="5" min="21"/>
+      <Rasse ref="1"/>
+      <Rasse ref="4"/>
+    </Restriktionen>
+  </AbenteurerTyp>
+  <AbenteurerTyp id="25">
+    <name>Priester, Krieg</name>
+    <kurzname>PK</kurzname>
+    <AbenteurerKategorie ref="1"/>
+    <Restriktionen>
+      <Basiseigenschaft ref="5" min="21"/>
+      <Rasse ref="1"/>
+      <Rasse ref="4"/>
+    </Restriktionen>
+  </AbenteurerTyp>
+  <AbenteurerTyp id="26">
+    <name>Priester, Meer</name>
+    <kurzname>PM</kurzname>
+    <AbenteurerKategorie ref="1"/>
+    <Restriktionen>
+      <Basiseigenschaft ref="5" min="21"/>
+      <Rasse ref="1"/>
+    </Restriktionen>
+  </AbenteurerTyp>
+  <AbenteurerTyp id="27">
+    <name>Priester, Tod</name>
+    <kurzname>PT</kurzname>
+    <AbenteurerKategorie ref="1"/>
+    <Restriktionen>
+      <Basiseigenschaft ref="5" min="21"/>
+      <Rasse ref="1"/>
+    </Restriktionen>
+  </AbenteurerTyp>
+  <AbenteurerTyp id="28">
+    <name>Priester, Weisheit</name>
+    <kurzname>PW</kurzname>
+    <AbenteurerKategorie ref="1"/>
+    <Restriktionen>
+      <Basiseigenschaft ref="5" min="21"/>
+      <Rasse ref="1"/>
+      <Rasse ref="3"/>
+    </Restriktionen>
+  </AbenteurerTyp>
+  <AbenteurerTyp id="29">
+    <name>Schamane</name>
+    <kurzname>Sc</kurzname>
+    <AbenteurerKategorie ref="1"/>
+    <Restriktionen>
+      <Basiseigenschaft ref="1" min="31"/>
+      <Basiseigenschaft ref="2" min="31"/>
+      <Basiseigenschaft ref="5" min="31"/>
+      <Land ref="3"/>
+      <Land ref="8"/>
+      <Land ref="9"/>
+      <Land ref="10"/>
+      <Land ref="12"/>
+      <Land ref="13"/>
+      <Land ref="14"/>
+      <Land ref="15"/>
+      <Land ref="16"/>
+      <Land ref="17"/>
+      <Land ref="20"/>
+      <Rasse ref="1"/>
+    </Restriktionen>
+  </AbenteurerTyp>
+  <AbenteurerTyp id="30">
+    <name>Thaumaturg</name>
+    <kurzname>Th</kurzname>
+    <AbenteurerKategorie ref="1"/>
+    <Restriktionen>
+      <Basiseigenschaft ref="2" min="31"/>
+      <Basiseigenschaft ref="5" min="21"/>
+      <Land ref="1"/>
+      <Land ref="2"/>
+      <Land ref="4"/>
+      <Land ref="5"/>
+      <Land ref="6"/>
+      <Land ref="7"/>
+      <Land ref="10"/>
+      <Land ref="11"/>
+      <Land ref="13"/>
+      <Land ref="14"/>
+      <Land ref="15"/>
+      <Land ref="16"/>
+      <Land ref="19"/>
+      <Land ref="20"/>
+      <Land ref="21"/>
+      <Rasse ref="1"/>
+      <Rasse ref="4"/>
+      <Rasse ref="5"/>
+      <Rasse ref="6"/>
+    </Restriktionen>
+  </AbenteurerTyp>
+</AbenteurerTypen>

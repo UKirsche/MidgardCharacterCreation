@@ -1,0 +1,28 @@
+<Zaubersalze>
+	<Zaubersalz id="1" name="Blicksalz" AP="" Zauberdauer="1sec" Reichweite="500m" Wirkungsziel="Umgebung" Wirkungsbereich="15m Uk" Wirkungsdauer="10sec"/>
+	<Zaubersalz id="2" name="Bittersalz" AP="" Zauberdauer="1sec" Reichweite="500m" Wirkungsziel="Umgebung" Wirkungsbereich="1Ob" Wirkungsdauer="0"/>
+	<Zaubersalz id="3" name="Durstsalz" AP="" Zauberdauer="1sec" Reichweite="500m" Wirkungsziel="Körper" Wirkungsbereich="1Ws" Wirkungsdauer="0"/>
+	<Zaubersalz id="4" name="Färbersalz" AP="" Zauberdauer="1sec" Reichweite="500m" Wirkungsziel="Umgebung" Wirkungsbereich="1Ob" Wirkungsdauer="1h"/>
+	<Zaubersalz id="5" name="Fliegensalz" AP="" Zauberdauer="1sec" Reichweite="500m" Wirkungsziel="Umgebung" Wirkungsbereich="1Ws/Ob" Wirkungsdauer="1h"/>
+	<Zaubersalz id="6" name="Funkensalz" AP="" Zauberdauer="1sec" Reichweite="500m" Wirkungsziel="Umgebung" Wirkungsbereich="1Ob" Wirkungsdauer="10min"/>
+	<Zaubersalz id="7" name="Haarsalz" AP="" Zauberdauer="1sec" Reichweite="500m" Wirkungsziel="Körper" Wirkungsbereich="1Ws" Wirkungsdauer="0"/>
+	<Zaubersalz id="8" name="Hitzesalz" AP="" Zauberdauer="1sec" Reichweite="500m" Wirkungsziel="Körper" Wirkungsbereich="1Ws" Wirkungsdauer="1h"/>
+	<Zaubersalz id="9" name="Hungersalz" AP="" Zauberdauer="1sec" Reichweite="500m" Wirkungsziel="Körper" Wirkungsbereich="1Ws" Wirkungsdauer="0"/>
+	<Zaubersalz id="10" name="Jucksalz" AP="" Zauberdauer="1sec" Reichweite="500m" Wirkungsziel="Körper" Wirkungsbereich="1Ws" Wirkungsdauer="10min"/>
+	<Zaubersalz id="11" name="Kühlsalz" AP="" Zauberdauer="1sec" Reichweite="500m" Wirkungsziel="Körper" Wirkungsbereich="1Ws" Wirkungsdauer="1h"/>
+	<Zaubersalz id="12" name="Lachsalz" AP="" Zauberdauer="1sec" Reichweite="500m" Wirkungsziel="Geist" Wirkungsbereich="1Ws" Wirkungsdauer="2min"/>
+	<Zaubersalz id="13" name="Löschsalz" AP="" Zauberdauer="1sec" Reichweite="500m" Wirkungsziel="Umgebung" Wirkungsbereich="1Ob" Wirkungsdauer="0"/>
+	<Zaubersalz id="14" name="Niessalz" AP="" Zauberdauer="1sec" Reichweite="500m" Wirkungsziel="Körper" Wirkungsbereich="1Ws" Wirkungsdauer="2min"/>
+	<Zaubersalz id="15" name="Rauchsalz" AP="" Zauberdauer="1sec" Reichweite="500m" Wirkungsziel="Umgebung" Wirkungsbereich="1m Uk" Wirkungsdauer="10min"/>
+	<Zaubersalz id="16" name="Rauschsalz" AP="" Zauberdauer="1sec" Reichweite="500m" Wirkungsziel="Körper" Wirkungsbereich="1Ws" Wirkungsdauer="0"/>
+	<Zaubersalz id="17" name="Riechsalz" AP="" Zauberdauer="1sec" Reichweite="500m" Wirkungsziel="Umgebung" Wirkungsbereich="1Ws/Ob" Wirkungsdauer="0"/>
+	<Zaubersalz id="18" name="Rutschsalz" AP="" Zauberdauer="1sec" Reichweite="500m" Wirkungsziel="Umgebung" Wirkungsbereich="1Ob" Wirkungsdauer="10min"/>
+	<Zaubersalz id="19" name="Schlafsalz" AP="" Zauberdauer="1sec" Reichweite="500m" Wirkungsziel="Körper" Wirkungsbereich="1Ws" Wirkungsdauer="1h"/>
+	<Zaubersalz id="20" name="Schleichsalz" AP="" Zauberdauer="1sec" Reichweite="500m" Wirkungsziel="Umgebung" Wirkungsbereich="10mm" Wirkungsdauer="8h"/>
+	<Zaubersalz id="21" name="Stottersalz" AP="" Zauberdauer="1sec" Reichweite="500m" Wirkungsziel="Geist" Wirkungsbereich="1Ws" Wirkungsdauer="10min"/>
+	<Zaubersalz id="22" name="Trampelsalz" AP="" Zauberdauer="1sec" Reichweite="500m" Wirkungsziel="Umgebung" Wirkungsbereich="10mm" Wirkungsdauer="8h"/>
+	<Zaubersalz id="23" name="Wandelsalz" AP="" Zauberdauer="1sec" Reichweite="500m" Wirkungsziel="Umgebung" Wirkungsbereich="1kg" Wirkungsdauer="10min"/>
+	<Zaubersalz id="24" name="Wassersalz" AP="" Zauberdauer="1sec" Reichweite="500m" Wirkungsziel="Körper" Wirkungsbereich="1Ws" Wirkungsdauer="0"/>
+	<Zaubersalz id="25" name="Wehsalz" AP="" Zauberdauer="1sec" Reichweite="500m" Wirkungsziel="Körper" Wirkungsbereich="1Ws" Wirkungsdauer="10sec"/>
+	<Zaubersalz id="26" name="Zündersalz" AP="" Zauberdauer="1sec" Reichweite="500m" Wirkungsziel="Umgebung" Wirkungsbereich="1Ob" Wirkungsdauer="0"/>
+</Zaubersalze>

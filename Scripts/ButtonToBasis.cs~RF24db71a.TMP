@@ -1,0 +1,12 @@
+﻿using UnityEngine;
+using UnityEngine.UI;
+using System.Collections;
+
+public class ButtonToBasis : MonoBehaviour
+{
+    public Canvas BasisEigenschaften;
+
+    public void GoToBasis()
+    {
+    }
+}

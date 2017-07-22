@@ -1,0 +1,1348 @@
+<Lernplaene>
+ <!-- Assassine -->
+ <Lernplan id="1" shortname="As" name="Assasine" >
+  <!-- Fach-->
+  <Fachkenntnis id="16" val="4" cost="1" />
+  <Fachkenntnis id="24" val="12" cost="1" />
+  <Fachkenntnis id="46" val="8" cost="1"/>
+  <Fachkenntnis id="60" val="8" cost="1"/>
+  <Fachkenntnis id="74" val="15" cost="1"/>
+  <Fachkenntnis id="78" val="8" cost="1"/>
+  <Fachkenntnis id="9"  val="8" cost="2"/>
+  <Fachkenntnis id="15" val="6" cost="2"/>
+  <Fachkenntnis id="14" val="15" cost="2"/>
+  <Fachkenntnis id="27" val="5" cost="2"/>
+  <Fachkenntnis id="31" val="2" cost="2"/>
+  <Fachkenntnis id="43" val="6" cost="2"/>
+  <Fachkenntnis id="56" val="5" cost="2"/>
+  <Fachkenntnis id="76" val="8" cost="2"/>
+  <Fachkenntnis id="86" val="8" cost="2"/>
+  <Fachkenntnis id="88" val="8" cost="2"/>
+  <Fachkenntnis id="89" val="15" cost="2"/>
+  <!-- Waffen -->
+  <Waffenfertigkeit id="7" val="5" cost="1"/>
+  <Waffenfertigkeit id="21" val="5" cost="1"/>
+  <Waffenfertigkeit id="15" val="5" cost="1"/>
+  <Waffenfertigkeit id="48" val="5" cost="1"/>
+  <Waffenfertigkeit id="49" val="5" cost="1"/>
+  <Waffenfertigkeit id="52" val="5" cost="1"/>
+  <Waffenfertigkeit id="3" val="5" cost="1"/>
+  <Waffenfertigkeit id="31" val="1" cost="1"/>
+  <Waffenfertigkeit id="30" val="5" cost="2"/>
+  <Waffenfertigkeit id="23" val="5" cost="2"/>
+  <Waffenfertigkeit id="19" val="5" cost="2"/>
+  <Waffenfertigkeit id="33" val="5" cost="2"/>
+  <Waffenfertigkeit id="42" val="5" cost="2"/>
+  <Waffenfertigkeit id="18" val="5" cost="2"/>
+  <Waffenfertigkeit id="13" val="5" cost="2"/>
+  <Waffenfertigkeit id="27" val="5" cost="2"/>
+  <Waffenfertigkeit id="14" val="5" cost="2"/>
+  <Waffenfertigkeit id="43" val="5" cost="2"/>
+  <Waffenfertigkeit id="10" val="5" cost="2"/>
+  <Waffenfertigkeit id="4" val="5" cost="2"/>
+  <Waffenfertigkeit id="20" val="5" cost="2"/>
+  <Waffenfertigkeit id="26" val="5" cost="2"/>
+  <Waffenfertigkeit id="44" val="5" cost="1"/>
+  <Waffenfertigkeit id="50" val="5" cost="2"/>
+  <Waffenfertigkeit id="51" val="5" cost="2"/>
+  <Waffenfertigkeit id="45" val="5" cost="2"/>
+  <Waffenfertigkeit id="9" val="5" cost="3"/>
+  <Waffenfertigkeit id="41" val="5" cost="3"/>
+  <Waffenfertigkeit id="40" val="5" cost="3"/>
+  <Waffenfertigkeit id="24" val="5" cost="3"/>
+  <Waffenfertigkeit id="2" val="5" cost="3"/>
+  <Waffenfertigkeit id="1" val="5" cost="3"/>
+  <Waffenfertigkeit id="12" val="5" cost="3"/>
+  <Waffenfertigkeit id="28" val="5" cost="3"/>
+  <Waffenfertigkeit id="22" val="5" cost="3"/>
+  <Waffenfertigkeit id="36" val="5" cost="3"/>
+  <Waffenfertigkeit id="35" val="5" cost="3"/>
+  <Waffenfertigkeit id="47" val="5" cost="3"/>
+  <Waffenfertigkeit id="16" val="1" cost="3"/>
+  <Waffenfertigkeit id="6" val="1" cost="3"/>
+ </Lernplan>
+
+<!-- Barbar, Nordland -->
+  <Lernplan id="2" shortname="BN" name="Barbar, Nordland">
+  <!-- Fach-->
+  <Fachkenntnis id="32" val="5" cost="0" />
+  <Fachkenntnis id="30" val="5" cost="1" />
+  <Fachkenntnis id="53" val="15" cost="1" />
+  <Fachkenntnis id="64" val="15" cost="1" />
+  <Fachkenntnis id="84" val="8" cost="1"/>
+  <Fachkenntnis id="79" val="15" cost="1"/>
+  <Fachkenntnis id="82" val="1" cost="1"/>
+  <Fachkenntnis id="38" val="15" cost="2" />
+  <Fachkenntnis id="41" val="4" cost="2"/>
+  <Fachkenntnis id="61" val="15" cost="2"/>
+  <Fachkenntnis id="65" val="15" cost="2"/>
+  <Fachkenntnis id="73" val="15" cost="2"/>
+  <Fachkenntnis id="68" val="15" cost="2"/>
+  <Fachkenntnis id="1" val="8" cost="3"/>
+  <Fachkenntnis id="3" val="4" cost="3"/>
+  <Fachkenntnis id="59" val="8" cost="3"/>
+  <!-- Waffen -->
+  <Waffenfertigkeit id="7" val="5" cost="1"/>
+  <Waffenfertigkeit id="23" val="5" cost="1"/>
+  <Waffenfertigkeit id="13" val="5" cost="1"/>
+  <Waffenfertigkeit id="41" val="5" cost="1"/>
+  <Waffenfertigkeit id="27" val="5" cost="1"/>
+  <Waffenfertigkeit id="40" val="5" cost="1"/>
+  <Waffenfertigkeit id="34" val="5" cost="1"/>
+  <Waffenfertigkeit id="51" val="5" cost="1"/>
+  <Waffenfertigkeit id="45" val="5" cost="1"/>
+  <Waffenfertigkeit id="46" val="5" cost="1"/>
+  <Waffenfertigkeit id="11" val="1" cost="1"/>
+  <Waffenfertigkeit id="16" val="1" cost="1"/>
+  <Waffenfertigkeit id="21" val="5" cost="2"/>
+  <Waffenfertigkeit id="15" val="5" cost="2"/>
+  <Waffenfertigkeit id="18" val="5" cost="2"/>
+  <Waffenfertigkeit id="1" val="5" cost="2"/>
+  <Waffenfertigkeit id="38" val="5" cost="2"/>
+  <Waffenfertigkeit id="8" val="5" cost="2"/>
+  <Waffenfertigkeit id="4" val="5" cost="2"/>
+  <Waffenfertigkeit id="22" val="5" cost="2"/>
+  <Waffenfertigkeit id="35" val="5" cost="2"/>
+  <Waffenfertigkeit id="48" val="5" cost="3"/>
+  <Waffenfertigkeit id="29" val="5" cost="4"/>
+  <Waffenfertigkeit id="43" val="5" cost="4"/>
+ </Lernplan>  
+
+<!-- Barbar, Steppe -->
+ <Lernplan id="3" shortname="BS" name="Barbar, Steppe">
+  <!-- Fach-->
+  <Fachkenntnis id="30" val="5" cost="1" />
+  <Fachkenntnis id="10" val="15" cost="1" />
+  <Fachkenntnis id="35" val="15" cost="1" />
+  <Fachkenntnis id="52" val="15" cost="1" />
+  <Fachkenntnis id="85" val="8" cost="1"/>
+  <Fachkenntnis id="18" val="15" cost="2"/>
+  <Fachkenntnis id="22" val="12" cost="2"/>
+  <Fachkenntnis id="41" val="4" cost="2"/>
+  <Fachkenntnis id="71" val="6" cost="2"/>
+  <Fachkenntnis id="90" val="15" cost="2"/>
+  <Fachkenntnis id="1" val="8" cost="3"/>
+  <Fachkenntnis id="3" val="4" cost="3"/>
+  <!-- Waffen -->
+  <Waffenfertigkeit id="7" val="5" cost="1"/>
+  <Waffenfertigkeit id="19" val="5" cost="1"/>
+  <Waffenfertigkeit id="15" val="5" cost="1"/>
+  <Waffenfertigkeit id="42" val="5" cost="1"/>
+  <Waffenfertigkeit id="13" val="5" cost="1"/>
+  <Waffenfertigkeit id="27" val="5" cost="1"/>
+  <Waffenfertigkeit id="40" val="5" cost="1"/>
+  <Waffenfertigkeit id="51" val="5" cost="1"/>
+  <Waffenfertigkeit id="45" val="5" cost="1"/>
+  <Waffenfertigkeit id="16" val="1" cost="1"/>
+  <Waffenfertigkeit id="21" val="5" cost="2"/>
+  <Waffenfertigkeit id="8" val="5" cost="2"/>
+  <Waffenfertigkeit id="4" val="5" cost="2"/>
+  <Waffenfertigkeit id="20" val="5" cost="2"/>
+  <Waffenfertigkeit id="37" val="5" cost="2"/>
+  <Waffenfertigkeit id="47" val="5" cost="2"/>
+  <Waffenfertigkeit id="48" val="5" cost="2"/>
+  <Waffenfertigkeit id="32" val="5" cost="3"/>
+  <Waffenfertigkeit id="41" val="5" cost="3"/>
+  <Waffenfertigkeit id="11" val="1" cost="3"/>
+  <Waffenfertigkeit id="43" val="5" cost="4"/>
+  <Waffenfertigkeit id="5" val="5" cost="4"/>
+  <Waffenfertigkeit id="17" val="5" cost="4"/>
+  <Waffenfertigkeit id="25" val="5" cost="4"/>
+ </Lernplan> 
+
+<!-- Barbar Wald -->
+  <Lernplan id="4" shortname="BW" name="Barbar, Wald" >
+  <!-- Fach-->
+  <Fachkenntnis id="17" val="4" cost="1" />
+  <Fachkenntnis id="63" val="15" cost="1" />
+  <Fachkenntnis id="70" val="6" cost="1"/>
+  <Fachkenntnis id="73" val="15" cost="1"/>
+  <Fachkenntnis id="76" val="15" cost="1" />
+  <Fachkenntnis id="82" val="8" cost="1"/>
+  <Fachkenntnis id="4" val="15" cost="2"/>
+  <Fachkenntnis id="22" val="12" cost="2"/>
+  <Fachkenntnis id="40" val="4" cost="2"/>
+  <Fachkenntnis id="74" val="15" cost="2"/>
+  <Fachkenntnis id="1" val="8" cost="3"/>
+  <Fachkenntnis id="3" val="4" cost="3"/>
+  <!-- Waffen -->
+  <Waffenfertigkeit id="7" val="5" cost="1"/>
+  <Waffenfertigkeit id="21" val="5" cost="1"/>
+  <Waffenfertigkeit id="15" val="5" cost="1"/>
+  <Waffenfertigkeit id="13" val="5" cost="1"/>
+  <Waffenfertigkeit id="27" val="5" cost="1"/>
+  <Waffenfertigkeit id="40" val="5" cost="1"/>
+  <Waffenfertigkeit id="37" val="5" cost="1"/>
+  <Waffenfertigkeit id="51" val="5" cost="1"/>
+  <Waffenfertigkeit id="45" val="5" cost="1"/>
+  <Waffenfertigkeit id="47" val="5" cost="1"/>
+  <Waffenfertigkeit id="16" val="1" cost="1"/>
+  <Waffenfertigkeit id="38" val="5" cost="2"/>
+  <Waffenfertigkeit id="4" val="5" cost="2"/>
+  <Waffenfertigkeit id="20" val="5" cost="2"/>
+  <Waffenfertigkeit id="49" val="5" cost="2"/>
+  <Waffenfertigkeit id="3" val="5" cost="2"/>
+  <Waffenfertigkeit id="11" val="1" cost="2"/>
+  <Waffenfertigkeit id="35" val="5" cost="3"/>
+  <Waffenfertigkeit id="43" val="5" cost="4"/>
+ </Lernplan> 
+
+<!-- Ermittler -->
+ <Lernplan id="5" shortname="Er" name="Ermittler">
+  <!-- Fach-->
+  <Fachkenntnis id="9" val="8" cost="1" />
+  <Fachkenntnis id="24" val="12" cost="1" />
+  <Fachkenntnis id="40" val="10" cost="1" />
+  <Fachkenntnis id="43" val="6" cost="1" />
+  <Fachkenntnis id="45" val="5" cost="1"/>
+  <Fachkenntnis id="63" val="12" cost="1"/>
+  <Fachkenntnis id="76" val="8" cost="1"/>
+  <Fachkenntnis id="88" val="8" cost="1"/>
+  <Fachkenntnis id="94" val="6" cost="1"/>
+  <Fachkenntnis id="15" val="6" cost="2"/>
+  <Fachkenntnis id="21" val="5" cost="2"/>
+  <Fachkenntnis id="23" val="6" cost="2"/>
+  <Fachkenntnis id="57" val="8" cost="2"/>
+  <Fachkenntnis id="62" val="8" cost="2"/>
+  <Fachkenntnis id="71" val="6" cost="2"/>
+  <Fachkenntnis id="86" val="8" cost="2"/>
+  <Fachkenntnis id="89" val="15" cost="2"/>
+  <Fachkenntnis id="91" val="4" cost="2"/>
+  <!-- Waffen -->
+  <Waffenfertigkeit id="7" val="5" cost="1"/>
+  <Waffenfertigkeit id="15" val="5" cost="1"/>
+  <Waffenfertigkeit id="21" val="5" cost="2"/>
+  <Waffenfertigkeit id="30" val="5" cost="2"/>
+  <Waffenfertigkeit id="33" val="5" cost="2"/>
+  <Waffenfertigkeit id="13" val="5" cost="2"/>
+  <Waffenfertigkeit id="48" val="5" cost="2"/>
+  <Waffenfertigkeit id="47" val="5" cost="2"/>
+  <Waffenfertigkeit id="16" val="1" cost="2"/>
+  <Waffenfertigkeit id="6" val="1" cost="2"/>
+  <Waffenfertigkeit id="31" val="1" cost="2"/>
+  <Waffenfertigkeit id="9" val="5" cost="3"/>
+  <Waffenfertigkeit id="23" val="5" cost="3"/>
+  <Waffenfertigkeit id="14" val="5" cost="3"/>
+  <Waffenfertigkeit id="20" val="5" cost="3"/>
+  <Waffenfertigkeit id="35" val="5" cost="3"/>
+  <Waffenfertigkeit id="43" val="5" cost="4"/>
+  <Waffenfertigkeit id="4" val="5" cost="4"/>
+  <Waffenfertigkeit id="26" val="5" cost="4"/>
+  <Waffenfertigkeit id="36" val="5" cost="4"/>
+ </Lernplan> 
+
+<!-- Barde (Ba) -->
+ <Lernplan id="6" shortname="Ba" name="Barde">
+  <!-- Fach-->
+  <Fachkenntnis id="13" val="12" cost="1" />
+  <Fachkenntnis id="11" val="12" cost="1" />
+  <Fachkenntnis id="42" val="12" cost="1" />
+  <Fachkenntnis id="47" val="12" cost="1" />
+  <Fachkenntnis id="54" val="5" cost="1"/>
+  <Fachkenntnis id="63" val="12" cost="1"/>
+  <Fachkenntnis id="67" val="12" cost="1"/>
+  <Fachkenntnis id="74" val="15" cost="1"/>
+  <Fachkenntnis id="77" val="15" cost="1"/>
+  <Fachkenntnis id="8" val="8" cost="2"/>
+  <Fachkenntnis id="57" val="8" cost="2"/>
+  <Fachkenntnis id="93" val="5" cost="2"/>
+  <!-- Waffen -->
+  <Waffenfertigkeit id="7" val="5" cost="1"/>
+  <Waffenfertigkeit id="31" val="1" cost="1"/>
+  <Waffenfertigkeit id="23" val="5" cost="2"/>
+  <Waffenfertigkeit id="19" val="5" cost="2"/>
+  <Waffenfertigkeit id="21" val="5" cost="2"/>
+  <Waffenfertigkeit id="13" val="5" cost="2"/>
+  <Waffenfertigkeit id="41" val="5" cost="2"/>
+  <Waffenfertigkeit id="27" val="5" cost="2"/>
+  <Waffenfertigkeit id="51" val="5" cost="2"/>
+  <Waffenfertigkeit id="45" val="5" cost="2"/>
+  <Waffenfertigkeit id="46" val="5" cost="2"/>
+  <Waffenfertigkeit id="48" val="5" cost="2"/>
+  <Waffenfertigkeit id="11" val="1" cost="2"/>
+  <Waffenfertigkeit id="16" val="1" cost="2"/>
+  <Waffenfertigkeit id="6" val="1" cost="2"/>
+  <Waffenfertigkeit id="15" val="5" cost="3"/>
+  <Waffenfertigkeit id="42" val="5" cost="3"/>
+  <Waffenfertigkeit id="18" val="5" cost="3"/>
+  <Waffenfertigkeit id="40" val="5" cost="3"/>
+  <Waffenfertigkeit id="14" val="5" cost="3"/>
+  <Waffenfertigkeit id="20" val="5" cost="3"/>
+  <Waffenfertigkeit id="35" val="5" cost="3"/>
+  <Waffenfertigkeit id="24" val="5" cost="4"/>
+  <Waffenfertigkeit id="1" val="5" cost="4"/>
+  <Waffenfertigkeit id="34" val="5" cost="4"/>
+  <Waffenfertigkeit id="43" val="5" cost="4"/>
+  <Waffenfertigkeit id="4" val="5" cost="4"/>
+  <Waffenfertigkeit id="22" val="5" cost="4"/>
+  <Waffenfertigkeit id="26" val="5" cost="4"/>
+  <!-- Zauberkünste -->
+  <Zauberlied id="11" cost="1"/>
+  <Zauberlied id="2" cost="2"/>
+  <Zauberlied id="3" cost="2"/>
+  <Zauberlied id="21" cost="4"/>
+  <Zauberlied id="22" cost="4"/>
+  <Zauberlied id="25" cost="4"/>
+  <Zauberlied id="8" cost="8"/>
+  <Zauberlied id="9" cost="8"/>
+  <Zauberlied id="13" cost="8"/>
+  <Zauberlied id="10" cost="8"/>
+  <Zauberlied id="16" cost="8"/>
+  <Zauberlied id="20" cost="8"/>
+ </Lernplan>
+
+<!-- Glücksritter (Gl) -->
+ <Lernplan id="7" shortname="Gl" name="Glücksritter">
+  <!-- Fach-->
+  <Fachkenntnis id="11" val="12" cost="1" />
+  <Fachkenntnis id="13" val="12" cost="1" />
+  <Fachkenntnis id="21" val="5" cost="1" />
+  <Fachkenntnis id="22" val="12" cost="1" />
+  <Fachkenntnis id="24" val="12" cost="1"/>
+  <Fachkenntnis id="28" val="15" cost="1"/>
+  <Fachkenntnis id="52" val="15" cost="1"/>
+  <Fachkenntnis id="69" val="9" cost="1"/>
+  <Fachkenntnis id="77" val="15" cost="1"/>
+  <Fachkenntnis id="2" val="15" cost="2"/>
+  <Fachkenntnis id="7" val="3" cost="2"/>
+  <Fachkenntnis id="14" val="15" cost="2"/>
+  <Fachkenntnis id="19" val="4" cost="2"/>
+  <Fachkenntnis id="45" val="5" cost="2"/>
+  <Fachkenntnis id="57" val="8" cost="2"/>
+  <Fachkenntnis id="69" val="12" cost="2"/>
+  <Fachkenntnis id="87" val="8" cost="2"/>
+  <Fachkenntnis id="88" val="8" cost="2"/>
+  <Fachkenntnis id="93" val="5" cost="2"/>
+  <!-- Waffen -->
+  <Waffenfertigkeit id="7" val="5" cost="1"/>
+  <Waffenfertigkeit id="23" val="5" cost="1"/>
+  <Waffenfertigkeit id="19" val="5" cost="1"/>
+  <Waffenfertigkeit id="21" val="5" cost="1"/>
+  <Waffenfertigkeit id="30" val="5" cost="1"/>
+  <Waffenfertigkeit id="33" val="5" cost="1"/>
+  <Waffenfertigkeit id="15" val="5" cost="1"/>
+  <Waffenfertigkeit id="42" val="5" cost="1"/>
+  <Waffenfertigkeit id="18" val="5" cost="1"/>
+  <Waffenfertigkeit id="13" val="5" cost="1"/>
+  <Waffenfertigkeit id="41" val="5" cost="1"/>
+  <Waffenfertigkeit id="27" val="5" cost="1"/>
+  <Waffenfertigkeit id="40" val="5" cost="1"/>
+  <Waffenfertigkeit id="11" val="1" cost="1"/>
+  <Waffenfertigkeit id="16" val="1" cost="1"/>
+  <Waffenfertigkeit id="6" val="1" cost="1"/>
+  <Waffenfertigkeit id="31" val="1" cost="1"/>
+  <Waffenfertigkeit id="9" val="5" cost="2"/>
+  <Waffenfertigkeit id="28" val="5" cost="2"/>
+  <Waffenfertigkeit id="14" val="5" cost="2"/>
+  <Waffenfertigkeit id="44" val="5" cost="2"/>
+  <Waffenfertigkeit id="51" val="5" cost="2"/>
+  <Waffenfertigkeit id="53" val="5" cost="2"/>
+  <Waffenfertigkeit id="45" val="5" cost="2"/>
+  <Waffenfertigkeit id="46" val="5" cost="2"/>
+  <Waffenfertigkeit id="47" val="5" cost="2"/>
+  <Waffenfertigkeit id="48" val="5" cost="2"/>
+  <Waffenfertigkeit id="2" val="5" cost="3"/>
+  <Waffenfertigkeit id="1" val="5" cost="3"/>
+  <Waffenfertigkeit id="34" val="5" cost="3"/>
+  <Waffenfertigkeit id="38" val="5" cost="3"/>
+  <Waffenfertigkeit id="12" val="5" cost="3"/>
+  <Waffenfertigkeit id="39" val="5" cost="3"/>
+  <Waffenfertigkeit id="54" val="5" cost="3"/>
+  <Waffenfertigkeit id="8" val="5" cost="3"/>
+  <Waffenfertigkeit id="43" val="5" cost="3"/>
+  <Waffenfertigkeit id="4" val="5" cost="3"/>
+  <Waffenfertigkeit id="20" val="5" cost="3"/>
+  <Waffenfertigkeit id="22" val="5" cost="3"/>
+  <Waffenfertigkeit id="26" val="5" cost="3"/>
+  <Waffenfertigkeit id="36" val="5" cost="3"/>
+  <Waffenfertigkeit id="35" val="5" cost="3"/>
+  <Waffenfertigkeit id="55" val="5" cost="3"/>
+ </Lernplan> 
+
+<!-- Händler (Hä) -->
+ <Lernplan id="8" shortname="Hä" name="Händler">
+  <!-- Fach-->
+  <Fachkenntnis id="8" val="8" cost="1" />
+  <Fachkenntnis id="26" val="8" cost="1" />
+  <Fachkenntnis id="30" val="5" cost="1" />
+  <Fachkenntnis id="40" val="5" cost="1" />
+  <Fachkenntnis id="45" val="5" cost="1"/>
+  <Fachkenntnis id="51" val="8" cost="1"/>
+  <Fachkenntnis id="55" val="5" cost="1"/>
+  <Fachkenntnis id="63" val="9" cost="1"/>
+  <Fachkenntnis id="65" val="15" cost="1"/>
+  <Fachkenntnis id="69" val="12" cost="1"/>
+  <Fachkenntnis id="90" val="15" cost="1"/>
+  <Fachkenntnis id="21" val="5" cost="2"/>
+  <Fachkenntnis id="48" val="5" cost="2"/>
+  <Fachkenntnis id="52" val="15" cost="2"/>
+  <Fachkenntnis id="57" val="8" cost="2"/>
+  <Fachkenntnis id="59" val="8" cost="2"/>
+  <Fachkenntnis id="63" val="12" cost="2"/>
+  <Fachkenntnis id="73" val="15" cost="2"/>
+  <Fachkenntnis id="88" val="8" cost="2"/>
+  <Fachkenntnis id="91" val="4" cost="2"/>
+  <Fachkenntnis id="94" val="6" cost="2"/>
+  <!-- Waffen -->
+  <Waffenfertigkeit id="7" val="5" cost="1"/>
+  <Waffenfertigkeit id="16" val="1" cost="1"/>
+  <Waffenfertigkeit id="23" val="5" cost="2"/>
+  <Waffenfertigkeit id="19" val="5" cost="2"/>
+  <Waffenfertigkeit id="21" val="5" cost="2"/>
+  <Waffenfertigkeit id="30" val="5" cost="2"/>
+  <Waffenfertigkeit id="15" val="5" cost="2"/>
+  <Waffenfertigkeit id="42" val="5" cost="2"/>
+  <Waffenfertigkeit id="13" val="5" cost="2"/>
+  <Waffenfertigkeit id="41" val="5" cost="2"/>
+  <Waffenfertigkeit id="27" val="5" cost="2"/>
+  <Waffenfertigkeit id="51" val="5" cost="2"/>
+  <Waffenfertigkeit id="45" val="5" cost="2"/>
+  <Waffenfertigkeit id="46" val="5" cost="2"/>
+  <Waffenfertigkeit id="26" val="5" cost="2"/>
+  <Waffenfertigkeit id="11" val="1" cost="2"/>
+  <Waffenfertigkeit id="6" val="1" cost="2"/>
+  <Waffenfertigkeit id="31" val="1" cost="2"/>
+  <Waffenfertigkeit id="32" val="5" cost="3"/>
+  <Waffenfertigkeit id="33" val="5" cost="3"/>
+  <Waffenfertigkeit id="18" val="5" cost="3"/>
+  <Waffenfertigkeit id="40" val="5" cost="3"/>
+  <Waffenfertigkeit id="14" val="5" cost="3"/>
+  <Waffenfertigkeit id="48" val="5" cost="3"/>
+  <Waffenfertigkeit id="36" val="5" cost="3"/>
+  <Waffenfertigkeit id="55" val="5" cost="3"/>
+  <Waffenfertigkeit id="9" val="5" cost="4"/>
+  <Waffenfertigkeit id="43" val="5" cost="4"/>
+  <Waffenfertigkeit id="4" val="5" cost="4"/>
+  <Waffenfertigkeit id="20" val="5" cost="4"/>
+  <Waffenfertigkeit id="22" val="5" cost="4"/>
+ </Lernplan>  
+
+<!-- Krieger (Kr) -->
+ <Lernplan id="9" shortname="Kr" name="Krieger">
+  <!-- Fach-->
+  <Fachkenntnis id="32" val="5" cost="0" />
+  <Fachkenntnis id="33" val="15" cost="1" />
+  <Fachkenntnis id="52" val="15" cost="1"/>
+  <Fachkenntnis id="75" val="15" cost="1"/>
+  <Fachkenntnis id="90" val="15" cost="1"/>
+  <Fachkenntnis id="7" val="3" cost="2"/>
+  <Fachkenntnis id="10" val="15" cost="2"/>
+  <Fachkenntnis id="34" val="15" cost="2"/>
+  <Fachkenntnis id="35" val="15" cost="2"/>
+  <Fachkenntnis id="36" val="8" cost="2"/>
+  <Fachkenntnis id="58" val="15" cost="2"/>
+  <Fachkenntnis id="59" val="8" cost="2"/>
+  <Fachkenntnis id="3" val="4" cost="3"/>
+  <!-- Waffen -->
+  <Waffenfertigkeit id="7" val="5" cost="1"/>
+  <Waffenfertigkeit id="23" val="5" cost="1"/>
+  <Waffenfertigkeit id="19" val="5" cost="1"/>
+  <Waffenfertigkeit id="21" val="5" cost="1"/>
+  <Waffenfertigkeit id="30" val="5" cost="1"/>
+  <Waffenfertigkeit id="33" val="5" cost="1"/>
+  <Waffenfertigkeit id="15" val="5" cost="1"/>
+  <Waffenfertigkeit id="42" val="5" cost="1"/>
+  <Waffenfertigkeit id="18" val="5" cost="1"/>
+  <Waffenfertigkeit id="13" val="5" cost="1"/>
+  <Waffenfertigkeit id="41" val="5" cost="1"/>
+  <Waffenfertigkeit id="27" val="5" cost="1"/>
+  <Waffenfertigkeit id="40" val="5" cost="1"/>
+  <Waffenfertigkeit id="24" val="5" cost="1"/>
+  <Waffenfertigkeit id="38" val="5" cost="1"/>
+  <Waffenfertigkeit id="28" val="5" cost="1"/>
+  <Waffenfertigkeit id="51" val="5" cost="1"/>
+  <Waffenfertigkeit id="53" val="5" cost="1"/>
+  <Waffenfertigkeit id="45" val="5" cost="1"/>
+  <Waffenfertigkeit id="46" val="5" cost="1"/>
+  <Waffenfertigkeit id="47" val="5" cost="1"/>
+  <Waffenfertigkeit id="48" val="5" cost="1"/>
+  <Waffenfertigkeit id="49" val="5" cost="1"/>
+  <Waffenfertigkeit id="11" val="1" cost="1"/>
+  <Waffenfertigkeit id="16" val="1" cost="1"/>
+  <Waffenfertigkeit id="6" val="1" cost="1"/>
+  <Waffenfertigkeit id="31" val="1" cost="1"/>
+  <Waffenfertigkeit id="9" val="5" cost="2"/>
+  <Waffenfertigkeit id="2" val="5" cost="2"/>
+  <Waffenfertigkeit id="1" val="5" cost="2"/>
+  <Waffenfertigkeit id="12" val="5" cost="2"/>
+  <Waffenfertigkeit id="34" val="5" cost="2"/>
+  <Waffenfertigkeit id="39" val="5" cost="2"/>
+  <Waffenfertigkeit id="54" val="5" cost="2"/>
+  <Waffenfertigkeit id="14" val="5" cost="2"/>
+  <Waffenfertigkeit id="8" val="5" cost="2"/>
+  <Waffenfertigkeit id="43" val="5" cost="2"/>
+  <Waffenfertigkeit id="4" val="5" cost="2"/>
+  <Waffenfertigkeit id="20" val="5" cost="2"/>
+  <Waffenfertigkeit id="22" val="5" cost="2"/>
+  <Waffenfertigkeit id="26" val="5" cost="2"/>
+  <Waffenfertigkeit id="36" val="5" cost="2"/>
+  <Waffenfertigkeit id="35" val="5" cost="2"/>
+  <Waffenfertigkeit id="55" val="5" cost="2"/>
+</Lernplan> 
+
+<!-- Kundschafter (Ku) -->
+ <Lernplan id="10" shortname="Ku" name="Kundschafter">
+  <!-- Fach-->
+  <Fachkenntnis id="17" val="4" cost="1" />
+  <Fachkenntnis id="30" val="5" cost="1" />
+  <Fachkenntnis id="48" val="5" cost="1" />
+  <Fachkenntnis id="52" val="15" cost="1"/>
+  <Fachkenntnis id="71" val="6" cost="1"/>
+  <Fachkenntnis id="85" val="8" cost="1"/>
+  <Fachkenntnis id="10" val="15" cost="2"/>
+  <Fachkenntnis id="35" val="15" cost="2"/>
+  <Fachkenntnis id="38" val="15" cost="2"/>
+  <Fachkenntnis id="56" val="5" cost="2"/>
+  <Fachkenntnis id="60" val="8" cost="2"/>
+  <Fachkenntnis id="78" val="8" cost="2"/>
+  <Fachkenntnis id="81" val="5" cost="2"/>
+  <Fachkenntnis id="87" val="8" cost="2"/>
+  <Fachkenntnis id="90" val="15" cost="2"/>
+  <Fachkenntnis id="91" val="4" cost="2"/>
+  <Fachkenntnis id="21" val="5" cost="3"/>
+  <!-- Waffen -->
+  <Waffenfertigkeit id="7" val="5" cost="1"/>
+  <Waffenfertigkeit id="15" val="5" cost="1"/>
+  <Waffenfertigkeit id="19" val="5" cost="1"/>
+  <Waffenfertigkeit id="42" val="5" cost="1"/>
+  <Waffenfertigkeit id="27" val="5" cost="1"/>
+  <Waffenfertigkeit id="40" val="5" cost="1"/>
+  <Waffenfertigkeit id="21" val="5" cost="2"/>
+  <Waffenfertigkeit id="41" val="5" cost="2"/>
+  <Waffenfertigkeit id="4" val="5" cost="2"/>
+  <Waffenfertigkeit id="20" val="5" cost="2"/>
+  <Waffenfertigkeit id="51" val="5" cost="2"/>
+  <Waffenfertigkeit id="47" val="5" cost="2"/>
+  <Waffenfertigkeit id="16" val="1" cost="2"/>
+  <Waffenfertigkeit id="6" val="1" cost="2"/>
+  <Waffenfertigkeit id="28" val="5" cost="3"/>
+  <Waffenfertigkeit id="48" val="5" cost="3"/>
+  <Waffenfertigkeit id="49" val="5" cost="3"/>
+  <Waffenfertigkeit id="24" val="5" cost="4"/>
+  <Waffenfertigkeit id="43" val="5" cost="4"/>
+  <Waffenfertigkeit id="5" val="5" cost="4"/>
+  <Waffenfertigkeit id="25" val="5" cost="4"/>
+ </Lernplan> 
+
+<!-- Ordenskrieger -->
+<Lernplan id="11" shortname="Or" name="Ordenskrieger">
+  <!-- Fachkenntnis -->
+  <Fachkenntnis id="32" val="5" cost="0" />
+  <Fachkenntnis id="52" val="15" cost="1"/>
+  <Fachkenntnis id="63" val="12" cost="1" />
+  <Fachkenntnis id="32" val="15" cost="2" />
+  <Fachkenntnis id="34" val="15" cost="2" />
+  <Fachkenntnis id="36" val="8" cost="2"/>
+  <Fachkenntnis id="75" val="15" cost="2"/>
+  <Fachkenntnis id="90" val="15" cost="2"/>
+  <Fachkenntnis id="3" val="4" cost="3"/>
+  <Fachkenntnis id="44" val="8" cost="3"/>
+  <!-- Waffen -->
+  <Waffenfertigkeit id="7" val="5" cost="1"/>
+  <Waffenfertigkeit id="23" val="5" cost="1"/>
+  <Waffenfertigkeit id="19" val="5" cost="1"/>
+  <Waffenfertigkeit id="21" val="5" cost="1"/>
+  <Waffenfertigkeit id="15" val="5" cost="1"/>
+  <Waffenfertigkeit id="42" val="5" cost="1"/>
+  <Waffenfertigkeit id="18" val="5" cost="1"/>
+  <Waffenfertigkeit id="13" val="5" cost="1"/>
+  <Waffenfertigkeit id="41" val="5" cost="1"/>
+  <Waffenfertigkeit id="27" val="5" cost="1"/>
+  <Waffenfertigkeit id="40" val="5" cost="1"/>
+  <Waffenfertigkeit id="51" val="5" cost="1"/>
+  <Waffenfertigkeit id="45" val="5" cost="1"/>
+  <Waffenfertigkeit id="46" val="5" cost="1"/>
+  <Waffenfertigkeit id="47" val="5" cost="1"/>
+  <Waffenfertigkeit id="11" val="1" cost="1"/>
+  <Waffenfertigkeit id="16" val="1" cost="1"/>
+  <Waffenfertigkeit id="6" val="1" cost="1"/>
+  <Waffenfertigkeit id="24" val="5" cost="2"/>
+  <Waffenfertigkeit id="1" val="5" cost="2"/>
+  <Waffenfertigkeit id="38" val="5" cost="2"/>
+  <Waffenfertigkeit id="12" val="5" cost="2"/>
+  <Waffenfertigkeit id="28" val="5" cost="2"/>
+  <Waffenfertigkeit id="14" val="5" cost="2"/>
+  <Waffenfertigkeit id="2" val="5" cost="3"/>
+  <Waffenfertigkeit id="34" val="5" cost="3"/>
+  <Waffenfertigkeit id="39" val="5" cost="3"/>
+  <Waffenfertigkeit id="54" val="5" cost="3"/>
+  <Waffenfertigkeit id="4" val="5" cost="3"/>
+  <Waffenfertigkeit id="20" val="5" cost="3"/>
+  <Waffenfertigkeit id="26" val="5" cost="3"/>
+  <Waffenfertigkeit id="36" val="5" cost="3"/>
+  <Waffenfertigkeit id="35" val="5" cost="3"/>
+  <Waffenfertigkeit id="48" val="5" cost="3"/>
+  <Waffenfertigkeit id="48" val="5" cost="3"/>
+  <Waffenfertigkeit id="31" val="1" cost="3"/>
+  <Waffenfertigkeit id="43" val="5" cost="4"/>
+  <!-- Zauberkünste -->
+  <Zauberformel id="90" cost="2"/>
+  <Zauberformel id="113" cost="2"/>
+  <Zauberformel id="98" cost="4"/>
+  <Zauberformel id="104" cost="4"/>
+  <Zauberformel id="220" cost="4"/>
+  <Zauberformel id="93" cost="8"/>
+  <Zauberformel id="103" cost="8"/>
+</Lernplan>
+
+<!-- Seefahrer (Se) -->
+ <Lernplan id="12" shortname="Se" name="Seefahrer">
+  <!-- Fach-->
+  <Fachkenntnis id="13" val="12" cost="1" />
+  <Fachkenntnis id="30" val="5" cost="1" />
+  <Fachkenntnis id="40" val="5" cost="1" />
+  <Fachkenntnis id="53" val="15" cost="1"/>
+  <Fachkenntnis id="64" val="15" cost="1"/>
+  <Fachkenntnis id="65" val="15" cost="1"/>
+  <Fachkenntnis id="69" val="12" cost="1"/>
+  <Fachkenntnis id="73" val="15" cost="1"/>
+  <Fachkenntnis id="79" val="15" cost="1"/>
+  <Fachkenntnis id="82" val="1+Ko/10" cost="1"/>
+  <Fachkenntnis id="4" val="15" cost="2"/>
+  <Fachkenntnis id="18" val="15" cost="2"/>
+  <Fachkenntnis id="38" val="15" cost="2"/>
+  <Fachkenntnis id="51" val="8" cost="2"/>
+  <Fachkenntnis id="59" val="8" cost="2"/>
+  <Fachkenntnis id="66" val="8" cost="2"/>
+  <Fachkenntnis id="21" val="5" cost="3"/>
+  <!-- Waffen -->
+  <Waffenfertigkeit id="7" val="5" cost="1"/>
+  <Waffenfertigkeit id="13" val="5" cost="1"/>
+  <Waffenfertigkeit id="15" val="5" cost="1"/>
+  <Waffenfertigkeit id="19" val="5" cost="1"/>
+  <Waffenfertigkeit id="21" val="5" cost="1"/>
+  <Waffenfertigkeit id="33" val="5" cost="1"/>
+  <Waffenfertigkeit id="42" val="5" cost="2"/>
+  <Waffenfertigkeit id="41" val="5" cost="2"/>
+  <Waffenfertigkeit id="27" val="5" cost="1"/>
+  <Waffenfertigkeit id="40" val="5" cost="1"/>
+  <Waffenfertigkeit id="16" val="1" cost="1"/>
+  <Waffenfertigkeit id="31" val="1" cost="1"/>
+  <Waffenfertigkeit id="14" val="5" cost="2"/>
+  <Waffenfertigkeit id="23" val="5" cost="2"/>
+  <Waffenfertigkeit id="30" val="5" cost="2"/>
+  <Waffenfertigkeit id="51" val="5" cost="2"/>
+  <Waffenfertigkeit id="53" val="5" cost="2"/>
+  <Waffenfertigkeit id="45" val="5" cost="2"/>
+  <Waffenfertigkeit id="48" val="5" cost="2"/>
+  <Waffenfertigkeit id="11" val="1" cost="2"/>
+  <Waffenfertigkeit id="18" val="5" cost="3"/>
+  <Waffenfertigkeit id="40" val="5" cost="3"/>
+  <Waffenfertigkeit id="1" val="5" cost="3"/>
+  <Waffenfertigkeit id="34" val="5" cost="3"/>
+  <Waffenfertigkeit id="38" val="5" cost="3"/>
+  <Waffenfertigkeit id="8" val="5" cost="3"/>
+  <Waffenfertigkeit id="43" val="5" cost="3"/>
+  <Waffenfertigkeit id="4" val="5" cost="3"/>
+  <Waffenfertigkeit id="20" val="5" cost="3"/>
+  <Waffenfertigkeit id="26" val="5" cost="3"/>
+  <Waffenfertigkeit id="36" val="5" cost="3"/>
+  <Waffenfertigkeit id="35" val="5" cost="3"/>
+  <Waffenfertigkeit id="55" val="5" cost="3"/>
+  <Waffenfertigkeit id="56" val="5" cost="3"/>
+</Lernplan>
+ 
+<!-- Söldner (Sö) -->
+ <Lernplan id="13" shortname="Soe" name="Soeldner">
+  <!-- Fach-->
+  <Fachkenntnis id="32" val="5" cost="0" />
+  <Fachkenntnis id="33" val="15" cost="1" />
+  <Fachkenntnis id="52" val="15" cost="1"/>
+  <Fachkenntnis id="82" val="1+Ko/10" cost="1"/>
+  <Fachkenntnis id="75" val="15" cost="1"/>
+  <Fachkenntnis id="90" val="15" cost="1"/>
+  <Fachkenntnis id="5" val="4" cost="2"/>
+  <Fachkenntnis id="7" val="3" cost="2"/>
+  <Fachkenntnis id="28" val="15" cost="2"/>
+  <Fachkenntnis id="35" val="15" cost="2"/>
+  <Fachkenntnis id="36" val="8" cost="2"/>
+  <Fachkenntnis id="37" val="4" cost="2"/>
+  <Fachkenntnis id="90" val="15" cost="2"/>
+  <Fachkenntnis id="3" val="4" cost="3"/>
+  <!-- Waffen -->
+  <Waffenfertigkeit id="7" val="5" cost="1"/>
+  <Waffenfertigkeit id="23" val="5" cost="1"/>
+  <Waffenfertigkeit id="19" val="5" cost="1"/>
+  <Waffenfertigkeit id="21" val="5" cost="1"/>
+  <Waffenfertigkeit id="30" val="5" cost="1"/>
+  <Waffenfertigkeit id="33" val="5" cost="1"/>
+  <Waffenfertigkeit id="15" val="5" cost="1"/>
+  <Waffenfertigkeit id="42" val="5" cost="1"/>
+  <Waffenfertigkeit id="18" val="5" cost="1"/>
+  <Waffenfertigkeit id="13" val="5" cost="1"/>
+  <Waffenfertigkeit id="41" val="5" cost="1"/>
+  <Waffenfertigkeit id="27" val="5" cost="1"/>
+  <Waffenfertigkeit id="40" val="5" cost="1"/>
+  <Waffenfertigkeit id="24" val="5" cost="1"/>
+  <Waffenfertigkeit id="38" val="5" cost="1"/>
+  <Waffenfertigkeit id="28" val="5" cost="1"/>
+  <Waffenfertigkeit id="51" val="5" cost="1"/>
+  <Waffenfertigkeit id="53" val="5" cost="1"/>
+  <Waffenfertigkeit id="45" val="5" cost="1"/>
+  <Waffenfertigkeit id="46" val="5" cost="1"/>
+  <Waffenfertigkeit id="47" val="5" cost="1"/>
+  <Waffenfertigkeit id="48" val="5" cost="1"/>
+  <Waffenfertigkeit id="49" val="5" cost="1"/>
+  <Waffenfertigkeit id="11" val="1" cost="1"/>
+  <Waffenfertigkeit id="16" val="1" cost="1"/>
+  <Waffenfertigkeit id="6" val="1" cost="1"/>
+  <Waffenfertigkeit id="31" val="1" cost="1"/>
+  <Waffenfertigkeit id="9" val="5" cost="2"/>
+  <Waffenfertigkeit id="2" val="5" cost="2"/>
+  <Waffenfertigkeit id="1" val="5" cost="2"/>
+  <Waffenfertigkeit id="12" val="5" cost="2"/>
+  <Waffenfertigkeit id="34" val="5" cost="2"/>
+  <Waffenfertigkeit id="39" val="5" cost="2"/>
+  <Waffenfertigkeit id="54" val="5" cost="2"/>
+  <Waffenfertigkeit id="14" val="5" cost="2"/>
+  <Waffenfertigkeit id="8" val="5" cost="2"/>
+  <Waffenfertigkeit id="43" val="5" cost="2"/>
+  <Waffenfertigkeit id="4" val="5" cost="2"/>
+  <Waffenfertigkeit id="20" val="5" cost="2"/>
+  <Waffenfertigkeit id="22" val="5" cost="2"/>
+  <Waffenfertigkeit id="26" val="5" cost="2"/>
+  <Waffenfertigkeit id="36" val="5" cost="2"/>
+  <Waffenfertigkeit id="35" val="5" cost="2"/>
+  <Waffenfertigkeit id="55" val="5" cost="2"/>
+</Lernplan> 
+
+ <!-- Spitzbube -->
+ <Lernplan id="14" shortname="Sp" name="Spitzbube">
+  <!-- Fach-->
+  <Fachkenntnis id="16" val="4" cost="1" />
+  <Fachkenntnis id="22" val="12" cost="1" />
+  <Fachkenntnis id="24" val="12" cost="1" />
+  <Fachkenntnis id="62" val="8" cost="1" />
+  <Fachkenntnis id="72" val="8" cost="1"/>
+  <Fachkenntnis id="86" val="8" cost="1"/>
+  <Fachkenntnis id="94" val="6" cost="1"/>
+  <Fachkenntnis id="4" val="15" cost="2"/>
+  <Fachkenntnis id="15" val="6" cost="2"/>
+  <Fachkenntnis id="21" val="5" cost="2"/>
+  <Fachkenntnis id="23" val="6" cost="2"/>
+  <Fachkenntnis id="38" val="15" cost="2"/>
+  <Fachkenntnis id="60" val="8" cost="2"/>
+  <Fachkenntnis id="76" val="8" cost="2"/>
+  <Fachkenntnis id="78" val="8" cost="2"/>
+  <Fachkenntnis id="92" val="4" cost="2"/>
+  <Fachkenntnis id="2" val="4" cost="3"/>
+  <!-- Waffen -->
+  <Waffenfertigkeit id="7" val="5" cost="1"/>
+  <Waffenfertigkeit id="15" val="5" cost="1"/>
+  <Waffenfertigkeit id="19" val="5" cost="2"/>
+  <Waffenfertigkeit id="21" val="5" cost="2"/>
+  <Waffenfertigkeit id="30" val="5" cost="2"/>
+  <Waffenfertigkeit id="33" val="5" cost="2"/>
+  <Waffenfertigkeit id="18" val="5" cost="3"/>
+  <Waffenfertigkeit id="13" val="5" cost="2"/>
+  <Waffenfertigkeit id="42" val="5" cost="2"/>
+  <Waffenfertigkeit id="27" val="5" cost="2"/>
+  <Waffenfertigkeit id="44" val="5" cost="2"/>
+  <Waffenfertigkeit id="48" val="5" cost="2"/>
+  <Waffenfertigkeit id="51" val="5" cost="2"/>
+  <Waffenfertigkeit id="47" val="5" cost="2"/>
+  <Waffenfertigkeit id="16" val="1" cost="2"/>
+  <Waffenfertigkeit id="6" val="1" cost="2"/>
+  <Waffenfertigkeit id="31" val="1" cost="2"/>
+  <Waffenfertigkeit id="9" val="5" cost="3"/>
+  <Waffenfertigkeit id="23" val="5" cost="3"/>
+  <Waffenfertigkeit id="18" val="5" cost="3"/>
+  <Waffenfertigkeit id="41" val="5" cost="3"/>
+  <Waffenfertigkeit id="40" val="5" cost="3"/>
+  <Waffenfertigkeit id="14" val="5" cost="3"/>
+  <Waffenfertigkeit id="35" val="5" cost="3"/>
+  <Waffenfertigkeit id="49" val="5" cost="3"/>
+  <Waffenfertigkeit id="43" val="5" cost="4"/>
+  <Waffenfertigkeit id="4" val="5" cost="4"/>
+  <Waffenfertigkeit id="20" val="5" cost="4"/>
+  <Waffenfertigkeit id="26" val="5" cost="4"/>
+</Lernplan>
+ 
+ <!-- Tiermeister -->
+ <Lernplan id="15" shortname="Tm" name="Tiermeister">
+  <!-- Fach-->
+  <Fachkenntnis id="1" val="8" cost="1" />
+  <Fachkenntnis id="25" val="15" cost="1" />
+  <Fachkenntnis id="81" val="5" cost="1" />
+  <Fachkenntnis id="17" val="4" cost="2" />
+  <Fachkenntnis id="41" val="4" cost="2" />
+  <Fachkenntnis id="48" val="5" cost="2" />
+  <Fachkenntnis id="71" val="6" cost="2" />
+  <Fachkenntnis id="92" val="4" cost="2"/>
+  <Fachkenntnis id="44" val="8" cost="3"/>
+  <!-- Waffen -->
+  <Waffenfertigkeit id="7" val="5" cost="1"/>
+  <Waffenfertigkeit id="21" val="5" cost="1"/>
+  <Waffenfertigkeit id="15" val="5" cost="1"/>
+  <Waffenfertigkeit id="13" val="5" cost="1"/>
+  <Waffenfertigkeit id="27" val="5" cost="1"/>
+  <Waffenfertigkeit id="40" val="5" cost="1"/>
+  <Waffenfertigkeit id="51" val="5" cost="1"/>
+  <Waffenfertigkeit id="45" val="5" cost="1"/>
+  <Waffenfertigkeit id="47" val="5" cost="1"/>
+  <Waffenfertigkeit id="16" val="1" cost="1"/>
+  <Waffenfertigkeit id="23" val="5" cost="2"/>
+  <Waffenfertigkeit id="41" val="5" cost="2"/>
+  <Waffenfertigkeit id="4" val="5" cost="2"/>
+  <Waffenfertigkeit id="20" val="5" cost="2"/>
+  <Waffenfertigkeit id="35" val="5" cost="2"/>
+  <Waffenfertigkeit id="49" val="5" cost="2"/>
+  <Waffenfertigkeit id="34" val="5" cost="3"/>
+  <Waffenfertigkeit id="38" val="5" cost="3"/>
+  <Waffenfertigkeit id="48" val="5" cost="3"/>
+  <Waffenfertigkeit id="43" val="5" cost="4"/>
+  <Waffenfertigkeit id="5" val="5" cost="4"/>
+</Lernplan> 
+
+ <!-- Waldläufer -->
+ <Lernplan id="16" shortname="Wa" name="Waldläufer">
+  <!-- Fach-->
+  <Fachkenntnis id="17" val="4" cost="1" />
+  <Fachkenntnis id="41" val="4" cost="1" />
+  <Fachkenntnis id="49" val="4" cost="1" />
+  <Fachkenntnis id="71" val="6" cost="1" />
+  <Fachkenntnis id="81" val="5" cost="1" />
+  <Fachkenntnis id="83" val="8" cost="1" />
+  <Fachkenntnis id="25" val="15" cost="2" />
+  <Fachkenntnis id="31" val="2" cost="2" />
+  <Fachkenntnis id="38" val="15" cost="2" />
+  <Fachkenntnis id="39" val="5" cost="2" />
+  <Fachkenntnis id="56" val="5" cost="2"/>
+  <Fachkenntnis id="60" val="8" cost="2"/>
+  <Fachkenntnis id="64" val="15" cost="2"/>
+  <Fachkenntnis id="78" val="8" cost="2"/>
+  <Fachkenntnis id="91" val="4" cost="2"/>
+  <Fachkenntnis id="1" val="8" cost="3"/>
+  <!-- Waffen -->
+  <Waffenfertigkeit id="7" val="5" cost="1"/>
+  <Waffenfertigkeit id="27" val="5" cost="1"/>
+  <Waffenfertigkeit id="40" val="5" cost="1"/>
+  <Waffenfertigkeit id="23" val="5" cost="2"/>
+  <Waffenfertigkeit id="21" val="5" cost="2"/>
+  <Waffenfertigkeit id="15" val="5" cost="2"/>
+  <Waffenfertigkeit id="13" val="5" cost="2"/>
+  <Waffenfertigkeit id="41" val="5" cost="2"/>
+  <Waffenfertigkeit id="4" val="5" cost="2"/>
+  <Waffenfertigkeit id="20" val="5" cost="2"/>
+  <Waffenfertigkeit id="51" val="5" cost="2"/>
+  <Waffenfertigkeit id="45" val="5" cost="2"/>
+  <Waffenfertigkeit id="11" val="1" cost="2"/>
+  <Waffenfertigkeit id="16" val="1" cost="2"/>
+  <Waffenfertigkeit id="19" val="5" cost="3"/>
+  <Waffenfertigkeit id="42" val="5" cost="3"/>
+  <Waffenfertigkeit id="18" val="5" cost="3"/>
+  <Waffenfertigkeit id="34" val="5" cost="3"/>
+  <Waffenfertigkeit id="14" val="5" cost="3"/>
+  <Waffenfertigkeit id="22" val="5" cost="3"/>
+  <Waffenfertigkeit id="35" val="5" cost="3"/>
+  <Waffenfertigkeit id="43" val="5" cost="4"/>
+  <Waffenfertigkeit id="1" val="5" cost="4"/>
+</Lernplan> 
+
+<!-- Druide -->
+ <Lernplan id="17" shortname="Dr" name="Druide">
+  <!-- Fach-->
+  <Fachkenntnis id="24" val="12" cost="1" />
+  <Fachkenntnis id="48" val="5" cost="1" />
+  <Fachkenntnis id="49" val="5" cost="1"/>
+  <Fachkenntnis id="71" val="6" cost="1"/>
+  <Fachkenntnis id="81" val="5" cost="1"/>
+  <Fachkenntnis id="83" val="8" cost="1"/>
+  <Fachkenntnis id="42" val="12" cost="2"/>
+  <Fachkenntnis id="91" val="4" cost="2"/>
+  <Fachkenntnis id="93" val="5" cost="2"/>
+  <Fachkenntnis id="1" val="8" cost="3"/>
+  <!-- Waffen -->
+  <Waffenfertigkeit id="7" val="4" cost="2"/>
+  <Waffenfertigkeit id="15" val="4" cost="2"/>
+  <Waffenfertigkeit id="13" val="4" cost="2"/>
+  <Waffenfertigkeit id="27" val="4" cost="2"/>
+  <Waffenfertigkeit id="57" val="4" cost="3"/>
+  <Waffenfertigkeit id="47" val="4" cost="3"/>
+  <Waffenfertigkeit id="16" val="1" cost="3"/>
+  <Waffenfertigkeit id="14" val="4" cost="4"/>
+  <Waffenfertigkeit id="35" val="4" cost="4"/>
+
+  <!-- Zauberkünste -->
+  <Zauberformel id="126" cost="1"/>
+  <Zauberformel id="224" cost="1"/>
+  <Zauberformel id="157" cost="2"/>
+  <Zauberformel id="240" cost="2"/>
+  <Zauberformel id="8" cost="3"/>
+  <Zauberformel id="192" cost="3"/>
+  <Zauberformel id="239" cost="3"/>
+  <Zauberformel id="21" cost="4"/>
+  <Zauberformel id="132" cost="4"/>
+ </Lernplan>
+
+<!-- Heiler -->
+ <Lernplan id="18" shortname="Hl" name="Heiler">
+  <!-- Fach-->
+  <Fachkenntnis id="12" val="8" cost="1" />
+  <Fachkenntnis id="39" val="5" cost="1"/>
+  <Fachkenntnis id="42" val="12" cost="1"/>
+  <Fachkenntnis id="63" val="12" cost="1"/>
+  <Fachkenntnis id="29" val="5" cost="2"/>
+  <Fachkenntnis id="45" val="5" cost="2"/>
+  <Fachkenntnis id="93" val="5" cost="2"/>
+
+  <!-- Waffen -->
+  <Waffenfertigkeit id="7" val="4" cost="2"/>
+  <Waffenfertigkeit id="58" val="4" cost="6"/>
+  <Waffenfertigkeit id="43" val="4" cost="9"/>
+  <!-- Zauberkünste -->
+  <Zauberformel id="61" cost="1"/>
+  <Zauberformel id="98" cost="1"/>
+  <Zauberformel id="126" cost="1"/>
+  <Zauberformel id="101" cost="2"/>
+  <Zauberformel id="103" cost="2"/>
+  <Zauberformel id="153" cost="2"/>
+  <Zauberformel id="192" cost="3"/>
+  <Zauberformel id="240" cost="3"/>
+  <Zauberformel id="132" cost="4"/>
+ </Lernplan>
+
+<!-- Hexer -->
+ <Lernplan id="19" shortname="Hx" name="Hexer">
+  <!-- Fach-->
+  <Fachkenntnis id="42" val="12" cost="1"/>
+  <Fachkenntnis id="63" val="12" cost="1"/>
+  <Fachkenntnis id="21" val="5" cost="2"/>
+  <Fachkenntnis id="27" val="5" cost="2"/>
+  <Fachkenntnis id="39" val="5" cost="2"/>
+  <Fachkenntnis id="86" val="8" cost="2"/>
+  <Fachkenntnis id="93" val="5" cost="2"/>
+  <!-- Waffen -->
+  <Waffenfertigkeit id="7" val="4" cost="2"/>
+  <Waffenfertigkeit id="30" val="4" cost="4"/>
+  <Waffenfertigkeit id="58" val="4" cost="6"/>
+  <Waffenfertigkeit id="48" val="4" cost="6"/>
+  <!-- Zauberkünste -->
+  <Zauberformel id="29" cost="1"/>
+  <Zauberformel id="3" cost="2"/>
+  <Zauberformel id="38" cost="2"/>
+  <Zauberformel id="90" cost="2"/>
+  <Zauberformel id="130" cost="2"/>
+  <Zauberformel id="24" cost="3"/>
+  <Zauberformel id="163" cost="3"/>
+  <Zauberformel id="216" cost="3"/>
+  <Zauberformel id="2" cost="4"/>
+  <Zauberformel id="34" cost="4"/>
+ </Lernplan>
+
+<!-- Magier -->
+ <Lernplan id="20" shortname="Ma" name="Magier">
+  <!-- Fach-->
+  <Fachkenntnis id="42" val="12" cost="1"/>
+  <Fachkenntnis id="63" val="12" cost="1"/>
+  <Fachkenntnis id="93" val="5" cost="2"/>
+  <Fachkenntnis id="95" val="5" cost="3"/>
+  <Fachkenntnis id="80" val="6" cost="5"/>
+  <!-- Waffen -->
+  <Waffenfertigkeit id="7" val="4" cost="2"/>
+  <Waffenfertigkeit id="58" val="4" cost="6"/>
+  <Waffenfertigkeit id="48" val="4" cost="6"/>
+  <Waffenfertigkeit id="57" val="4" cost="9"/>
+  <!-- Zauberkünste -->
+  <Zauberformel id="62" cost="1"/>
+  <Zauberformel id="107" cost="1"/>
+  <Zauberformel id="111" cost="1"/>
+  <Zauberformel id="120" cost="1"/>
+  <Zauberformel id="130" cost="1"/>
+  <Zauberformel id="160" cost="1"/>
+  <Zauberformel id="130" cost="1"/>
+  <Zauberformel id="175" cost="1"/>
+  <Zauberformel id="133" cost="2"/>
+  <Zauberformel id="138" cost="2"/>
+  <Zauberformel id="174" cost="3"/>
+  <Zauberformel id="132" cost="3"/>
+
+  <Zauberformel id="63" cost="4"/>
+  <Zauberformel id="137" cost="4"/>
+</Lernplan>
+
+ <!-- Schamane -->
+ <Lernplan id="21" shortname="Sc" name="Schamane">
+  <!-- Fach-->
+  <Fachkenntnis id="25" val="15" cost="1" />
+  <Fachkenntnis id="52" val="15" cost="1" />
+  <Fachkenntnis id="54" val="5" cost="1" />
+  <Fachkenntnis id="64" val="15" cost="1" />
+  <Fachkenntnis id="77" val="15" cost="1" />
+  <Fachkenntnis id="83" val="8" cost="1" />
+  <Fachkenntnis id="84" val="8" cost="1" />
+  <Fachkenntnis id="85" val="8" cost="1" />
+  <Fachkenntnis id="12" val="8" cost="2" />
+  <Fachkenntnis id="29" val="5" cost="2" />
+  <Fachkenntnis id="39" val="5" cost="2" />
+  <Fachkenntnis id="62" val="12" cost="2" />
+  <Fachkenntnis id="48" val="5" cost="2" />
+  <Fachkenntnis id="49" val="5" cost="2" />
+  <Fachkenntnis id="81" val="5" cost="2" />
+  <Fachkenntnis id="44" val="8" cost="3"/>
+  <!-- Waffen -->
+  <Waffenfertigkeit id="7" val="4" cost="2"/>
+  <Waffenfertigkeit id="15" val="4" cost="2"/>
+  <Waffenfertigkeit id="27" val="4" cost="2"/>
+  <Waffenfertigkeit id="51" val="4" cost="3"/>
+  <Waffenfertigkeit id="47" val="4" cost="3"/>
+  <Waffenfertigkeit id="38" val="4" cost="4"/>
+  <Waffenfertigkeit id="37" val="4" cost="4"/>
+  <Waffenfertigkeit id="8" val="5" cost="8"/>
+  <!-- Zauberkünste -->
+  <Zauberformel id="166" cost="1"/>
+  <Zauberformel id="110" cost="2"/>
+  <Zauberformel id="116" cost="2"/>
+  <Zauberformel id="170" cost="3"/>
+  <Zauberformel id="173" cost="3"/>
+  <Zauberformel id="202" cost="3"/>
+  <Zauberformel id="218" cost="3"/>
+  <Zauberformel id="130" cost="4"/>
+  <Zauberformel id="212" cost="4"/>
+</Lernplan> 
+
+<!-- Thaumaturg -->
+ <Lernplan id="22" shortname="Th" name="Thaumaturg">
+  <!-- Fach-->
+  <Fachkenntnis id="42" val="12" cost="1"/>
+  <Fachkenntnis id="63" val="12" cost="1"/>
+  <Fachkenntnis id="42" val="5" cost="2"/>
+  <Fachkenntnis id="93" val="5" cost="2"/>
+  <Fachkenntnis id="95" val="5" cost="3"/>
+  <Fachkenntnis id="80" val="6" cost="5"/>
+  <!-- Waffen -->
+  <Waffenfertigkeit id="7" val="4" cost="2"/>
+  <Waffenfertigkeit id="3" val="4" cost="4"/>
+  <Waffenfertigkeit id="58" val="4" cost="6"/>
+  <Waffenfertigkeit id="44" val="4" cost="6"/>
+  <Waffenfertigkeit id="27" val="4" cost="6"/>
+
+  <!-- Zauberkünste -->
+  <Zaubersalz id="1" cost="1"/>
+  <Zaubersalz id="2" cost="1"/>
+  <Zaubersalz id="8" cost="1"/>
+  <Zaubersalz id="11" cost="1"/>
+  <Zaubersalz id="14" cost="1"/>
+  <Zaubersalz id="21" cost="1"/>
+  <Zaubersalz id="25" cost="1"/>
+  <Zauberformel id="25" cost="1"/>
+  <Zauberformel id="123" cost="1"/>
+  <Zaubersalz id="3" cost="2"/>
+  <Zaubersalz id="6" cost="2"/>
+  <Zaubersalz id="9" cost="2"/>
+  <Zaubersalz id="10" cost="2"/>
+  <Zaubersalz id="13" cost="2"/>
+  <Zaubersalz id="24" cost="2"/>
+  <Zauberformel id="120" cost="2"/>
+  <Zauberformel id="175" cost="2"/>
+  <Zauberformel id="10" cost="3"/>
+  <Zauberformel id="107" cost="3"/>
+  <Zauberformel id="130" cost="4"/>
+  <Zauberformel id="174" cost="4"/>
+ </Lernplan>
+
+ <!-- Priester Fruchtbarkeit -->
+ <Lernplan id="23" shortname="PF" name="Priester, Fruchtbarkeit">
+  <!-- Fach-->
+  <Fachkenntnis id="63" val="12" cost="0" />
+  <Fachkenntnis id="69" val="12" cost="0" />
+  <Fachkenntnis id="12" val="8" cost="1" />
+  <Fachkenntnis id="42" val="12" cost="1" />
+  <Fachkenntnis id="63" val="12" cost="1" />
+  <Fachkenntnis id="67" val="12" cost="1" />
+  <Fachkenntnis id="82" val="1+Ko/10" cost="1" />
+  <Fachkenntnis id="39" val="5" cost="2" />
+  <Fachkenntnis id="49" val="5" cost="2" />
+  <Fachkenntnis id="54" val="5" cost="2" />
+  <Fachkenntnis id="81" val="5" cost="2" />
+  <Fachkenntnis id="44" val="8" cost="3"/>
+  <!-- Waffen -->
+  <Waffenfertigkeit id="13" val="4" cost="2"/>
+  <Waffenfertigkeit id="15" val="4" cost="2"/>
+  <Waffenfertigkeit id="21" val="4" cost="2"/>
+  <Waffenfertigkeit id="42" val="4" cost="2"/>
+  <Waffenfertigkeit id="40" val="4" cost="2"/>
+  <Waffenfertigkeit id="18" val="4" cost="2"/>
+  <Waffenfertigkeit id="46" val="4" cost="3"/>
+  <Waffenfertigkeit id="47" val="4" cost="3"/>
+  <Waffenfertigkeit id="11" val="1" cost="3"/>
+  <Waffenfertigkeit id="16" val="1" cost="3"/>
+  <Waffenfertigkeit id="38" val="4" cost="4"/>
+  <Waffenfertigkeit id="28" val="4" cost="4"/>
+  <Waffenfertigkeit id="58" val="4" cost="6"/>
+  <Waffenfertigkeit id="14" val="4" cost="8"/>
+  <Waffenfertigkeit id="54" val="4" cost="8"/>
+  <Waffenfertigkeit id="4" val="4" cost="8"/>
+  <Waffenfertigkeit id="20" val="4" cost="8"/>
+  <Waffenfertigkeit id="35" val="4" cost="8"/>
+  <Waffenfertigkeit id="43" val="4" cost="9"/>
+  <!-- Zauberkünste -->
+  <Zauberformel id="11" cost="1"/>
+  <Zauberformel id="35" cost="1"/>
+  <Zauberformel id="98" cost="1"/>
+  <Zauberformel id="10" cost="2"/>
+  <Zauberformel id="60" cost="2"/>
+  <Zauberformel id="103" cost="2"/>
+  <Zauberformel id="3" cost="3"/>
+  <Zauberformel id="101" cost="3"/>
+  <Zauberformel id="202" cost="3"/>
+  <Zauberformel id="173" cost="3"/>
+  <Zauberformel id="90" cost="4"/>
+</Lernplan> 
+
+ <!-- Priester Handel, Handwerk -->
+ <Lernplan id="24" shortname="PH" name="Priester,Handel">
+  <!-- Fach-->
+  <Fachkenntnis id="63" val="12" cost="0" />
+  <Fachkenntnis id="69" val="12" cost="0" />
+  <Fachkenntnis id="42" val="12" cost="1" />
+  <Fachkenntnis id="63" val="12" cost="1" />
+  <Fachkenntnis id="67" val="12" cost="1" />
+  <Fachkenntnis id="6" val="6" cost="2" />
+  <Fachkenntnis id="8" val="8" cost="2" />
+  <Fachkenntnis id="54" val="5" cost="2" />
+  <Fachkenntnis id="55" val="5" cost="2" />
+  <Fachkenntnis id="44" val="8" cost="3"/>
+  <!-- Waffen -->
+  <Waffenfertigkeit id="7" val="4" cost="2"/>
+  <Waffenfertigkeit id="19" val="4" cost="2"/>
+  <Waffenfertigkeit id="40" val="4" cost="2"/>
+  <Waffenfertigkeit id="15" val="4" cost="2"/>
+  <Waffenfertigkeit id="42" val="4" cost="2"/>
+  <Waffenfertigkeit id="18" val="4" cost="2"/>
+  <Waffenfertigkeit id="23" val="4" cost="3"/>
+  <Waffenfertigkeit id="46" val="4" cost="3"/>
+  <Waffenfertigkeit id="47" val="4" cost="3"/>
+  <Waffenfertigkeit id="11" val="1" cost="3"/>
+  <Waffenfertigkeit id="16" val="1" cost="3"/>
+  <Waffenfertigkeit id="38" val="4" cost="4"/>
+  <Waffenfertigkeit id="28" val="4" cost="4"/>
+  <Waffenfertigkeit id="54" val="4" cost="6"/>
+  <Waffenfertigkeit id="43" val="4" cost="9"/>
+  <!-- Zauberkünste -->
+  <Zauberformel id="11" cost="1"/>
+  <Zauberformel id="69" cost="1"/>
+  <Zauberformel id="98" cost="1"/>
+  <Zauberformel id="110" cost="1"/>
+  <Zauberformel id="5" cost="2"/>
+  <Zauberformel id="10" cost="2"/>
+  <Zauberformel id="60" cost="2"/>
+  <Zauberformel id="104" cost="2"/>
+  <Zauberformel id="173" cost="3"/>
+  <Zauberformel id="247" cost="3"/>
+  <Zauberformel id="225" cost="3"/>
+  <Zauberformel id="103" cost="4"/>
+</Lernplan> 
+
+ <!-- Priester Herrschaft -->
+ <Lernplan id="25" shortname="PHe" name="Priester, Herrschaft">
+  <!-- Fach-->
+  <Fachkenntnis id="63" val="12" cost="0" />
+  <Fachkenntnis id="69" val="12" cost="0" />
+  <Fachkenntnis id="40" val="10" cost="1" />
+  <Fachkenntnis id="42" val="12" cost="1" />
+  <Fachkenntnis id="63" val="12" cost="0" />
+  <Fachkenntnis id="67" val="12" cost="1" />
+  <Fachkenntnis id="8" val="8" cost="2" />
+  <Fachkenntnis id="54" val="5" cost="2" />
+  <Fachkenntnis id="88" val="5" cost="2" />
+  <Fachkenntnis id="44" val="8" cost="3"/>
+  <!-- Waffen -->
+  <Waffenfertigkeit id="21" val="4" cost="2"/>
+  <Waffenfertigkeit id="19" val="4" cost="2"/>
+  <Waffenfertigkeit id="40" val="4" cost="2"/>
+  <Waffenfertigkeit id="15" val="4" cost="2"/>
+  <Waffenfertigkeit id="42" val="4" cost="2"/>
+  <Waffenfertigkeit id="18" val="4" cost="2"/>
+  <Waffenfertigkeit id="23" val="4" cost="3"/>
+  <Waffenfertigkeit id="46" val="4" cost="3"/>
+  <Waffenfertigkeit id="47" val="4" cost="3"/>
+  <Waffenfertigkeit id="11" val="1" cost="3"/>
+  <Waffenfertigkeit id="16" val="1" cost="3"/>
+  <Waffenfertigkeit id="38" val="4" cost="4"/>
+  <Waffenfertigkeit id="28" val="4" cost="4"/>
+  <Waffenfertigkeit id="54" val="4" cost="6"/>
+  <Waffenfertigkeit id="43" val="5" cost="9"/>
+  <!-- Zauberkünste -->
+  <Zauberformel id="10" cost="1"/>
+  <Zauberformel id="11" cost="1"/>
+  <Zauberformel id="98" cost="1"/>
+  <Zauberformel id="5" cost="2"/>
+  <Zauberformel id="60" cost="2"/>
+  <Zauberformel id="69" cost="2"/>
+  <Zauberformel id="104" cost="2"/>
+  <Zauberformel id="90" cost="3"/>
+  <Zauberformel id="173" cost="3"/>
+  <Zauberformel id="103" cost="4"/>
+</Lernplan> 
+
+ <!-- Priester Priester Krieg, Sturm -->
+ <Lernplan id="26" shortname="PK" name="Priester, Krieg">
+  <!-- Fach-->
+  <Fachkenntnis id="63" val="12" cost="0" />
+  <Fachkenntnis id="69" val="12" cost="0" />
+  <Fachkenntnis id="42" val="12" cost="1" />
+  <Fachkenntnis id="63" val="12" cost="1" />
+  <Fachkenntnis id="67" val="12" cost="1" />
+  <Fachkenntnis id="54" val="5" cost="2" />
+  <Fachkenntnis id="52" val="15" cost="2" />
+  <Fachkenntnis id="36" val="8" cost="3" />
+  <Fachkenntnis id="35" val="15" cost="3" />
+  <Fachkenntnis id="44" val="8" cost="3"/>
+  <!-- Waffen -->
+  <Waffenfertigkeit id="7" val="4" cost="2"/>
+  <Waffenfertigkeit id="23" val="4" cost="2"/>
+  <Waffenfertigkeit id="19" val="4" cost="2"/>
+  <Waffenfertigkeit id="21" val="4" cost="2"/>
+  <Waffenfertigkeit id="33" val="4" cost="2"/>
+  <Waffenfertigkeit id="15" val="4" cost="2"/>
+  <Waffenfertigkeit id="42" val="4" cost="2"/>
+  <Waffenfertigkeit id="18" val="4" cost="2"/>
+  <Waffenfertigkeit id="13" val="4" cost="2"/>
+  <Waffenfertigkeit id="41" val="4" cost="2"/>
+  <Waffenfertigkeit id="27" val="4" cost="2"/>
+  <Waffenfertigkeit id="40" val="4" cost="2"/>
+  <Waffenfertigkeit id="51" val="4" cost="3"/>
+  <Waffenfertigkeit id="53" val="4" cost="3"/>
+  <Waffenfertigkeit id="45" val="4" cost="3"/>
+  <Waffenfertigkeit id="46" val="4" cost="3"/>
+  <Waffenfertigkeit id="47" val="4" cost="3"/>
+  <Waffenfertigkeit id="48" val="4" cost="3"/>
+  <Waffenfertigkeit id="11" val="1" cost="3"/>
+  <Waffenfertigkeit id="16" val="1" cost="3"/>
+  <Waffenfertigkeit id="1" val="4" cost="4"/>
+  <Waffenfertigkeit id="58" val="4" cost="4"/>
+  <Waffenfertigkeit id="28" val="4" cost="4"/>
+  <Waffenfertigkeit id="14" val="4" cost="4"/>
+  <Waffenfertigkeit id="34" val="4" cost="8"/>
+  <Waffenfertigkeit id="54" val="4" cost="8"/>
+  <Waffenfertigkeit id="43" val="4" cost="9"/>
+  <!-- Zauberkünste -->
+  <Zauberformel id="11" cost="1"/>
+  <Zauberformel id="98" cost="1"/>
+  <Zauberformel id="104" cost="1"/>
+  <Zauberformel id="113" cost="1"/>
+  <Zauberformel id="10" cost="2"/>
+  <Zauberformel id="60" cost="2"/>
+  <Zauberformel id="173" cost="2"/>
+  <Zauberformel id="5" cost="3"/>
+  <Zauberformel id="103" cost="3"/>
+  <Zauberformel id="225" cost="3"/>
+  <Zauberformel id="220" cost="4"/>
+</Lernplan> 
+
+ <!-- Priester Meer-->
+ <Lernplan id="27" shortname="PM" name="Priester, Meer">
+  <!-- Fach-->
+  <Fachkenntnis id="63" val="12" cost="0" />
+  <Fachkenntnis id="69" val="12" cost="0" />
+  <Fachkenntnis id="42" val="12" cost="1" />
+  <Fachkenntnis id="63" val="12" cost="1" />
+  <Fachkenntnis id="67" val="12" cost="1" />
+  <Fachkenntnis id="54" val="5" cost="2" />
+  <Fachkenntnis id="64" val="15" cost="2" />
+  <Fachkenntnis id="73" val="15" cost="2" />
+  <Fachkenntnis id="79" val="15" cost="2" />
+  <Fachkenntnis id="44" val="8" cost="3"/>
+  <!-- Waffen -->
+  <Waffenfertigkeit id="7" val="4" cost="2"/>
+  <Waffenfertigkeit id="21" val="4" cost="2"/>
+  <Waffenfertigkeit id="27" val="4" cost="2"/>
+  <Waffenfertigkeit id="40" val="4" cost="2"/>
+  <Waffenfertigkeit id="51" val="4" cost="3"/>
+  <Waffenfertigkeit id="53" val="4" cost="3"/>
+  <Waffenfertigkeit id="11" val="1" cost="3"/>
+  <Waffenfertigkeit id="16" val="1" cost="3"/>
+  <Waffenfertigkeit id="56" val="4" cost="6"/>
+  <Waffenfertigkeit id="43" val="4" cost="9"/>
+  <!-- Zauberkünste -->
+  <Zauberformel id="11" cost="1"/>
+  <Zauberformel id="104" cost="1"/>
+  <Zauberformel id="147" cost="1"/>
+  <Zauberformel id="5" cost="2"/>
+  <Zauberformel id="60" cost="2"/>
+  <Zauberformel id="98" cost="2"/>
+  <Zauberformel id="226" cost="2"/>
+  <Zauberformel id="173" cost="3"/>
+  <Zauberformel id="225" cost="3"/>
+  <Zauberformel id="103" cost="4"/>
+</Lernplan> 
+
+ <!-- Priester Tod, Winter-->
+ <Lernplan id="28" shortname="PT" name="Priester, Tod">
+  <!-- Fach-->
+  <Fachkenntnis id="63" val="12" cost="0" />
+  <Fachkenntnis id="69" val="12" cost="0" />
+  <Fachkenntnis id="42" val="12" cost="1" />
+  <Fachkenntnis id="63" val="12" cost="1" />
+  <Fachkenntnis id="67" val="12" cost="1" />
+  <Fachkenntnis id="27" val="5" cost="2" />
+  <Fachkenntnis id="40" val="10" cost="2" />
+  <Fachkenntnis id="54" val="5" cost="2" />
+  <Fachkenntnis id="88" val="8" cost="2" />
+  <Fachkenntnis id="44" val="8" cost="3"/>
+  <!-- Waffen -->
+  <Waffenfertigkeit id="7" val="4" cost="2"/>
+  <Waffenfertigkeit id="21" val="4" cost="2"/>
+  <Waffenfertigkeit id="33" val="4" cost="2"/>
+  <Waffenfertigkeit id="15" val="4" cost="2"/>
+  <Waffenfertigkeit id="58" val="4" cost="3"/>
+  <Waffenfertigkeit id="48" val="4" cost="3"/>
+  <Waffenfertigkeit id="6" val="1" cost="3"/>
+  <Waffenfertigkeit id="49" val="4" cost="4"/>
+  <Waffenfertigkeit id="3" val="4" cost="8"/>
+  <Waffenfertigkeit id="43" val="4" cost="8"/>
+  <!-- Zauberkünste -->
+  <Zauberformel id="15" cost="1"/>
+  <Zauberformel id="100" cost="1"/>
+  <Zauberformel id="60" cost="2"/>
+  <Zauberformel id="98" cost="2"/>
+  <Zauberformel id="104" cost="2"/>
+  <Zauberformel id="202" cost="3"/>
+  <Zauberformel id="212" cost="3"/>
+  <Zauberformel id="90" cost="4"/>
+  <Zauberformel id="103" cost="4"/>
+</Lernplan> 
+
+ <!-- Priester Weisheit-->
+ <Lernplan id="29" shortname="PW" name="Priester, Weisheit">
+  <!-- Fach-->
+  <Fachkenntnis id="63" val="12" cost="0" />
+  <Fachkenntnis id="69" val="12" cost="0" />
+  <Fachkenntnis id="40" val="10" cost="1" />
+  <Fachkenntnis id="42" val="12" cost="1" />
+  <Fachkenntnis id="54" val="5" cost="2" />
+  <Fachkenntnis id="63" val="12" cost="1" />
+  <Fachkenntnis id="67" val="12" cost="1" />
+  <Fachkenntnis id="12" val="8" cost="2" />
+  <Fachkenntnis id="29" val="5" cost="2" />
+  <Fachkenntnis id="40" val="5" cost="2" />
+  <Fachkenntnis id="45" val="5" cost="2" />
+  <Fachkenntnis id="51" val="8" cost="2" />
+  <Fachkenntnis id="69" val="12" cost="2" />
+  <Fachkenntnis id="93" val="5" cost="2" />
+  <Fachkenntnis id="44" val="8" cost="3"/>
+  <Fachkenntnis id="57" val="8" cost="3"/>
+  <!-- Waffen -->
+  <Waffenfertigkeit id="7" val="4" cost="2"/>
+  <Waffenfertigkeit id="58" val="4" cost="3"/>
+  <Waffenfertigkeit id="40" val="4" cost="3"/>
+  <Waffenfertigkeit id="48" val="4" cost="3"/>
+  <Waffenfertigkeit id="31" val="1" cost="3"/>
+  <Waffenfertigkeit id="52" val="4" cost="4"/>
+  <Waffenfertigkeit id="14" val="4" cost="5"/>
+  <Waffenfertigkeit id="43" val="4" cost="6"/>
+  <!-- Zauberkünste -->
+  <Zauberformel id="10" cost="1"/>
+  <Zauberformel id="11" cost="1"/>
+  <Zauberformel id="60" cost="2"/>
+  <Zauberformel id="5" cost="2"/>
+  <Zauberformel id="98" cost="2"/>
+  <Zauberformel id="173" cost="2"/>
+  <Zauberformel id="234" cost="2"/>
+  <Zauberformel id="101" cost="3"/>
+  <Zauberformel id="225" cost="3"/>
+  <Zauberformel id="103" cost="4"/>
+  <Zauberformel id="103" cost="4"/>
+</Lernplan> 
+</Lernplaene>

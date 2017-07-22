@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Basiseigenschaften>
+  <Basiseigenschaft id="1">
+    <name>Stärke</name>
+    <kurzname>St</kurzname>
+  </Basiseigenschaft>
+  <Basiseigenschaft id="2">
+    <name>Geschicklichkeit</name>
+    <kurzname>Gs</kurzname>
+  </Basiseigenschaft>
+  <Basiseigenschaft id="3">
+    <name>Gewandtheit</name>
+    <kurzname>Gw</kurzname>
+  </Basiseigenschaft>
+  <Basiseigenschaft id="4">
+    <name>Konstitution</name>
+    <kurzname>Ko</kurzname>
+  </Basiseigenschaft>
+  <Basiseigenschaft id="5">
+    <name>Intelligenz</name>
+    <kurzname>In</kurzname>
+  </Basiseigenschaft>
+  <Basiseigenschaft id="6">
+    <name>Zaubertalent</name>
+    <kurzname>Zt</kurzname>
+  </Basiseigenschaft>
+</Basiseigenschaften>

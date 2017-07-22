@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Rassen>
+  <Rasse id="1">
+    <name>Mensch</name>
+  </Rasse>
+  <Rasse id="2">
+    <name>Elf</name>
+    <Restriktionen>
+      <Basiseigenschaft ref="1" max="90"/>
+      <Basiseigenschaft ref="3" min="81"/>
+      <Basiseigenschaft ref="4" min="61"/>
+      <Basiseigenschaft ref="5" min="61"/>
+      <Basiseigenschaft ref="6" min="61"/>
+      <AbenteurerTyp ref="6"/>
+      <AbenteurerTyp ref="8"/>
+      <AbenteurerTyp ref="13"/>
+      <AbenteurerTyp ref="14"/>
+      <AbenteurerTyp ref="18"/>
+      <AbenteurerTyp ref="19"/>
+      <AbenteurerTyp ref="20"/>
+      <AbenteurerTyp ref="21"/>
+    </Restriktionen>
+  </Rasse>
+  <Rasse id="3">
+    <name>Halbling</name>
+    <Restriktionen>
+      <Basiseigenschaft ref="1" max="80"/>
+      <Basiseigenschaft ref="2" min="61"/>
+      <Basiseigenschaft ref="3" min="91"/>
+      <AbenteurerTyp ref="7"/>
+      <AbenteurerTyp ref="12"/>
+      <AbenteurerTyp ref="13"/>
+      <AbenteurerTyp ref="14"/>
+      <AbenteurerTyp ref="19"/>
+      <AbenteurerTyp ref="22"/>
+    </Restriktionen>
+  </Rasse>
+  <Rasse id="4">
+    <name>Zwerg</name>
+    <Restriktionen>
+      <Basiseigenschaft ref="1" min="61"/>
+      <Basiseigenschaft ref="3" max="80"/>
+      <Basiseigenschaft ref="4" min="61"/>
+      <AbenteurerTyp ref="7"/>
+      <AbenteurerTyp ref="8"/>
+      <AbenteurerTyp ref="11"/>
+      <AbenteurerTyp ref="17"/>
+      <AbenteurerTyp ref="30"/>
+      <AbenteurerTyp ref="18"/>
+      <AbenteurerTyp ref="22"/>
+      <AbenteurerTyp ref="23"/>
+      <AbenteurerTyp ref="24"/>
+      <AbenteurerTyp ref="25"/>
+    </Restriktionen>
+  </Rasse>
+  <Rasse id="5">
+    <name>Berggnom</name>
+    <Restriktionen>
+      <Basiseigenschaft ref="1" max="60"/>
+      <Basiseigenschaft ref="2" min="81"/>
+      <Basiseigenschaft ref="3" min="81"/>
+      <Basiseigenschaft ref="4" min="31"/>
+      <AbenteurerTyp ref="1"/>
+      <AbenteurerTyp ref="6"/>
+      <AbenteurerTyp ref="12"/>
+      <AbenteurerTyp ref="13"/>
+      <AbenteurerTyp ref="18"/>
+      <AbenteurerTyp ref="19"/>
+      <AbenteurerTyp ref="20"/>
+      <AbenteurerTyp ref="21"/>
+      <AbenteurerTyp ref="30"/>
+    </Restriktionen>
+  </Rasse>
+  <Rasse id="6">
+    <name>Waldgnom</name>
+    <Restriktionen>
+      <Basiseigenschaft ref="1" max="60"/>
+      <Basiseigenschaft ref="2" min="81"/>
+      <Basiseigenschaft ref="3" min="81"/>
+      <Basiseigenschaft ref="4" min="31"/>
+      <AbenteurerTyp ref="1"/>
+      <AbenteurerTyp ref="6"/>
+      <AbenteurerTyp ref="12"/>
+      <AbenteurerTyp ref="13"/>
+      <AbenteurerTyp ref="18"/>
+      <AbenteurerTyp ref="19"/>
+      <AbenteurerTyp ref="20"/>
+      <AbenteurerTyp ref="21"/>
+      <AbenteurerTyp ref="30"/>
+    </Restriktionen>
+  </Rasse>
+</Rassen>
