@@ -1,0 +1,288 @@
+<NPCS>
+	<NPC name="Kennard">
+		<Infopaket>
+			<Info>Zum Beispiel über mich.
+Ich bin nämlich der Zunftmeister der Bauleute.</Info>
+			<Info>Die beste Zunft in Cambrygg.
+Wenn Du dich umsiehst, erkennst du es.
+Es gibt viele Baustellen.</Info>
+			<Info></Info>
+			<Info>Aber das schönste Gebäude ist immer noch die große Akademie</Info>
+		</Infopaket>
+		<Infopaket>
+			<Info>Die könglich-albische Akademie.
+Seit diese errichtet wurde, 
+blüht die Stadt regelrecht auf.</Info>
+			<Info>Natürlich war ich maßgeblich
+am Bau beteiligt. Ich habe nämlich in
+Chryseia studiert, musst du wissen.</Info>
+			<Info>Andere Zünfte haben sich anschließend niedergelassesn. 
+Und damit auch Händler, Weber usw.</Info>
+			<Info></Info>
+			<Info>In Alba genießen wir im Stadtrecht einen besonderen Status.</Info>
+		</Infopaket>
+		<Infopaket>
+			<Info>Neben der großen Akademie im Süden der Stadt
+gibt es noch eine kleinere am Hafen:
+Das Kolleg des Träumers mit offener Bibliothek</Info>
+			<Info>Der letzte Bau war der Turm der Lichtsuchergild</Info>
+		</Infopaket>
+		<Infopaket>
+			<Info>Die große Baustelle im Zentrum:
+Wird die hohe Schule der nützlichen Wissenschaften</Info>
+		</Infopaket>
+	</NPC>
+	<NPC name="Frewyn">
+		<Infopaket>
+			<Info>Ich bin nämlich Ratsherr und im Stadtrat</Info>
+			<Info>Dabei kümmere ich mich um die Einnahmen der Finanzen.
+Was ich sagen kann: unsere Stadt floriert. 
+Nicht zuletzt, weil wir, unter uns gesagt,
+auch Zuschüsse bekommen</Info>
+			<Info>Na sicher tun sich auch die Klöster hervor. 
+Die Bruderschaft z.B. hat uns von anfang an unterstützt.</Info>
+			<Info>Unter uns gesagt: hier gibt es einige Bürger,
+die verdienen 100x so viel wie billigen Arbeiter hier</Info>
+		</Infopaket>
+		<Infopaket>
+			<Info>Und ja, das mit Bruder Dunstan...
+Schrecklich...Ich habe es gehört</Info>
+			<Info>Man mag es kaum glauben!</Info>
+			<Info>Mit einer Axt ermordert sagt man</Info>
+		</Infopaket>
+		<Infopaket>
+			<Info>Dabei war Dunstan so tüchtig.
+Ein wunderbarer Cellerar. 
+Der hatte seinen Finanzen im Griff!</Info>
+			<Info>Prior Lugan dagegen...</Info>
+			<Info>Der gibt das Geld lieber aus</Info>
+		</Infopaket>
+		<Infopaket>
+			<Info>Fragen sie mal nach im Freudenviertel am Hafen</Info>
+		</Infopaket>
+	</NPC>
+	<NPC name="MartinA">
+		<Infopaket>
+			<Info>Eigentlich flitze ich nur durch die Gegend, obwohl
+ich Spieler bin!</Info>
+			<Info>Uwe hat mich hier verbaut...</Info>
+		</Infopaket>
+	</NPC>
+	<NPC name="Donlan">
+		<Infopaket>
+			<Info>Ich betreibe das Gasthaus zum Goldenen Fuchs</Info>
+			<Info>Natürlich lerne ich viele Menschen kennen.
+Gerade jetzt zur Zeit des Fayre.</Info>
+			<Info>Ehrlich gesagt: auch allerhand Gesindel!</Info>
+		</Infopaket>
+		<Infopaket>
+			<Info>Aber solange die zahlen...</Info>
+			<Info>Bringen weningsten schöne Geschichten mit...</Info>
+			<Info>Zum Teil wenigstens...</Info>
+		</Infopaket>
+		<Infopaket>
+			<Info>Erzählt doch glatt einer, dass die in die Klöster
+Drogen schmuggeln. </Info>
+		</Infopaket>
+	</NPC>
+	<NPC name="Emrys">
+		<Infopaket>
+			<Info>Ja, ich weiß was du Fragen willst...</Info>
+			<Info>Aber meine Mädchen sind gerade alle belegt...</Info>
+		</Infopaket>
+		<Infopaket>
+			<Info>Achso, du willst wer meine Mädchen nimmt...</Info>
+			<Info>Na, gegen Bezahlung sage ich es dir...</Info>
+			<Info>Los, gib das Geld und sage niemandem davon...</Info>
+		</Infopaket>
+		<Infopaket>
+			<Info>Natürlich sind hier hohe Tiere...</Info>
+			<Info>Egal ob Magier, Magister und Magistrat....</Info>
+			<Info>Sie kommen alle...
+Und auch mancher arme Schlucker</Info>
+		</Infopaket>
+		<Infopaket>
+			<Info>Zum Beispiel kommt ein hoher Prior...</Info>
+			<Info>Ebenso wie ein kleiner Bruder....</Info>
+			<Info>Wenn du weißt,was ich meine!</Info>
+		</Infopaket>
+		<Infopaket>
+			<Info>Dabei ist mir der Prior lieber!</Info>
+			<Info>Er nimmt zwar nur die hübschesten Mädchen</Info>
+			<Info>Verliebt sich aber nicht sofort in sie...</Info>
+		</Infopaket>
+	</NPC>
+	<NPC name="Dolvin">
+		<Infopaket>
+			<Info>Ich habe da was hinter den Äckern entdeckt...</Info>
+			<Info>Ein verlassenes Lager. Wenn du magst führe ich dich hin...</Info>
+			<Info>Folge mir einfach...</Info>
+		</Infopaket>
+	</NPC>
+	<NPC name="Rodrick">
+		<Infopaket>
+			<Info>Da ich Jäger bin, weiß ich, das draußen abgeht...</Info>
+			<Info>Da passieren in letzter Zeit komische Dinge. Wilde Tiere</Info>
+			<Info>...</Info>
+		</Infopaket>
+		<Infopaket>
+			<Info>Irgendein komisches Vieh geht da um. Unglaublich brutal...</Info>
+			<Info>Es reißt, was es zwischen die Tatzen bekommt</Info>
+			<Info>...</Info>
+		</Infopaket>
+	</NPC>
+	<NPC name="Wächter">
+		<Infopaket>
+			<Info>Das ist könglich albische Akademie</Info>
+			<Info>Solange du keine Scheiße baust...kannst rein.</Info>
+		</Infopaket>
+	</NPC>
+	<NPC name="SchmiedTom">
+		<Infopaket>
+			<Info>Ich repariere die Waffen für die Jäger hier</Info>
+			<Info>Vielleicht kannst du mit dem einem oder anderen reden</Info>
+		</Infopaket>
+	</NPC>
+	<NPC name="Tomb">
+		<Infopaket>
+				<Info>Mir fällt was ein über die Legende des Vraidos</Info>
+				<Info></Info>
+				<Info>Myra war eine Meisterin des oberen und unteren Ozeans während des Krieges der Magier.</Info>
+				<Info>Der Ruhm unseres Herrn Vraidos lockte Myra aus ihrer Zuflucht heraus</Info>
+				<Info>Sie setzte sich zu seinen Füßen nieder und lauschte seiner Weisheit</Info>
+		</Infopaket>
+		<Infopaket>
+				<Info>Da Vraidos wunderschön war, verliebte sich Myra in ihn und sie wollte ihn haben.</Info>
+				<Info></Info>
+				<Info>Doch Vraidos wollte sich nicht von seiner Aufgabe ablenken lassen, denn er witterte</Info>
+				<Info>schlimmsten Verrat bei den Toquinern</Info>
+				<Info></Info>
+				<Info>Und er ruhte nicht eher, bis er den Verrat entdeckt hatte, um endlich mit Myra</Info>
+				<Info>Ruhe zu finden.</Info>
+		</Infopaket>
+	</NPC>
+	<NPC name="Fountain">
+		<Infopaket>
+				<Info>Der Kelch der Myra: Das letzte Wasser das Vraidos zu sich nahm</Info>
+				<Info></Info>
+				<Info>Wer aus diesem Kelch trinkt, wir die letzte Wahrheit des Vraidos erfahren</Info>
+				<Info>Er wird kennen lernen den Verrat und den Hochmut innerhalb der Bruderschaft</Info>
+				<Info>Und er wird erkennen, dass viele die Feinde der Bruderschaft waren...</Info>
+				<Info>Im Grunde die Erlöser sind!</Info>
+				<Info></Info>
+				<Info>Ob ich wohl mehr über den Kelch in Erfahrung bringen kann? Wo?</Info>
+		</Infopaket>
+	</NPC>
+	<NPC name="Hexenbulle">
+			<Infopaket>
+				<Info>Hexen-Bulle von Kirghlaird Walden (1809 n.L.)</Info>
+				<Info>Summis desiderantes affectibus: mit höchstem Eifer fordere ich dazu auf, 
+alle ketzerische Bosheit auszurotten. </Info>
+			<Info>Wider den abscheulichen Aberglauben und die zauberischen Übertretungen,
+die mir aus einigen Teilen Albas, besonders aus den Erzbistümern Prioresse, Beornanburgh,
+Corinnis und Fjorinde zugetragen worden sind, hilft lediglich unnachgiebige Härte.</Info>
+			<Info>Viele Brüder und Schwestern sind vom Glauben abgefallen ... die Menschen, die Frauen,
+innerlichen als äußerlichen Schmerzen und Plagen peinigen und verursachen,
+dass die Männer nicht zeugen, die Frauen nicht empfangen können, dass Blitze 
+von der Erde in den Himmel fahren, und Schreckgespenste über unseren schönen
+Auen und Berge wandeln</Info>
+			</Infopaket>
+	</NPC>
+	<NPC name="Hexenstahl">
+			<Infopaket>
+				<Info>Das Hexenstahl, Kirghlaird Walden zu Beornanburgh, 1811 n.L.</Info>
+				<Info>Die Art aber, damit zu beginnen, ist diese: 
+Während die Büttel sich zum peinlichen Verhör bereit machen, entkleiden sie ihn danach; 
+oder wenn es eine Frau ist, soll sie, bevor sie in das Strafgefängnis geführt wird,
+von anderen ehrbaren Frauen von gutem Rufe entkleidet werden.</Info>
+			<Info>Aus dem Grunde, damit (entdeckt werde), ob vielleicht irgend 
+ein Hexenwerkzeug in die in die Kleider eingenäht ist, 
+wie sie es häufig auf  die Belehrung der Dämonen hin aus den Gliedern
+eines ungetauften Knaben herstellen;</Info>
+			</Infopaket>
+	</NPC>
+	<NPC name="Notiz">
+			<Infopaket>
+				<Info>Ich schreibe das in aller Hast, falls wir Tod sein sollten</Info>
+				<Info>Es gibt einen großen Verrat in der Bruderschaft, ja
+in der ganze Geschichte! Und wir haben es entdeckt.</Info>
+			<Info> Grundgütiger. Oh Xan hilf uns. Der Verrat steckt wie
+ein Eitergeschwür in Alba</Info>
+			<Info>Aber ich muss mich beeilen: Edren hat herausgefunden,
+warum Vraidos wirklich verschwunden ist. Dass Walden recht hatte, die Kirgh zu
+reinigen. Dass das Königtum ein Verrat ist der gelenkt wird von...</Info>
+			</Infopaket>
+	</NPC>
+	<NPC name="MyraParchment">
+			<Infopaket>
+				<Info>Die erste Abschrift vom Myra-Kelch</Info>
+				<Info>Solange sich der Kelch der Myra im Besitz der Bruderschaft befindet,
+so lange wird Frieden herrschen zwischen den Konfessionen</Info>
+				<Info>Bei der Wahl des ersten Königs wurde Ingram von Prioresse der Kelch 
+der Myra übergeben. Er ist der Hüter der Wahrheit. Und diese Wahrheit wird immer entdeckt werden.</Info>
+			</Infopaket>
+	</NPC>
+	<NPC name="BookShelfIngramm">
+			<Infopaket>
+				<Info>Bulle von Ingramm von Prioresse 1892 n.L. zur Königskrönung Berandir MacBeorns</Info>
+				<Info>Und Wir befehlen Euch, kraft heiligen Gehorsams, so wie Ihr auch es versprecht 
+und ohne Zweifel es aus Eurer großen Ergebenheit und Eurem königlichen Großmut 
+erfüllen werdet, daß Ihr nach für alle Clans ein rechtschaffener
+und gottesfürchtige Mann werdet:</Info>
+				<Info>
+klug, kundig und erfahren, um den genannten Streit der Konfessionen beizulegen.
+Die Bewohner Albas sind wieder im Frieden zu unterweisen, wobei Ihr in allem 
+die gebotene Sorgfalt beachtet. </Info>
+				<Info>
+Und streng verbieten wir allen Personen, jedweden Standes oder Ranges, 
+selbst kaiserlicher und königlicher Würde, unter Strafe der 
+Exkommunikation ‚latae sententiae’, sich erneut 
+im Glauben zu streiten und zu töten.
+				</Info>
+			</Infopaket>
+	</NPC>
+	<NPC name="BannBulle">
+			<Infopaket>
+				<Info>Bannbulle von Ingramm von Prioresse 1893 </Info>
+				<Info>Hiermit wird Kirghlaird Walden exkommuniziert und die Verbannung geschickt:</Info>
+				<Info>Der unerhörte Mord am albischen Volke sei hiermit gesühnt. Man soll über Walden
+weitershin weder reden noch diskutieren. Sein Handeln und seine Taten
+mögen als Schandfleck in die ordentliche Geschichtsschreibung eingehen.</Info>
+				<Info>
+Walden selbst unterlag Geistern, die sein Handeln und Denken zerrüttet haben. Er beschuldigte,
+wo nichts zu beschuldigen war, außer natürlichem Leben.
+				</Info>
+			</Infopaket>
+	</NPC>
+	<NPC name="BriefMerril">
+			<Infopaket>
+				<Info>Brief des Kronrats an Bruder Merril </Info>
+				<Info>So seid ihr, Burder Merril, hiermit eingeladen zur Sitzung des Kronrates auf
+Empfehlung des Magisters Simael von Fjorinde, des großen Gelehrten der Magie, der zur Zeit an 
+Eurem Kloster weilt.</Info>
+				<Info>Denn wir benötigen Euren Rat in einer Angelegenheit mit höchster Dringlichkeit, welche 
+die Geschicke Albas weithin mit bestimmen wird...
+				</Info>
+			</Infopaket>
+	</NPC>
+		<NPC name="GeschichteAlba">
+			<Infopaket>
+				<Info>Vraidos Legende nach Eorvin MacDougall (1899 n.L.)</Info>
+				<Info>"Und als die Toquiner anlandeten, sausten Blitze vom Himmel und es peitschte Regen.</Info>
+				<Info>Denn sie kamen aus dem Nichts und sie konnten mit ihrer Flotte nicht wenden. So 
+fanden sie  Zuflucht bei den Albi und lehrten sie viele Dinge. Und der größte und weiseste 
+unter ihnen war Vraidos, der stets die Wahrheit sprach und die Zukunft sah. 
+Und er weissagte eine blühende Zukunft und höchsten Verrat. 
+Und es war Myra, mit der er viel sprach.
+
+Und sie umgarn Vraidos und wollte ihn für sich. Doch er sprach:
+Ich habe noch eine Aufgabe zu erledigen. Und Myra half ihm alsdann."
+				</Info>
+				<Info>So geht also die Legende, das Vraidos, bevor er mit Myra verschwand,
+etwas hinterlassen hat. Etwas von größter Bedeutung. Und schon viele Glücksritter,
+Gelehrte und Brüder haben umsonst danach gesucht.
+Dabei ist offensichtlich, dass Vraidos von der inneren Erkenntnis sprach,
+die er in seine Lehre einband, und die JEDEM Gläubigen bei rechtem Bemühen zugänglich ist.</Info>
+			</Infopaket>
+	</NPC>
+</NPCS>
