@@ -13,7 +13,7 @@ Außerdem kann man sich mittels Akrobatik ohne Nachteile aus dem Kontrollbereich
   <Fachkenntnis id="4" name="Balancieren" Kat="Bewegung" LE="Gw:61">
 	Mit der Fertigkeit Balancieren kann die Person schwierige Wege, die ein gutes Gleichgewicht erfordern, einfacher bestreiten als eine andere Person. Dies umfaßt z.B. das Überqueren eines Flußes auf einem glitschigen Baumstamm (Waldläufer), das Laufen über ein schräges Dach in der Nacht (Assassine) oder das Balancieren über ein Seil bei einer Vorstellung am Hofe (Gaukler).
   </Fachkenntnis>
-  <Fachkenntnis id="5" name="Ballista bedienen" Kat="Kampfe" LE="Gs:61" NE="In:21">
+  <Fachkenntnis id="5" name="Ballista bedienen" Kat="Kampf" LE="Gs:61" NE="In:21">
 	Ballista sind massive Geschütze, die einen massiven Spieß von etwa 1.5m Länge oder einen Stein mit großer
 Wucht in gerader Linie schleudern. Ballisten werden gegen größere Objekte, nicht gegen Menschen angewendet. Achtung: Rechnen bringt Vorteil bei Punktbeschuss.
   </Fachkenntnis>
