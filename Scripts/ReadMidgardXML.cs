@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Xml.Serialization;
@@ -229,7 +230,8 @@ public class AbenteurerTypRef
 }
 #endregion  
 
-#region Angeborene Fertigkeiten
+#region Angeborene Fertigkeiten: Serialisierung für Charakterspeicherung
+[Serializable]
 public class AngeboreneFertigkeiten
 {
 	[XmlElement("Sinn")]
@@ -238,6 +240,7 @@ public class AngeboreneFertigkeiten
 	public List<AngeboreneFertigkeit> listAngFertigkeiten = new List<AngeboreneFertigkeit>();
 }
 
+[Serializable]
 public class Sinn: IName, IID
 {
 	[XmlAttribute("id")]
@@ -248,7 +251,7 @@ public class Sinn: IName, IID
 	public int value { get; set; }
 }
 
-
+[Serializable]
 public class AngeboreneFertigkeit: IName, IID
 {
 	[XmlAttribute("id")]

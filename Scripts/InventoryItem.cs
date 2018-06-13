@@ -8,13 +8,26 @@ using System.Collections.Generic;
 /// <summary>
 /// Inventory item. Verfügt über Namen und Wert
 /// </summary>
+[Serializable]  
 public class InventoryItem: IID, IName, IValue, ICost {
 	public int id{ get; set;}
 	public string type { get; set;}
 	public string name { get; set;}
 	public string val { get; set;}
-	public int cost{ get; set;}
-	public bool activated { get; set;}
+
+	[NonSerialized]
+	private int _cost;
+	public int cost { 
+		get{ return _cost; }
+		set{ _cost = value; }
+	}
+	[NonSerialized]
+	private bool _activated;
+	public bool activated { 
+		get{ return _activated;}
+		set{ _activated = value;}
+	}
+	[NonSerialized]
 	private int[] _dependency;
 	public int[] dependency
 	{
