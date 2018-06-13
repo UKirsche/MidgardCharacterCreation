@@ -7,7 +7,7 @@ public class PageNavigator : PageNavigatorBasic {
 
 	#region pageobjekte
 	public GameObject PageRasse, PageAbenteuerTyp, PageBasisEigenschaften, PageAbgeleiteteEigenschaften, PageErscheinung, PageHand, PagePsyche, PageAPLP, PageNatur, PageResistenzen, PageSinne, PageStand, PageLernPunkte, PageLernplan, PageStadtLand, 
-	PageSpezialWaffe, PageLernPunkte2, PageAllgemeinwissen, PageLernPunkte3, PageUngewFertigkeiten, PageLernPunkte4, PageBeruf, PageUngelernte;
+		PageSpezialWaffe, PageLernPunkte2, PageAllgemeinwissen, PageLernPunkte3, PageUngewFertigkeiten, PageLernPunkte4, PageBeruf, PageUngelernte, PageUeberblick;
 	public static int activePageIndex;
 	protected List<GameObject> orderPages = new List<GameObject>();
 	#endregion
@@ -37,6 +37,7 @@ public class PageNavigator : PageNavigatorBasic {
 		orderPages.Add (PageLernPunkte4);
 		orderPages.Add (PageBeruf);
 		orderPages.Add (PageUngelernte);
+		orderPages.Add (PageUeberblick);
     }
 
 	#region Sondernavis
