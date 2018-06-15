@@ -446,7 +446,7 @@ public class SetEigenschaften : MonoBehaviour {
 		inResteLP.text = lernHelper.LernPunkteFach.ToString();
 
 		//Restepool:
-		lernHelper.LernPunktePool = lernHelper.LernPunkteFach + lernHelper.LernPunkteWaffen;
+		lernHelper.LernPunktePool = lernHelper.LernPunkteFach + lernHelper.LernPunkteWaffen + lernHelper.LernPunkteZauber;
 		inPoolLP.text = lernHelper.LernPunktePool.ToString();
 	}
 

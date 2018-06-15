@@ -43,7 +43,16 @@ public class LernPlanHelper{
 	public int LernPunkteUngewFertigkeiten {get;set;}
 
 	//Lernpunkte Display: Ungewöhnliche Fertigkeiten
-	public int LernPunktePool { get; set;}
+	private int lernPunktePool;
+	public int LernPunktePool { 
+		get{ return lernPunktePool; }
+		set{
+			lernPunktePool = value;
+			if (value < 0) {
+				lernPunktePool = 0;		
+			}
+		}
+	}
 
 	//Display Berufswahl
 	public int BerufswahlW100{get; set;}
