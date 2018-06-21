@@ -36,5 +36,15 @@ public class MidgardCharacterSheetManager : MonoBehaviour {
 		gewicht.text = mCharacter.Gewicht.ToString ();
 		staerke.text = mCharacter.St.ToString ();
 		konsitution.text = mCharacter.Ko.ToString ();
+		aussehen.text = mCharacter.Aussehen.ToString ();
+		selbstbeherrschung.text = mCharacter.Sb.ToString ();
+		geschicklichkeit.text = mCharacter.Gs.ToString ();
+		intelligenz.text = mCharacter.In.ToString ();
+		ausstrahlung.text = mCharacter.pA.ToString ();
+		willenskraft.text = mCharacter.Wk.ToString ();
+		gewandtheit.text = mCharacter.Gw.ToString ();
+		zaubertalent.text = mCharacter.Zt.ToString ();
+		bewegungsweite.text = mCharacter.B.ToString ();
+
 	}
 }
