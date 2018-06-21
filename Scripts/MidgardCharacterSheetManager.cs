@@ -6,7 +6,7 @@ using System.Collections.Generic;
 public class MidgardCharacterSheetManager : MonoBehaviour {
 
 	public Text typ, stand, beruf, gestalt, hand, alter, groesse, gewicht, staerke, konsitution, aussehen, selbstbeherrschung, geschicklichkeit, intelligenz, 
-	ausstrahlung, willenskraft, gewandtheit, zaubertalent, bewegungsweite, abwehr, raufen, zaubern, resistenz, ap, lp,ausdauerbonus,
+	ausstrahlung, willenskraft, gewandtheit, zaubertalent, bewegungsweite, abwehr, raufen, zaubern, resPsy, resPhy, resPhk, ap, lp,ausdauerbonus,
 	abwehrbonus,schadensbonus,zauberbonus,angriffsbonus, sehen, hören, riechen, schmecken, tasten, sechstersinn, sonst, sonstUeberschrift;
 
 
@@ -30,6 +30,8 @@ public class MidgardCharacterSheetManager : MonoBehaviour {
 		SetDemoskopieWerte ();
 		SetBasiseigenschaften ();
 		SetKampfWerte ();
+
+
 	}
 
 	void SetDemoskopieWerte ()
@@ -63,7 +65,11 @@ public class MidgardCharacterSheetManager : MonoBehaviour {
 		abwehr.text = mCharacter.Abwehr.ToString ();
 		raufen.text = mCharacter.Raufen.ToString ();
 		zaubern.text = mCharacter.Zaubern.ToString ();
-		resistenz.text = mCharacter.resPhk + "/" + mCharacter.resPhy + "/" + mCharacter.resPsy;
+
+		resPsy.text = mCharacter.resPsy.ToString();
+		resPhy.text = mCharacter.resPhy.ToString();
+		resPhk.text = mCharacter.resPhk.ToString();
+
 		ap.text = mCharacter.AP.ToString ();
 		lp.text = mCharacter.LP.ToString ();
 	}
