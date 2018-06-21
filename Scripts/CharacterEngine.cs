@@ -1017,7 +1017,7 @@ public class CharacterEngine
 			AngeboreneFertigkeit angFert =ModifyCharakterSinnNatur (Natur.GuteReflexe, 9);
 			mChar.listAngeboren.Add (angFert);
 		} else if (w100 > 75 && w100 <= 80) {
-			AngeboreneFertigkeit angFert =ModifyCharakterSinnNatur (Natur.Nachtsicht, 10);
+			AngeboreneFertigkeit angFert =ModifyCharakterSinnNatur (Natur.Nachtsicht, 8);
 			mChar.listAngeboren.Add (angFert);
 		} else if (w100 > 80 && w100 <= 85) {
 			AngeboreneFertigkeit angFert =ModifyCharakterSinnNatur (Natur.Richtungssinn, 12);
@@ -1026,7 +1026,7 @@ public class CharacterEngine
 			AngeboreneFertigkeit angFert =ModifyCharakterSinnNatur (Natur.Robustheit, 9);
 			mChar.listAngeboren.Add (angFert);
 		} else if (w100 > 90 && w100 <= 95) {
-			AngeboreneFertigkeit angFert =ModifyCharakterSinnNatur (Natur.Wachgabe, 9);
+			AngeboreneFertigkeit angFert =ModifyCharakterSinnNatur (Natur.Wachgabe, 6);
 			mChar.listAngeboren.Add (angFert);
 		} else if (w100 > 95 && w100 <= 99) {
 			AngeboreneFertigkeit angFert =ModifyCharakterSinnNatur (Natur.Einpraegen, 4);
