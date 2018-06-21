@@ -27,6 +27,13 @@ public class MidgardCharacterSheetManager : MonoBehaviour {
 	/// Sets the character values für den erzeugten MidgardCharakter
 	/// </summary>
 	void SetCharacterValues(){
+		SetDemoskopieWerte ();
+		SetBasiseigenschaften ();
+
+	}
+
+	void SetDemoskopieWerte ()
+	{
 		typ.text = mCharacter.Archetyp.ToString ();
 		stand.text = mCharacter.Schicht.ToString ();
 		gestalt.text = mCharacter.Gestalt;
@@ -34,6 +41,10 @@ public class MidgardCharacterSheetManager : MonoBehaviour {
 		alter.text = mCharacter.Alter.ToString ();
 		groesse.text = mCharacter.Groesse.ToString ();
 		gewicht.text = mCharacter.Gewicht.ToString ();
+	}
+
+	void SetBasiseigenschaften ()
+	{
 		staerke.text = mCharacter.St.ToString ();
 		konsitution.text = mCharacter.Ko.ToString ();
 		aussehen.text = mCharacter.Aussehen.ToString ();
@@ -45,6 +56,5 @@ public class MidgardCharacterSheetManager : MonoBehaviour {
 		gewandtheit.text = mCharacter.Gw.ToString ();
 		zaubertalent.text = mCharacter.Zt.ToString ();
 		bewegungsweite.text = mCharacter.B.ToString ();
-
 	}
 }
