@@ -30,7 +30,7 @@ public class MidgardCharacterSheetManager : MonoBehaviour {
 		SetDemoskopieWerte ();
 		SetBasiseigenschaften ();
 		SetKampfWerte ();
-
+		SetBoni ();
 
 	}
 
@@ -72,5 +72,14 @@ public class MidgardCharacterSheetManager : MonoBehaviour {
 
 		ap.text = mCharacter.AP.ToString ();
 		lp.text = mCharacter.LP.ToString ();
+	}
+
+	void SetBoni ()
+	{
+		ausdauerbonus.text = mCharacter.AusB.ToString ();
+		abwehrbonus.text = mCharacter.AbB.ToString ();
+		schadensbonus.text = mCharacter.SchB.ToString ();
+		zauberbonus.text = mCharacter.ZauB.ToString ();
+		angriffsbonus.text = mCharacter.AnB.ToString ();
 	}
 }
