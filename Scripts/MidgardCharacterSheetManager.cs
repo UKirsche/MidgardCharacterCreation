@@ -31,6 +31,7 @@ public class MidgardCharacterSheetManager : MonoBehaviour {
 		SetBasiseigenschaften ();
 		SetKampfWerte ();
 		SetBoni ();
+		SetSinne ();
 	}
 
 	void SetDemoskopieWerte ()
