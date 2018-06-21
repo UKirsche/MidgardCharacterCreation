@@ -32,6 +32,7 @@ public class MidgardCharacterSheetManager : MonoBehaviour {
 		SetKampfWerte ();
 		SetBoni ();
 		SetSinne ();
+		SetAngeboren ();
 	}
 
 	void SetDemoskopieWerte ()
@@ -99,10 +100,16 @@ public class MidgardCharacterSheetManager : MonoBehaviour {
 				tasten.text = sinn.value.ToString();
 			} else if (sinn.name == "Sechster Sinn") {
 				sechstersinn.text = sinn.value.ToString();
-			} else {
-				sonstUeberschrift.text = sinn.name;
-				sonst.text = sinn.value.ToString ();
-			}
+			} 
 		}
+	}
+
+	void SetAngeboren(){
+		List<AngeboreneFertigkeit> angeboreneFertigkeite = mCharacter.listAngeboren;
+		foreach (var fertigkeit in angeboreneFertigkeite) {
+			sonstUeberschrift.text = fertigkeit.name + ":";
+			sonst.text = fertigkeit.value.ToString ();
+		}
+			
 	}
 }
