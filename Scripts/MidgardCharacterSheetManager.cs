@@ -29,7 +29,7 @@ public class MidgardCharacterSheetManager : MonoBehaviour {
 	void SetCharacterValues(){
 		SetDemoskopieWerte ();
 		SetBasiseigenschaften ();
-
+		SetKampfWerte ();
 	}
 
 	void SetDemoskopieWerte ()
@@ -56,5 +56,15 @@ public class MidgardCharacterSheetManager : MonoBehaviour {
 		gewandtheit.text = mCharacter.Gw.ToString ();
 		zaubertalent.text = mCharacter.Zt.ToString ();
 		bewegungsweite.text = mCharacter.B.ToString ();
+	}
+
+	void SetKampfWerte ()
+	{
+		abwehr.text = mCharacter.Abwehr.ToString ();
+		raufen.text = mCharacter.Raufen.ToString ();
+		zaubern.text = mCharacter.Zaubern.ToString ();
+		resistenz.text = mCharacter.resPhk + "/" + mCharacter.resPhy + "/" + mCharacter.resPsy;
+		ap.text = mCharacter.AP.ToString ();
+		lp.text = mCharacter.LP.ToString ();
 	}
 }
