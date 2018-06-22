@@ -2,39 +2,23 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public class UngewFertInventory : MonoBehaviour {
-
-	//Verweis auf zu füllendes Panel
-	public LernPlanInventoryDisplay inventoryDisplayPrefab;
-	public Transform displayParent;
-
-	private const string panelName = "UngewFertigkeiten";
-
+public class UngewFertInventory : FillInventory {
 
 	// Use this for initialization
-	void Start () {
-
-		//Fülle den Mist auf
-		FillPanelUngewFertigkeiten();
-
+	public override void Start () {
+		panelName = "UngewFertigkeiten";
+		base.Start();
 	}
 
-	/// <summary>
-	/// Fills the panel fachkenntnisse. 
-	/// </summary>
-	private void FillPanelUngewFertigkeiten()
+
+	public override void FillPanel()
 	{
 		Toolbox globalVars = Toolbox.Instance;
 		LernPlanHelper lernHelper = globalVars.lernHelper;
 
 		//Prepare listItems 
 		List<InventoryItem> listItems = lernHelper.GetUngewFertigkeiten();
+		ConfigurePrefab (listItems);
 
-
-		//Fachkenntnisse werden entsprechend der Lernpunkte aufgelistet
-		inventoryDisplayPrefab = (LernPlanInventoryDisplay)Instantiate (inventoryDisplayPrefab);
-		inventoryDisplayPrefab.name = panelName;
-		inventoryDisplayPrefab.transform.SetParent (displayParent, false);
-		inventoryDisplayPrefab.FillItemDisplay (listItems);
 	}
 }

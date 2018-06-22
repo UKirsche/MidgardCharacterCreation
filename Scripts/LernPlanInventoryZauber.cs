@@ -2,27 +2,18 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public class LernPlanInventoryZauber : MonoBehaviour {
-
-	//Verweis auf zu füllendes Panel
-	public LernPlanInventoryDisplay inventoryDisplayPrefab;
-	public Transform displayParent;
-
-	private const string panelName = "ZauberPanel";
-
+public class LernPlanInventoryZauber : FillInventory {
 
 	// Use this for initialization
-	void Start () {
-
-		//Fülle den Mist auf
-		FillPanelZauber();
-
+	public override void Start () {
+		panelName = "ZauberPanel";
+		base.Start();
 	}
 
 	/// <summary>
 	/// Fills the panel with Zauber. 
 	/// </summary>
-	private void FillPanelZauber()
+	public override void FillPanel()
 	{
 		Toolbox globalVars = Toolbox.Instance;
 		LernPlanHelper lernHelper = globalVars.lernHelper;
@@ -32,14 +23,12 @@ public class LernPlanInventoryZauber : MonoBehaviour {
 		List<InventoryItem> listZaubersalze = lernHelper.GetZauberSalze();
 		List<InventoryItem> listZauberlieder = lernHelper.GetZauberLieder();
 
+		//Concat lists:
+		listZauberformeln.AddRange(listZaubersalze);
+		listZauberformeln.AddRange (listZauberlieder);
 
-		//Fachkenntnisse werden entsprechend der Lernpunkte aufgelistet
-		inventoryDisplayPrefab = (LernPlanInventoryDisplay)Instantiate (inventoryDisplayPrefab);
-		inventoryDisplayPrefab.name = panelName;
-		inventoryDisplayPrefab.transform.SetParent (displayParent, false);
-		inventoryDisplayPrefab.FillItemDisplay (listZauberformeln);
-		inventoryDisplayPrefab.FillItemDisplay (listZauberlieder);
-		inventoryDisplayPrefab.FillItemDisplay (listZaubersalze);
+		ConfigurePrefab (listZauberformeln);
+
 	}
 		
 }
