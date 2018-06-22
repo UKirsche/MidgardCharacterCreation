@@ -6,7 +6,7 @@ public class LernPlanInventoryWaffen : FillInventory {
 
 
 	// Use this for initialization
-	override void Start () {
+	public override void Start () {
 		panelName = "WaffenPanel";
 		base.Start();
 	}
