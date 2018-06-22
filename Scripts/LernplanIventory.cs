@@ -2,43 +2,38 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public class LernplanIventory : MonoBehaviour {
-
-	//Verweis auf zu füllendes Panel
-	public LernPlanInventoryDisplay inventoryDisplayPrefab;
-	public Transform displayParent;
-
-	private const string panelName = "FachPanel";
-
+public class LernplanIventory : FillInventory {
 
 	// Use this for initialization
-	void Start () {
+	public override void Start () {
 
-		//Fülle den Mist auf
-		FillPanelFachkenntnisse();
+		panelName= "Fachpanel";
+		base.Start();
 
 	}
 
 	/// <summary>
 	/// Fills the panel fachkenntnisse. 
 	/// </summary>
-	private void FillPanelFachkenntnisse()
+	public override void FillPanel()
 	{
 		Toolbox globalVars = Toolbox.Instance;
 		LernPlanHelper lernHelper = globalVars.lernHelper;
 
 		//Prepare listItems 
 		List<InventoryItem> listItems = lernHelper.GetFachkenntnisseItems();
+		ConfigurePrefab (listItems);
+		PreSelectZwerge (globalVars);
+	}
 
-		//Fachkenntnisse werden entsprechend der Lernpunkte aufgelistet
-		inventoryDisplayPrefab = (LernPlanInventoryDisplay)Instantiate (inventoryDisplayPrefab);
-		inventoryDisplayPrefab.name = panelName;
-		inventoryDisplayPrefab.transform.SetParent (displayParent, false);
-		inventoryDisplayPrefab.FillItemDisplay (listItems);
-
+	/// <summary>
+	/// Bei Zwergen muss Baukunde geklickt werden.
+	/// </summary>
+	/// <param name="globalVars">Global variables.</param>
+	void PreSelectZwerge (Toolbox globalVars)
+	{
 		//Bei Zwergen muss Baukunde direkt geklickt werden
 		MidgardCharakter mCharacter = globalVars.mCharacter;
-
 		if (mCharacter.Spezies == Races.Zwerg) {
 			InventoryItemDisplay[] arrayItemDisplayFach = inventoryDisplayPrefab.GetComponentsInChildren<InventoryItemDisplay> ();
 			foreach (var itemDisplayFach in arrayItemDisplayFach) {

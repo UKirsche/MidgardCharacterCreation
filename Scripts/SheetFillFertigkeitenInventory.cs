@@ -3,12 +3,11 @@ using UnityEngine.UI;
 using System.Collections;
 using System.Collections.Generic;
 
-public class UngelernteFertigkeitenInvetory : FillInventory {
-
+public class SheetFillFertigkeitenInventory : FillInventory {
 
 	// Use this for initialization
 	public override void Start () {
-		panelName = "UngelFertigkeiten";
+		panelName = "SheetFertigkeiten";
 		base.Start ();
 	}
 
@@ -18,10 +17,10 @@ public class UngelernteFertigkeitenInvetory : FillInventory {
 	public override void FillPanel()
 	{
 		Toolbox globalVars = Toolbox.Instance;
-		LernPlanHelper lernHelper = globalVars.lernHelper;
+		MidgardCharakter mCharacter = globalVars.mCharacter;
 
 		//Prepare listItems 
-		List<InventoryItem> listItems = lernHelper.GetUngelernteFertigkeiten();
+		List<InventoryItem> listItems = mCharacter.fertigkeiten;
 		ConfigurePrefab (listItems);
 	}
 }
