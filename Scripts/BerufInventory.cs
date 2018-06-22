@@ -7,15 +7,14 @@ public class BerufInventory : FillInventory {
 	//Verweis auf zu füllendes Panel
 	public BerufInventoryDisplay inventoryBerufDisplayPrefab;
 
-	private const string panelName = "Berufe";
+
 
 
 	// Use this for initialization
 	void OnEnable () {
-
+		panelName = "Berufe";
 		//Fülle den Mist auf
 		FillPanel();
-
 	}
 
 	/// <summary>
