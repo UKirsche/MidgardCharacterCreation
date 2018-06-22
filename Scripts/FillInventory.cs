@@ -21,7 +21,7 @@ public abstract class FillInventory : MonoBehaviour {
 	}
 
 	/// <summary>
-	/// Takes list and creates and fills display prefab
+	/// Takes list and creates and fills display
 	/// </summary>
 	/// <param name="listItems">List items.</param>
 	protected void ConfigurePrefab(List<InventoryItem> listItems){

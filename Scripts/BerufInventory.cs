@@ -2,11 +2,10 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public class BerufInventory : MonoBehaviour {
+public class BerufInventory : FillInventory {
 
 	//Verweis auf zu füllendes Panel
-	public BerufInventoryDisplay inventoryDisplayPrefab;
-	public Transform displayParent;
+	public BerufInventoryDisplay inventoryBerufDisplayPrefab;
 
 	private const string panelName = "Berufe";
 
@@ -15,14 +14,14 @@ public class BerufInventory : MonoBehaviour {
 	void OnEnable () {
 
 		//Fülle den Mist auf
-		FillPanelBerufe();
+		FillPanel();
 
 	}
 
 	/// <summary>
 	/// Fills the panel fachkenntnisse. 
 	/// </summary>
-	private void FillPanelBerufe()
+	public override void FillPanel()
 	{
 		Toolbox globalVars = Toolbox.Instance;
 		LernPlanHelper lernHelper = globalVars.lernHelper;
@@ -35,10 +34,10 @@ public class BerufInventory : MonoBehaviour {
 
 
 		//Fachkenntnisse werden entsprechend der Lernpunkte aufgelistet
-		inventoryDisplayPrefab = (BerufInventoryDisplay)Instantiate (inventoryDisplayPrefab);
-		inventoryDisplayPrefab.name = panelName;
-		inventoryDisplayPrefab.transform.SetParent (displayParent, false);
-		inventoryDisplayPrefab.FillBerufeDisplay (listItems);
+		inventoryBerufDisplayPrefab = (BerufInventoryDisplay)Instantiate (inventoryBerufDisplayPrefab);
+		inventoryBerufDisplayPrefab.name = panelName;
+		inventoryBerufDisplayPrefab.transform.SetParent (displayParent, false);
+		inventoryBerufDisplayPrefab.FillBerufeDisplay (listItems);
 	}
 
 	void RemoveItemDisplay ()
