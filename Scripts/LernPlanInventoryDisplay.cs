@@ -19,7 +19,7 @@ public class LernPlanInventoryDisplay : MonoBehaviour {
 			if (item != null) {
 				InventoryItemDisplay itemToDisplay = (InventoryItemDisplay)Instantiate (itemDisplayPrefab);
 				itemToDisplay.transform.SetParent (displayPanel, false);
-				itemToDisplay.SetDisplayValues (item);
+				itemToDisplay.SetDisplayValuesCost (item);
 			}
 		}
 	}

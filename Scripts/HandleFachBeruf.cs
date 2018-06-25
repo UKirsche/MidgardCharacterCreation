@@ -115,7 +115,7 @@ public class HandleFachBeruf : MonoBehaviour {
 		InventoryItemDisplay itemToDisplay = (InventoryItemDisplay)Instantiate (itemDisplayPrefab);
 
 		itemToDisplay.transform.SetParent (rightPanelDisplay, false);
-		itemToDisplay.SetDisplayValues (itemDisplay.item);
+		itemToDisplay.SetDisplayValuesCost (itemDisplay.item);
 	}
 
 	void AddFertigkeitToCharacter (InventoryItem item)

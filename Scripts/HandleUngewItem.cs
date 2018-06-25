@@ -90,7 +90,7 @@ public class HandleUngewItem : MonoBehaviour {
 		InventoryItemDisplay itemToDisplay = (InventoryItemDisplay)Instantiate (itemDisplayPrefab);
 
 		itemToDisplay.transform.SetParent (rightPanelDisplay, false);
-		itemToDisplay.SetDisplayValues (itemDisplay.item);
+		itemToDisplay.SetDisplayValuesCost (itemDisplay.item);
 	}
 
 	void SetLearningPoints (string type, int deltaPoints, LernPlanHelper lpHelper)

@@ -3,14 +3,10 @@ using UnityEngine.UI;
 using System.Collections;
 using System.Collections.Generic;
 
-public abstract class FillInventory : MonoBehaviour {
+public abstract class FillInventory : FillInventoryBase {
 
 	//Verweis auf zu füllendes Panel
 	public LernPlanInventoryDisplay inventoryDisplayPrefab;
-	public Transform displayParent;
-
-	protected string panelName = "PanelName";
-
 
 	// Use this for initialization
 	public virtual void Start () {

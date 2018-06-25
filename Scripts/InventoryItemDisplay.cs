@@ -20,13 +20,27 @@ public class InventoryItemDisplay : MonoBehaviour {
 
 	}
 
-	public void SetDisplayValues(InventoryItem _item)
+	public void SetDisplayValuesCost(InventoryItem _item)
 	{
 		nameItem.text = _item.name;
 		wertItem.text = _item.val;
 		costItem.text = _item.cost.ToString ();
 		item = _item;
 	}
+
+	public void SetDisplayValuesWert(InventoryItem _item)
+	{
+		nameItem.text = _item.name;
+		wertItem.text = _item.val;
+		item = _item;
+	}
+
+	public void SetDisplayValuesName(InventoryItem _item)
+	{
+		nameItem.text = _item.name;
+		item = _item;
+	}
+
 
 
 	public void Click()
@@ -37,10 +51,5 @@ public class InventoryItemDisplay : MonoBehaviour {
 			Debug.Log("I " + nameItem.text + " was clicked");
 		}
 			
-	}
-		
-	// Update is called once per frame
-	void Update () {
-	
 	}
 }

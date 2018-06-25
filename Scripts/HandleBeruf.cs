@@ -90,6 +90,6 @@ public class HandleBeruf : MonoBehaviour {
 	{
 		InventoryItemDisplay itemToDisplay = (InventoryItemDisplay)Instantiate (itemDisplayPrefab);
 		itemToDisplay.transform.SetParent (berufPanelDisplay, false);
-		itemToDisplay.SetDisplayValues (item);
+		itemToDisplay.SetDisplayValuesCost (item);
 	}
 }

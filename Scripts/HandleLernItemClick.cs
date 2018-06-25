@@ -139,7 +139,7 @@ public class HandleLernItemClick : MonoBehaviour
 		Transform rightPanelDisplay = maskenType.GetRightPanel ();
 		InventoryItemDisplay itemToDisplay = (InventoryItemDisplay)Instantiate (itemDisplayPrefab);
 		itemToDisplay.transform.SetParent (rightPanelDisplay, false);
-		itemToDisplay.SetDisplayValues (item);
+		itemToDisplay.SetDisplayValuesCost (item);
 	}
 
 	#endregion
