@@ -8,7 +8,7 @@ public class BerufInventoryDisplay : MonoBehaviour {
 
 	// Use this for initialization
 	public Transform displayPanel;
-	public BerufItemDisplay berufDisplayPrefab;
+	public InventoryItemDisplay berufDisplayPrefab;
 	public Text heading;
 
 	/// <summary>
@@ -19,9 +19,9 @@ public class BerufInventoryDisplay : MonoBehaviour {
 	{
 		foreach (InventoryItem item in items) {
 			if (item != null) {
-				BerufItemDisplay itemToDisplay = (BerufItemDisplay)Instantiate (berufDisplayPrefab);
+				InventoryItemDisplay itemToDisplay = (InventoryItemDisplay)Instantiate (berufDisplayPrefab);
 				itemToDisplay.transform.SetParent (displayPanel, false);
-				itemToDisplay.SetDisplayValues (item);
+				itemToDisplay.SetDisplayValuesName (item);
 			}
 		}
 	}
