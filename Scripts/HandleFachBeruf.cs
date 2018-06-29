@@ -11,7 +11,7 @@ public class HandleFachBeruf : MonoBehaviour {
 	private int lastKatClicked;
 
 	void OnEnable(){
-		InventoryItemDisplay.onClick +=	HandleOnItemClick;
+		//InventoryItemDisplay.onClick +=	HandleOnItemClick;
 	}
 
 	void OnDisable(){
