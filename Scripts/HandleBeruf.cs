@@ -12,18 +12,18 @@ public class HandleBeruf : MonoBehaviour {
 	public InventoryItemDisplay itemDisplayPrefab;
 	private LernPlanHelper lpHelper;
 	void OnEnable(){
-		BerufItemDisplay.onClick +=	HandleOnBerufClick;
+		InventoryItemDisplay.onClick +=	HandleOnBerufClick;
 	}
 
 	void OnDisable(){
-		BerufItemDisplay.onClick -= HandleOnBerufClick;
+		InventoryItemDisplay.onClick -= HandleOnBerufClick;
 	}
 
 
 	void OnDestroy ()
 	{
 		Debug.Log ("usigned for Click");
-		BerufItemDisplay.onClick -= HandleOnBerufClick;
+		InventoryItemDisplay.onClick -= HandleOnBerufClick;
 	}
 
 
@@ -31,7 +31,7 @@ public class HandleBeruf : MonoBehaviour {
 	/// Handles the on item click. 
 	/// </summary>
 	/// <param name="itemDisplay">Item display.</param>
-	public void HandleOnBerufClick (BerufItemDisplay itemDisplay)
+	public void HandleOnBerufClick (InventoryItemDisplay itemDisplay)
 	{
 		Toolbox globalVars = Toolbox.Instance;
 		lpHelper = globalVars.lernHelper;
