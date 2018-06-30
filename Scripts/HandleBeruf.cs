@@ -9,7 +9,7 @@ using System;
 /// Handle beruf. Registriert den Klick auf Berufs-Items. Diesen werden
 /// </summary>
 public class HandleBeruf : MonoBehaviour {
-	public InventoryItemDisplay itemDisplayPrefab;
+	public InventoryItemBerufDisplay itemDisplayPrefab;
 	private LernPlanHelper lpHelper;
 	void OnEnable(){
 		InventoryItemDisplay.onClick +=	HandleOnBerufClick;
@@ -88,7 +88,7 @@ public class HandleBeruf : MonoBehaviour {
 	/// <param name="rightPanelDisplay">Right panel display.</param>
 	void CreateInventoryItemDisplay (InventoryItem item, Transform berufPanelDisplay)
 	{
-		InventoryItemDisplay itemToDisplay = (InventoryItemDisplay)Instantiate (itemDisplayPrefab);
+		InventoryItemBerufDisplay itemToDisplay = (InventoryItemBerufDisplay)Instantiate (itemDisplayPrefab);
 		itemToDisplay.transform.SetParent (berufPanelDisplay, false);
 		itemToDisplay.SetDisplayValuesWert (item);
 	}

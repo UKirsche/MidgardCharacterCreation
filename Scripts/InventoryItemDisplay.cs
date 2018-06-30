@@ -41,15 +41,11 @@ public class InventoryItemDisplay : MonoBehaviour {
 		item = _item;
 	}
 
-
-
 	public void Click()
 	{
 		if (onClick != null && item!=null) {
 			onClick.Invoke(this);
-		} else {
-			Debug.Log("I " + nameItem.text + " was clicked");
-		}
-			
+		} 	
+		Debug.Log("I " + nameItem.text + " was clicked");
 	}
 }

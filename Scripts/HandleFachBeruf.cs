@@ -11,18 +11,18 @@ public class HandleFachBeruf : MonoBehaviour {
 	private int lastKatClicked;
 
 	void OnEnable(){
-		//InventoryItemDisplay.onClick +=	HandleOnItemClick;
+		InventoryItemBerufDisplay.onClick +=	HandleOnItemClick;
 	}
 
 	void OnDisable(){
-		InventoryItemDisplay.onClick -= HandleOnItemClick;
+		InventoryItemBerufDisplay.onClick -= HandleOnItemClick;
 	}
 
 
 	void OnDestroy ()
 	{
 		Debug.Log ("usigned for Click");
-		InventoryItemDisplay.onClick -= HandleOnItemClick;
+		InventoryItemBerufDisplay.onClick -= HandleOnItemClick;
 	}
 
 
@@ -30,7 +30,7 @@ public class HandleFachBeruf : MonoBehaviour {
 	/// Handles the on item click. 
 	/// </summary>
 	/// <param name="itemDisplay">Item display.</param>
-	public void HandleOnItemClick (InventoryItemDisplay itemDisplay)
+	public void HandleOnItemClick (InventoryItemBerufDisplay itemDisplay)
 	{
 		//Display aus dem der Click stammt
 		string contextItemDisplay = itemDisplay.transform.parent.name;
@@ -77,7 +77,7 @@ public class HandleFachBeruf : MonoBehaviour {
 	/// <param name="lernpunkteDelta">Lernpunkte delta.</param>
 	/// <param name="lpHelper">Lp helper.</param>
 	/// <param name="rightPanelDisplay">Right panel display.</param>
-	void InsertNewItem (InventoryItemDisplay itemDisplay, string contextItemDisplay, LernPlanHelper lpHelper, Transform rightPanelDisplay)
+	void InsertNewItem (InventoryItemBerufDisplay itemDisplay, string contextItemDisplay, LernPlanHelper lpHelper, Transform rightPanelDisplay)
 	{
 		itemDisplay.item.activated = true;
 		//erzeuge neues item
@@ -89,7 +89,7 @@ public class HandleFachBeruf : MonoBehaviour {
 	/// Checks the beruf fach ok. 
 	/// 
 	/// </summary>
-	private bool CheckBerufFachOk(InventoryItemDisplay itemClicked){
+	private bool CheckBerufFachOk(InventoryItemBerufDisplay itemClicked){
 		int beruf100 = lpHelper.BerufswahlW100;
 		int katAktuell = itemClicked.item.cost;
 		if (beruf100 <= 95) {
@@ -110,12 +110,12 @@ public class HandleFachBeruf : MonoBehaviour {
 	/// </summary>
 	/// <param name="itemDisplay">Item display.</param>
 	/// <param name="rightPanelDisplay">Right panel display.</param>
-	void CreateInventoryItem (InventoryItemDisplay itemDisplay, Transform rightPanelDisplay)
+	void CreateInventoryItem (InventoryItemBerufDisplay itemDisplay, Transform rightPanelDisplay)
 	{
 		InventoryItemDisplay itemToDisplay = (InventoryItemDisplay)Instantiate (itemDisplayPrefab);
 
 		itemToDisplay.transform.SetParent (rightPanelDisplay, false);
-		itemToDisplay.SetDisplayValuesCost (itemDisplay.item);
+		itemToDisplay.SetDisplayValuesWert (itemDisplay.item);
 	}
 
 	void AddFertigkeitToCharacter (InventoryItem item)
