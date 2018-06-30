@@ -46,6 +46,6 @@ public class InventoryItemDisplay : MonoBehaviour {
 		if (onClick != null && item!=null) {
 			onClick.Invoke(this);
 		} 	
-		Debug.Log("I " + nameItem.text + " was clicked");
+		Debug.Log("I Fach " + nameItem.text + " was clicked");
 	}
 }

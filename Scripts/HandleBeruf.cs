@@ -9,21 +9,21 @@ using System;
 /// Handle beruf. Registriert den Klick auf Berufs-Items. Diesen werden
 /// </summary>
 public class HandleBeruf : MonoBehaviour {
-	public InventoryItemBerufDisplay itemDisplayPrefab;
+	public InventoryItemDisplay itemDisplayPrefab;
 	private LernPlanHelper lpHelper;
 	void OnEnable(){
-		InventoryItemDisplay.onClick +=	HandleOnBerufClick;
+		InventoryItemBerufDisplay.onClick +=	HandleOnBerufClick;
 	}
 
 	void OnDisable(){
-		InventoryItemDisplay.onClick -= HandleOnBerufClick;
+		InventoryItemBerufDisplay.onClick -= HandleOnBerufClick;
 	}
 
 
 	void OnDestroy ()
 	{
 		Debug.Log ("usigned for Click");
-		InventoryItemDisplay.onClick -= HandleOnBerufClick;
+		InventoryItemBerufDisplay.onClick -= HandleOnBerufClick;
 	}
 
 
@@ -31,7 +31,7 @@ public class HandleBeruf : MonoBehaviour {
 	/// Handles the on item click. 
 	/// </summary>
 	/// <param name="itemDisplay">Item display.</param>
-	public void HandleOnBerufClick (InventoryItemDisplay itemDisplay)
+	public void HandleOnBerufClick (InventoryItemBerufDisplay itemDisplay)
 	{
 		Toolbox globalVars = Toolbox.Instance;
 		lpHelper = globalVars.lernHelper;
@@ -88,7 +88,7 @@ public class HandleBeruf : MonoBehaviour {
 	/// <param name="rightPanelDisplay">Right panel display.</param>
 	void CreateInventoryItemDisplay (InventoryItem item, Transform berufPanelDisplay)
 	{
-		InventoryItemBerufDisplay itemToDisplay = (InventoryItemBerufDisplay)Instantiate (itemDisplayPrefab);
+		InventoryItemDisplay itemToDisplay = (InventoryItemDisplay)Instantiate (itemDisplayPrefab);
 		itemToDisplay.transform.SetParent (berufPanelDisplay, false);
 		itemToDisplay.SetDisplayValuesWert (item);
 	}
