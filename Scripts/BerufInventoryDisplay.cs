@@ -4,18 +4,14 @@ using System.Collections;
 using System.Collections.Generic;
 
 
-public class BerufInventoryDisplay : MonoBehaviour {
-
-	// Use this for initialization
-	public Transform displayPanel;
+public class BerufInventoryDisplay : InventoryDisplay {
 	public InventoryItemBerufDisplay berufDisplayPrefab;
-	public Text heading;
 
 	/// <summary>
 	/// Fills the item display: loads inventory items in panel
 	/// </summary>
 	/// <param name="items">Items.</param>
-	public void FillBerufeDisplay(List<InventoryItem> items)
+	public override void FillItemDisplay(List<InventoryItem> items)
 	{
 		foreach (InventoryItem item in items) {
 			if (item != null) {
@@ -24,20 +20,5 @@ public class BerufInventoryDisplay : MonoBehaviour {
 				itemToDisplay.SetDisplayValuesName (item);
 			}
 		}
-	}
-
-
-	/// <summary>
-	/// Sets the heading for the inventory items
-	/// </summary>
-	/// <param name="titel">Titel.</param>
-	public void SetHeading(string titel)
-	{
-		heading.text = titel;
-	}
-
-	// Update is called once per frame
-	void Update () {
-
 	}
 }

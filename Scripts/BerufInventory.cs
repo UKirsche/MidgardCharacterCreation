@@ -23,19 +23,16 @@ public class BerufInventory : FillInventory {
 	{
 		Toolbox globalVars = Toolbox.Instance;
 		LernPlanHelper lernHelper = globalVars.lernHelper;
-
 		//Lösche alte Einträge
 		RemoveItemDisplay();
-
 		//Prepare listItems 
 		List<InventoryItem> listItems =lernHelper.GetBerufe();
-
 
 		//Fachkenntnisse werden entsprechend der Lernpunkte aufgelistet
 		inventoryBerufDisplayPrefab = (BerufInventoryDisplay)Instantiate (inventoryBerufDisplayPrefab);
 		inventoryBerufDisplayPrefab.name = panelName;
 		inventoryBerufDisplayPrefab.transform.SetParent (displayParent, false);
-		inventoryBerufDisplayPrefab.FillBerufeDisplay (listItems);
+		inventoryBerufDisplayPrefab.FillItemDisplay (listItems);
 	}
 
 	void RemoveItemDisplay ()
