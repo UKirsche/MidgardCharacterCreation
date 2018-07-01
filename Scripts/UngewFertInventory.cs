@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public class UngewFertInventory : FillInventory {
+public class UngewFertInventory : FillInventory<LernPlanInventoryDisplay> {
 
 	// Use this for initialization
 	public override void Start () {

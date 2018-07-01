@@ -3,7 +3,7 @@ using UnityEngine.UI;
 using System.Collections;
 using System.Collections.Generic;
 
-public class SheetFillFertigkeitenInventory : FillInventory {
+public class SheetFillFertigkeitenInventory : FillInventory<SheetInventoryDisplay> {
 
 	// Use this for initialization
 	public override void Start () {

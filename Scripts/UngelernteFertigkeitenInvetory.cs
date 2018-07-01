@@ -3,7 +3,7 @@ using UnityEngine.UI;
 using System.Collections;
 using System.Collections.Generic;
 
-public class UngelernteFertigkeitenInvetory : FillInventory {
+public class UngelernteFertigkeitenInvetory : FillInventory<LernPlanInventoryDisplay> {
 
 
 	// Use this for initialization

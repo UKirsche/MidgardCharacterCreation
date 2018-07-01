@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public class LernPlanInventoryZauber : FillInventory {
+public class LernPlanInventoryZauber : FillInventory<LernPlanInventoryDisplay> {
 
 	// Use this for initialization
 	public override void Start () {

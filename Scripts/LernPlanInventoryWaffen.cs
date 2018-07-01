@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public class LernPlanInventoryWaffen : FillInventory {
+public class LernPlanInventoryWaffen : FillInventory<LernPlanInventoryDisplay> {
 
 
 	// Use this for initialization

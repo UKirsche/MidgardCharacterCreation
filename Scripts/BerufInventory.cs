@@ -2,10 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public class BerufInventory : FillInventory {
-
-	//Verweis auf zu füllendes Panel
-	public BerufInventoryDisplay inventoryBerufDisplayPrefab;
+public class BerufInventory : FillInventory<BerufInventoryDisplay> {
 
 	public override void Start(){
 		panelName = "Berufe";
@@ -29,10 +26,7 @@ public class BerufInventory : FillInventory {
 		List<InventoryItem> listItems =lernHelper.GetBerufe();
 
 		//Fachkenntnisse werden entsprechend der Lernpunkte aufgelistet
-		inventoryBerufDisplayPrefab = (BerufInventoryDisplay)Instantiate (inventoryBerufDisplayPrefab);
-		inventoryBerufDisplayPrefab.name = panelName;
-		inventoryBerufDisplayPrefab.transform.SetParent (displayParent, false);
-		inventoryBerufDisplayPrefab.FillItemDisplay (listItems);
+		ConfigurePrefab(listItems);
 	}
 
 	void RemoveItemDisplay ()
