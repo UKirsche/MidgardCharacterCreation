@@ -3,17 +3,15 @@ using UnityEngine.UI;
 using System.Collections;
 using System.Collections.Generic;
 
-public class SheetInventoryDisplay : MonoBehaviour {
+public class SheetInventoryDisplay : InventoryDisplay {
 
-	public Transform displayPanel;
 	public InventoryItemDisplay itemDisplayPrefab;
-	public Text heading;
 
 	/// <summary>
 	/// Fills the item display: loads inventory items in panel
 	/// </summary>
 	/// <param name="items">Items.</param>
-	public void FillItemDisplay(List<InventoryItem> items)
+	public override void FillItemDisplay(List<InventoryItem> items)
 	{
 		foreach (InventoryItem item in items) {
 			if (item != null) {
@@ -22,20 +20,5 @@ public class SheetInventoryDisplay : MonoBehaviour {
 				itemToDisplay.SetDisplayValuesWert (item);
 			}
 		}
-	}
-
-
-	/// <summary>
-	/// Sets the heading for the inventory items
-	/// </summary>
-	/// <param name="titel">Titel.</param>
-	public void SetHeading(string titel)
-	{
-		heading.text = titel;
-	}
-
-	// Update is called once per frame
-	void Update () {
-
 	}
 }
