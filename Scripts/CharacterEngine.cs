@@ -963,6 +963,7 @@ public class CharacterEngine
 	/// Modifies the angeborene fertigkeiten durch Würfelwurf
 	/// </summary>
 	/// <param name="mChar">M char.</param>
+	//TODO Modifikation für Rassen
 	public static void ModifyAngeboreneFertigkeiten(MidgardCharakter mChar, int w100){
 		List<Sinn> sinne = MidgardResourceReader.GetMidgardResource<AngeboreneFertigkeiten>(MidgardResourceReader.MidgardAngeboren).listSinne;
 		mChar.listSinne = sinne;
@@ -1033,6 +1034,7 @@ public class CharacterEngine
 			mChar.listAngeboren.Add (angFert);
 		} 
 	}
+
 
 
 

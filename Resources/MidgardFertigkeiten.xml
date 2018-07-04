@@ -241,7 +241,7 @@ Mit der Fertigkeit Suchen kann ein Abenteurer verloren gegangene oder absichtlic
   <Fachkenntnis id="77" name="Tanzen" Kat="Bewegung" LE="Gw:31" >
 Ein Tänzer kann sich fließend zu Musik bewegen und auf Zuschauer einen gefälligen Eindruck machen. Er kann sich so unter Umständen eine Mahlzeit in einem Gasthofe verdienen, Zugang zum Hof eines Adligen erlangen oder sein Publikum so in den Bann ziehen, dass es nicht auf das achtet, was andere Abenteurer gerade tun.
   </Fachkenntnis>
-  <Fachkenntnis id="78" name="Tarnen" Kat="Entdeckung" LE="Gs:61">
+  <Fachkenntnis id="78" name="Tarnen" Kat="Entdeckung" LE="Gw:31">
 Tarnen beschreibt die Fertigkeit in der Umgebung zu verharren ohne aufzufallen. Der Tarnende muss allerdings passende Kleidung tragen und darf nicht laut sein. Mit dem Zauber Wundersame Tarnung kann man die Tarnung noch verbessern. Sich vor Tieren zu verstecken ist weitaus schwieriger, da sie meist sehr gut riechen können, man sollte die Windrichtung beachten. Man kann mit der Fertigkeit auch Gegenstände verstecken.
   </Fachkenntnis>
   <Fachkenntnis id="79" name="Tauchen" Kat="Bewegung" LE="Ko:61" NE="Gw:31" Dep="64">
