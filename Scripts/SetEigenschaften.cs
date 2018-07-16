@@ -10,7 +10,7 @@ public class SetEigenschaften : MonoBehaviour {
 
 	public InputField inB, inGroesse, inGewicht, inAussehen, inHandWurf, inHandText, inpA, inSb, inWk, inAP, inLP, inAnB, inAbB, inZauB, inAbwehr, inZaubern, inRaufen, inResPsy, 
 		inResPhy, inResPhk, inAngeboren, inStandWurf, inStandText, inLernPunkteFach, inLernPunkteWaffen, inLernPunkteZauber, inResteLP, inPoolLP, inLernPunkteAllgemeinWissen, 
-		inRestAllgemeinWissen, inLernPunkteUngewFertigkeiten, inRestUngewFertigkeiten, inBerufsWurf;
+		inRestAllgemeinWissen, inLernPunkteUngewFertigkeiten, inRestUngewFertigkeiten, inBerufsWurf, inCharBeschreibung, inCharName;
 	public GameObject hilfePanelW100;
 	public Dropdown dropAngeboren, dropHerkunft, dropSpezialWaffe;
 
@@ -548,6 +548,17 @@ public class SetEigenschaften : MonoBehaviour {
 		lernHelper.BerufswahlW100 = UnityEngine.Random.Range (1, 101); //W100 für die Berufswahl
 		inBerufsWurf.text = lernHelper.BerufswahlW100.ToString();
 
+	}
+	#endregion
+
+	#region Characterbeschreibung
+	public void SetCharacterDescription(){
+		
+		Toolbox globalVars = Toolbox.Instance;
+		MidgardCharakter mChar = globalVars.mCharacter;
+
+		mChar.CharacterName = inCharName.text;
+		mChar.CharacterBeschreibung = inCharBeschreibung.text; 
 	}
 	#endregion
 }

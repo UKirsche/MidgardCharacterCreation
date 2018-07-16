@@ -20,7 +20,7 @@ public class MidgardCharakter
 	public int Groesse;
 	public Berufe Beruf;
 	public int Aussehen;
-	public string Beschreibung;
+	public string CharacterBeschreibung;
 	public string CharacterName;
 	#endregion
 
