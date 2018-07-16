@@ -20,6 +20,8 @@ public class MidgardCharakter
 	public int Groesse;
 	public Berufe Beruf;
 	public int Aussehen;
+	public string Beschreibung;
+	public string CharacterName;
 	#endregion
 
 	#region Lebens- Ausdauerpunkte
