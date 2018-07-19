@@ -566,7 +566,7 @@ public class BerufeStadt{
 	public List<Beruf> berufe = new List<Beruf>();
 }
 
-
+[Serializable]
 public class Beruf:IID, IName,IValue
 {
 	[XmlAttribute("id")]

@@ -18,7 +18,7 @@ public class MidgardCharakter
 	public string Gestalt;
 	public int Gewicht;
 	public int Groesse;
-	public Berufe Beruf;
+	public string Beruf;
 	public int Aussehen;
 	public string CharacterBeschreibung;
 	public string CharacterName;

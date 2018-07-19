@@ -18,7 +18,7 @@ public static class MidgardCharacterSaveLoad {
 		MidgardCharacterSaveLoad.savedCharacters.Add(mCharacter);
 		BinaryFormatter bf = new BinaryFormatter();
 		//Application.persistentDataPath is a string, so if you wanted you can put that into debug.log if you want to know where save games are located
-		FileStream file = File.Create ("midgardCharacters.gd"); //you can call it anything you want
+		FileStream file = File.Open ("midgardCharacters.gd", FileMode.OpenOrCreate); //you can call it anything you want
 		try {
 			bf.Serialize(file, MidgardCharacterSaveLoad.savedCharacters);
 		} catch (SerializationException ex) {
@@ -29,12 +29,20 @@ public static class MidgardCharacterSaveLoad {
 		return successSerialize;
 	}   
 
-	public static void Load() {
+	public static bool Load() {
+		bool successDeserialize = true;
 		if(File.Exists("midgardCharacters.gd")) {
 			BinaryFormatter bf = new BinaryFormatter();
-			FileStream file = File.Open(Application.persistentDataPath + "/savedGames.gd", FileMode.Open);
-			MidgardCharacterSaveLoad.savedCharacters = (List<MidgardCharakter>)bf.Deserialize(file);
+			FileStream file = File.Open("midgardCharacters.gd", FileMode.Open);
+			try {
+				MidgardCharacterSaveLoad.savedCharacters = (List<MidgardCharakter>)bf.Deserialize(file);
+				
+			} catch (SerializationException ex) {
+				Debug.LogError ("Deserialisierung fehl geschlagen: " + ex.Message);
+				successDeserialize = false;
+			}
 			file.Close();
 		}
+		return successDeserialize;
 	}
 }
