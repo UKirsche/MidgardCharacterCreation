@@ -551,7 +551,7 @@ public class SetEigenschaften : MonoBehaviour {
 	}
 	#endregion
 
-	#region Characterbeschreibung
+	#region Überblick
 	public void SetCharacterDescription(){
 		
 		Toolbox globalVars = Toolbox.Instance;
@@ -559,6 +559,14 @@ public class SetEigenschaften : MonoBehaviour {
 
 		mChar.CharacterName = inCharName.text;
 		mChar.CharacterBeschreibung = inCharBeschreibung.text; 
+	}
+
+
+	public void SerializeMidgardCharacter(){
+		Toolbox globalVars = Toolbox.Instance;
+		MidgardCharakter mChar = globalVars.mCharacter;
+
+		MidgardCharacterSaveLoad.Save (mChar);
 	}
 	#endregion
 }

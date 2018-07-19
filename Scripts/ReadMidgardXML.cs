@@ -546,7 +546,6 @@ public class UngewoehnlicheFertigkeiten{
 #endregion
 
 #region berufe
-
 public class Berufe{
 
 	[XmlElement("BerufeLand")]
