@@ -11,6 +11,7 @@ using System.IO;
 public static class MidgardCharacterSaveLoad {
 
 	public static List<MidgardCharakter> savedCharacters = new List<MidgardCharakter>();
+	public static MidgardCharakter chosenCharacter;
 
 	//it's static so we can call it from anywhere
 	public static bool Save(MidgardCharakter mCharacter) {

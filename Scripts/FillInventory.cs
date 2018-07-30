@@ -31,8 +31,7 @@ public abstract class FillInventory<T> : FillInventoryBase where T:InventoryDisp
 			_inventoryDisplayPrefab = Instantiate (inventoryDisplayPrefab) as SheetInventoryDisplay;
 		} else if (typeof(T) == typeof(BerufInventoryDisplay)) {
 			_inventoryDisplayPrefab = Instantiate (inventoryDisplayPrefab) as BerufInventoryDisplay;
-		}
-			
+		} 
 
 		_inventoryDisplayPrefab.name = panelName;
 		_inventoryDisplayPrefab.transform.SetParent (displayParent, false);

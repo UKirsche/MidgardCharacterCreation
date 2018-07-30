@@ -9,12 +9,11 @@ public class MidgardCharacterSheetManager : MonoBehaviour {
 	ausstrahlung, willenskraft, gewandtheit, zaubertalent, bewegungsweite, abwehr, raufen, zaubern, resPsy, resPhy, resPhk, ap, lp,ausdauerbonus,
 	abwehrbonus,schadensbonus,zauberbonus,angriffsbonus, sehen, hoeren, riechen, schmecken, tasten, sechstersinn, sonst, sonstUeberschrift;
 
-
-	protected MidgardCharakter mCharacter;
+	public MidgardCharakter mCharacter{ get; set;}
 	MidgardCharacterHelper characterHelper;
 
 	// Use this for initialization
-	public virtual void Start () {
+	void Start () {
 		Toolbox globalVars = Toolbox.Instance;
 		mCharacter = globalVars.mCharacter;
 		characterHelper = globalVars.mCharacterHelper;
@@ -26,7 +25,7 @@ public class MidgardCharacterSheetManager : MonoBehaviour {
 	/// <summary>
 	/// Sets the character values für den erzeugten MidgardCharakter
 	/// </summary>
-	protected void SetCharacterValues(){
+	public void SetCharacterValues(){
 		SetDemoskopieWerte ();
 		SetBasiseigenschaften ();
 		SetKampfWerte ();
