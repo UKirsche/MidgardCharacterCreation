@@ -10,11 +10,11 @@ public class MidgardCharacterSheetManager : MonoBehaviour {
 	abwehrbonus,schadensbonus,zauberbonus,angriffsbonus, sehen, hoeren, riechen, schmecken, tasten, sechstersinn, sonst, sonstUeberschrift;
 
 
-	MidgardCharakter mCharacter;
+	protected MidgardCharakter mCharacter;
 	MidgardCharacterHelper characterHelper;
 
 	// Use this for initialization
-	void Start () {
+	public virtual void Start () {
 		Toolbox globalVars = Toolbox.Instance;
 		mCharacter = globalVars.mCharacter;
 		characterHelper = globalVars.mCharacterHelper;
@@ -26,7 +26,7 @@ public class MidgardCharacterSheetManager : MonoBehaviour {
 	/// <summary>
 	/// Sets the character values für den erzeugten MidgardCharakter
 	/// </summary>
-	void SetCharacterValues(){
+	protected void SetCharacterValues(){
 		SetDemoskopieWerte ();
 		SetBasiseigenschaften ();
 		SetKampfWerte ();
