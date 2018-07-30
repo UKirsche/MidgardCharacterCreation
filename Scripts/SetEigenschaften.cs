@@ -565,7 +565,6 @@ public class SetEigenschaften : MonoBehaviour {
 	public void SerializeMidgardCharacter(){
 		Toolbox globalVars = Toolbox.Instance;
 		MidgardCharakter mChar = globalVars.mCharacter;
-
 		MidgardCharacterSaveLoad.Save (mChar);
 	}
 	#endregion

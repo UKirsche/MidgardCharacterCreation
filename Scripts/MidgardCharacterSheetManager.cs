@@ -17,7 +17,8 @@ public class MidgardCharacterSheetManager : MonoBehaviour {
 		Toolbox globalVars = Toolbox.Instance;
 		mCharacter = globalVars.mCharacter;
 		characterHelper = globalVars.mCharacterHelper;
-
+		//Lade Charaktere-> Neue werden on top auf alte gespeichert
+		MidgardCharacterSaveLoad.Load ();
 		SetCharacterValues ();
 	}
 	
