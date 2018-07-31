@@ -20,6 +20,8 @@ public class MidgardCharacterSavings{
 /// </summary>
 public static class MidgardCharacterSaveLoad {
 
+	private static string FILENAME = "midgardCharacters.gd";
+
 	public static MidgardCharacterSavings midgardSavings = new MidgardCharacterSavings();
 
 	//it's static so we can call it from anywhere
@@ -40,9 +42,9 @@ public static class MidgardCharacterSaveLoad {
 
 	public static bool Load() {
 		bool successDeserialize = true;
-		if(File.Exists("midgardCharacters.gd")) {
+		if(File.Exists(FILENAME)) {
 			BinaryFormatter bf = new BinaryFormatter();
-			FileStream file = File.Open("midgardCharacters.gd", FileMode.Open);
+			FileStream file = File.Open(FILENAME, FileMode.Open);
 			try {
 				MidgardCharacterSaveLoad.midgardSavings = (MidgardCharacterSavings)bf.Deserialize(file);
 				
@@ -60,7 +62,7 @@ public static class MidgardCharacterSaveLoad {
 		bool successSerialize = true;
 		BinaryFormatter bf = new BinaryFormatter ();
 		//Application.persistentDataPath is a string, so if you wanted you can put that into debug.log if you want to know where save games are located
-		FileStream file = File.Open ("midgardCharacters.gd", FileMode.OpenOrCreate);
+		FileStream file = File.Open (FILENAME, FileMode.OpenOrCreate);
 		//you can call it anything you want
 		try {
 			bf.Serialize (file, MidgardCharacterSaveLoad.midgardSavings);
