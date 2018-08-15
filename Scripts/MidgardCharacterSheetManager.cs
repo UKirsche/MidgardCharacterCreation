@@ -13,7 +13,7 @@ public class MidgardCharacterSheetManager : MonoBehaviour {
 	MidgardCharacterHelper characterHelper;
 
 	// Use this for initialization
-	void Start () {
+	public virtual void Start () {
 		Toolbox globalVars = Toolbox.Instance;
 		mCharacter = globalVars.mCharacter;
 		characterHelper = globalVars.mCharacterHelper;
